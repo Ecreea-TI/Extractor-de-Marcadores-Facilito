@@ -1370,11 +1370,11 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 15.79
+        "precioVenta": 15.49
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 16.99
+        "precioVenta": 16.69
       }
     ]
   },
@@ -9049,7 +9049,7 @@
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 18.79
+        "precioVenta": 18.69
       }
     ]
   },
@@ -10680,11 +10680,11 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 14.49
+        "precioVenta": 14.46
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 15.69
+        "precioVenta": 15.67
       },
       {
         "producto": "Diesel B5 S-50 UV",
@@ -13584,11 +13584,11 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 13.19
+        "precioVenta": 12.99
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 14.29
+        "precioVenta": 14.09
       },
       {
         "producto": "Diesel B5 S-50 UV",
@@ -13988,6 +13988,27 @@
       {
         "producto": "GASOHOL PREMIUM",
         "precioVenta": 14.95
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "84523",
+    "latitud": -12.047483,
+    "longitud": -77.05738,
+    "unidad": "GRIFO J.H.P. E.I.R.LTDA.",
+    "direccion": "AV. OSCAR R. BENAVIDES INTERSECCI�N JR. PRESBITERO G�SPAR HERN�NDEZ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 12.77
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 13.88
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.98
       }
     ]
   }
