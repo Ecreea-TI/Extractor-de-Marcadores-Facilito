@@ -1,0 +1,60 @@
+LIMA marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=84523
+
+LA LIBERTAD marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=10915
+
+ANCASH marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20800&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=153756
+
+APURIMAC marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=30000&provincia=30100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=100409
+
+AREQUIPA marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=40000&provincia=40100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=7387
+
+AYACUCHO marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=50000&provincia=50500&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=124262
+
+CAJAMARCA marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=60000&provincia=60100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=135254
+
+CUSCO marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=80000&provincia=80100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=37208
+
+HUANCAVELICA marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=90000&provincia=90100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=14487
+
+HUANUCO marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=100000&provincia=100100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=39235
+
+ICA marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=110000&provincia=110100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=94176
+
+JUNIN marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=120000&provincia=120100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=37791
+
+LAMBAYEQUE marcadores
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=140000&provincia=140100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=120374
+
+LORETO marcadores
+
+MADRE DE DIOS marcadores
+
+MOQUEGUA marcadores
+
+PASCO marcadores
+
+PIURA marcadores
+
+PROV. CONST. DEL CALLAO marcadores
+
+PUNO marcadores
+
+SAN MARTIN marcadores
+
+TACNA marcadores
+
+TUMBES marcadores
+
+UCAYALI marcadores
