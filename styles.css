@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #090328;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.main-title {
+    color: #00ffff;
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 0 0 10px 0;
+    font-weight: 600;
+    text-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+}
+
+.update-date {
+    color: #ffffff;
+    font-size: 1rem;
+    text-align: center;
+    margin: 0 0 20px 0;
+    opacity: 0.8;
+}
+
+.filters {
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 15px;
+    background: rgba(18, 18, 18, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.filters select {
+    padding: 8px 12px;
+    border: 1px solid #2d2d2d;
+    border-radius: 4px;
+    background: #1a1a1a;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    outline: none;
+    min-width: 180px;
+}
+
+.filters select:hover {
+    background: #2d2d2d;
+}
+
+.filters select:focus {
+    border-color: #3a3a3a;
+    box-shadow: 0 0 0 2px rgba(58, 58, 58, 0.2);
+}
+
+#map {
+    height: 600px;
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.popup-content {
+    font-family: Arial, sans-serif;
+}
+
+.station-info {
+    margin-bottom: 10px;
+}
+
+.price-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.price-table th,
+.price-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.price-table th {
+    background-color: #f4f4f4;
+}
+
+.price-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.station-tooltip {
+    font-size: 10px;
+    padding: 8px 12px;
+    color: #222;
+    border-radius: 6px;
+    line-height: 1.4;
+}
+
+.leaflet-control-layers-toggle {
+    width: 30px;
+    height: 30px;
+    background-size: 22px 22px;
+}
+
+.leaflet-control-layers label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.leaflet-control-layers label span {
+    font-size: 14px;
+}
