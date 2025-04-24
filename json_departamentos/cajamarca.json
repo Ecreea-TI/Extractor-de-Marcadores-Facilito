@@ -1,0 +1,1426 @@
+[
+  {
+    "codigoOsinergmin": "19863",
+    "latitud": -7.166308,
+    "longitud": -78.51162,
+    "unidad": "GLOBAL FUEL SOCIEDAD ANONIMA",
+    "direccion": "AV. INDEPENDENCIA N� 369",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.89
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "43846",
+    "latitud": -7.17286,
+    "longitud": -78.49937,
+    "unidad": "EL AS SERVICIOS GENERALES E.I.R.L.",
+    "direccion": "AV. SAN MARTIN N� 1250 ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.9
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "130420",
+    "latitud": -7.146598,
+    "longitud": -78.5082,
+    "unidad": "ESTACION DE SERVICIOS M&N S.A.C.",
+    "direccion": "AV. VIA DE EVITAMIENTO NORTE CUADRA 19 CON JR. EDUARDO RODRIGUEZ URB. ALAMEDA II ETAPA SECTOR 5",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.5
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.9
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "128940",
+    "latitud": -7.144731,
+    "longitud": -78.5112,
+    "unidad": "MALAVER SALAZAR ASOCIADOS  S.A.C",
+    "direccion": "ESQUINA AV. PROLONGACION REVILLA PEREZ CON AV. VIA DE EVITAMIENTO NORTE Y JR. CIRO ALEGRIA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8287",
+    "latitud": -7.1832986,
+    "longitud": -78.49148,
+    "unidad": "EL OVALO ESTACION & SERVICIOS GENERALES S.R.L - EL OVALO EST. & SERV. GENERALES S.R.L",
+    "direccion": "AV. SAN MARTIN DE PORRES N� 2475 - 2485 ESQ. CON JR. SAN CAMILO N� 307 - 317",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.4
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8916",
+    "latitud": -7.15189,
+    "longitud": -78.52293,
+    "unidad": "ESTACION DE SERVICIOS ANGELES STEACY S.R.L.",
+    "direccion": "JR. SARA MC DOUGALL N� 191",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.48
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8444",
+    "latitud": -7.1471114,
+    "longitud": -78.52421,
+    "unidad": "GRIFO CONTINENTAL S.A.C.",
+    "direccion": "JR. ANGAMOS N� 1108",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.5
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.0
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9186",
+    "latitud": -7.110368,
+    "longitud": -78.53433,
+    "unidad": "ESTACION DE SERVICIOS HUAMBOCANCHA",
+    "direccion": "KM. 5 CARRETERA BAMBAMARCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.4
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.2
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "89764",
+    "latitud": -7.1755304,
+    "longitud": -78.49032,
+    "unidad": "SERVICENTROPRIMAVERA SRL",
+    "direccion": "ESQUINA VIA DE EVITAMIENTO SUR Y JIRON SAN JUAN DE DIOS S/N BARRIO SAN MARTIN DE PORRES, SECTOR N� 10 ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.7
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.0
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "106321",
+    "latitud": -7.1589074,
+    "longitud": -78.506424,
+    "unidad": "GRIFOS ROYAL S.A.C.",
+    "direccion": "AV. VIA DE EVITAMIENTO SUR N� 2590 BARRIO LA COLMENA BAJA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.3
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "104988",
+    "latitud": -7.178268,
+    "longitud": -78.48667,
+    "unidad": "TOQUE DE MIDAS S.R.L.",
+    "direccion": "AV. V�A DE EVITAMIENTO SUR N� 2810 SECTOR 12 �SAN MART�N� BARRIO SAN MART�N DE PORRES",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.8
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.1
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "102115",
+    "latitud": -7.1287947,
+    "longitud": -78.523796,
+    "unidad": "GRIFO EL MAGNATE",
+    "direccion": "CARRETERA CAJAMARCA-BAMBAMARCA KM 2.5 CASERIO SAN FRANCISCO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.8
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.0
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "168370",
+    "latitud": -7.1796,
+    "longitud": -78.4998,
+    "unidad": "ESTACION DE SERVICIOS LA PAZ F.C.H. E.I.R.L.",
+    "direccion": "AV. LA PAZ CUADRA 20 S/N",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "62371",
+    "latitud": -7.18752,
+    "longitud": -78.5116,
+    "unidad": "GLOBAL FUEL S.A",
+    "direccion": "AV. INDEPENDENCIA S/N - SECTOR CRUZ BLANCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.89
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "146933",
+    "latitud": -7.214032,
+    "longitud": -78.502235,
+    "unidad": "ESTACION DE SERVICIOS EL GAVILAN S.A.C.",
+    "direccion": "CARRETERA CIUDAD DE DIOS � CAJAMARCA KM 169 + 595 � SECTOR SAN ANTONIO DE AGOMARCA (REF. A 500 M DEL CRUCE A PARIAMARCA)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.1
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "146480",
+    "latitud": -7.2099724,
+    "longitud": -78.5037,
+    "unidad": "REMIGIO BARRERA RIOS",
+    "direccion": "CASERIO AGOMARCA � CARRETERA CAJAMARCA PACASMAYO KM 6 (REF. A 120 M CRUCE CON CARRETERA A PARIAMARCA)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "36621",
+    "latitud": -7.148288,
+    "longitud": -78.52368,
+    "unidad": "GYN GRIFOS SA",
+    "direccion": "VIA DE EVITAMIENTO CON PROLONGACION ANGAMOS LOTE 28 URB. JARDIN",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.0
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.65
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.25
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "33366",
+    "latitud": -7.146695,
+    "longitud": -78.50039,
+    "unidad": "SERVICIOS MULTIPLES LAS TORRECITAS S.R.L.",
+    "direccion": "AV. RAFAEL HOYOS RUBIO N� 1589",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.19
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.29
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.69
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "155922",
+    "latitud": -7.144707,
+    "longitud": -78.51085,
+    "unidad": "GRIFOS CHAVEZ E.I.R.L.",
+    "direccion": "AV. VIA DE EVITAMIENTO NORTE NRO. 621 (ESQ. CON PROL. REVILLA PEREZ) SECTOR 06 BARRIO EL BOSQUE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.45
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.89
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "154240",
+    "latitud": -7.1512,
+    "longitud": -78.50665,
+    "unidad": "GRIFOS J & R SAN LUIS S.R.L.",
+    "direccion": "MZ. G LOTES 6 - 13 URB. SAN LUIS SEGUNDA ETAPA AV. VIA DE EVITAMIENTO NORTE CDRA. 16",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "153778",
+    "latitud": -7.184163,
+    "longitud": -78.49478,
+    "unidad": "ESTACION DE SERVICIOS SANTA MARGARITA S.R.L.",
+    "direccion": "ESQ. AV. INDUSTRIAL Y JR. VIRGEN DEL SOL",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "151648",
+    "latitud": -7.189913,
+    "longitud": -78.471344,
+    "unidad": "TRANSPORTES ACUARIO SAC",
+    "direccion": "U.C. N� 55725 PREDIO RUSTICO SUNCHUBAMBA SECTOR SUNCHUBAMBA CASER�O HUACARIZ (REF. CARRETERA CAJAMARA-SAN MARCOS A 100 M CRUCE CARRETERA A LA PACCHA)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.65
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.95
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "151469",
+    "latitud": -7.098183,
+    "longitud": -78.57227,
+    "unidad": "GRIFO FAYVE",
+    "direccion": "CARRETERA CAJAMARCA - BAMBAMARCA KM 10 HUAMBOCANCHA ALTA ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.0
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.0
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "148072",
+    "latitud": -7.145656,
+    "longitud": -78.508736,
+    "unidad": "CODELMAR SAC",
+    "direccion": "AV. VIA DE EVITAMIENTO NORTE N� 1829",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.4
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.88
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "134720",
+    "latitud": -7.175043,
+    "longitud": -78.49771,
+    "unidad": "GLOBAL FUEL S.A",
+    "direccion": "INTERSECCION AV. TAHUANTINSUYO Y AV. SAN MARTIN DE PORRES N� 1580 BARRIO SAN MARTIN DEPORRES",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.89
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "134236",
+    "latitud": -7.145417,
+    "longitud": -78.50894,
+    "unidad": "GRIFO CONTINENTAL S.A.C.",
+    "direccion": "VIA EVITAMIENTO NORTE S/N SECTOR 5 LA ALAMEDA 2DA ETAPA (CRUCE CON CA. FELIX MENDELSSOHN - A 01 CUADRA DE SUNAT)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.4
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.88
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "134062",
+    "latitud": -7.182841,
+    "longitud": -78.48128,
+    "unidad": "ESTACION DE SERVICIOS LEO RUIZ SRL",
+    "direccion": "PROL. AV. VIA DE EVITAMIENTO SUR-CARRETERA A JESUS BARRIO SAN MARTIN (FRENTE A PLANTA REVISION TECNICA)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.65
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.95
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9555",
+    "latitud": -7.145788,
+    "longitud": -78.51645,
+    "unidad": "MALAVER SALAZAR ASOCIADOS S.A.C.",
+    "direccion": "AV. EVITAMIENTO NORTE N� 1116, ESQUINA CON PASAJE JUAN PABLO II, LOTIZACION EL BOSQUE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9554",
+    "latitud": -7.1658134,
+    "longitud": -78.503235,
+    "unidad": "EL GUSHA",
+    "direccion": "AV. ATAHUALPA N� 554",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.79
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "167326",
+    "latitud": -7.047406,
+    "longitud": -78.59584,
+    "unidad": "ESTACION DE SERVICIOS JJR",
+    "direccion": "KM 24.5 - CARRETERA DE CAJAMARCA A BAMBAMARCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.95
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.95
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "171309",
+    "latitud": -7.155362,
+    "longitud": -78.50853,
+    "unidad": "ESTACION DE SERVICIOS VILLA SAN ROQUE E.I.R.L.",
+    "direccion": "INTERSECCION AV. MANUEL SEOANE Y PROLONGACION AYACUCHO SECTOR 10 URB. SAN ANTONIO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.8
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.95
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.98
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "124745",
+    "latitud": -7.1458616,
+    "longitud": -78.492966,
+    "unidad": "ESTACION DE SERVICIO  PETROBAZ",
+    "direccion": "CRUCE KM 03 CARRETERA CAJAMARCA � OTUZCO CON CARRETERA AL AEROPUERTO AV. RAFAEL HOYOS RUBIO -  PREDIO COLUMBO, FUNDO CUMBICANCHA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.27
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.57
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "175706",
+    "latitud": -7.198072,
+    "longitud": -78.50969,
+    "unidad": "GRIFOS EL GUITARRERO S.R.L.",
+    "direccion": "CARRETERA A LA COSTA KM. 5+400 (MARGEN IZQUIERDO), PREDIO AGOPAMPA, SECTOR AYLAMBO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "158945",
+    "latitud": -7.171798,
+    "longitud": -78.50618,
+    "unidad": "MALAVER SALAZAR ASOCIADOS S.A.C.",
+    "direccion": "AV. LA PAZ N� 906-908 ESQUINA JR. ARGENTINA N� 394-396-398",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "37557",
+    "latitud": -7.1909924,
+    "longitud": -78.50972,
+    "unidad": "GRIFO CONTINENTAL S.A.C.",
+    "direccion": "CARRETERA CAJAMARCA - CHILETE KM. 2 SECTOR SUR",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "37209",
+    "latitud": -7.16588,
+    "longitud": -78.50752,
+    "unidad": "SERVICENTRO EL CHE S.R.L.",
+    "direccion": "AV. ATAHUALPA N� 300",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.7
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "96884",
+    "latitud": -7.1455812,
+    "longitud": -78.5249,
+    "unidad": "GLOBAL FUEL S.A",
+    "direccion": "JR. ANGAMOS ESQUINA CON JR. 13 DE JULIO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.89
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "160630",
+    "latitud": -7.096705,
+    "longitud": -78.56979,
+    "unidad": "EMPRESA MULTISERVICIOS GENERALES 777 EL MAGNATE E.I.R.L.",
+    "direccion": "PREDIO SANTA ROSA II-SECTOR PORC�N BAJO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.3
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "160021",
+    "latitud": -7.15413,
+    "longitud": -78.49389,
+    "unidad": "ESTACION DE SERVICIOS MAR AZUL E.I.R.L.",
+    "direccion": "PREDIO AGRARIO N� 10 DE LA COOPERATIVA AGRARIA DE TRABAJADORES LOS AYLLUS",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7098",
+    "latitud": -7.1646037,
+    "longitud": -78.51143,
+    "unidad": "ANGELES ESTACIONES Y SERVICIOS S.R.L.",
+    "direccion": "AV. INDEPENDENCIA N� 288",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.39
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.98
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9427",
+    "latitud": -7.160875,
+    "longitud": -78.505135,
+    "unidad": "ESTACION DE SERVICIOS MY FRIEND SAC",
+    "direccion": "VIA EVITAMIENTO SUR N� 371 URB. LA RIVERA ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.39
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 17.26
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9287",
+    "latitud": -7.173611,
+    "longitud": -78.51286,
+    "unidad": "GRIFOS LAYZON S.A.C.",
+    "direccion": "AV. INDEPENDENCIA N� 1075",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "45393",
+    "latitud": -7.18412,
+    "longitud": -78.47948,
+    "unidad": ".......GRIFO HUACARIZ......",
+    "direccion": "CARRETERA CAJAMARCA - SAN MARCOS KM 1+950 SECTOR HUACARIZ DE SAN MARTIN",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "19865",
+    "latitud": -7.085562,
+    "longitud": -78.34335,
+    "unidad": "ESTACION DE SERVICIOS SANTA MARGARITA S.R.L.",
+    "direccion": "JR. JORGE VILLANUEVA S/N",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "110931",
+    "latitud": -7.033152,
+    "longitud": -78.40419,
+    "unidad": "EMPRESA J.R.E. HERMANOS S.R.L.",
+    "direccion": "U.C. 424 PREDIO RUSTICO LA ESTRELLA � VENTANILLAS DE COMBAYO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "155112",
+    "latitud": -7.11592,
+    "longitud": -78.33031,
+    "unidad": "MULTISERVICIOS ESJARO & GRIFOS S.R.L.",
+    "direccion": "CARRETERA ASFALTADA CAJAMARCA-ENCA�ADA-CELENDIN, KM 27.4 - CENTRO POBLADO POLLOC",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.4
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "111422",
+    "latitud": -7.248717,
+    "longitud": -78.38274,
+    "unidad": "JOSE ISIDRO SOLORZANO CERNA",
+    "direccion": "ESQUINA JR. AREQUIPA CON JR. FRANCISCO RUIZ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.95
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.95
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "179339",
+    "latitud": -7.228055,
+    "longitud": -78.414345,
+    "unidad": "GRUPO SILVA SANTISTEBAN S.R.L.",
+    "direccion": "PROGRESIVA KM 4+932 - CARRETERA JES�S A CAJAMARCA, CASERIO YANAMANGO, C.P. LA HUARACLLA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "160798",
+    "latitud": -7.20158,
+    "longitud": -78.45474,
+    "unidad": "EL OVALO ESTACION & SERVICIOS GENERALES S.R.L - EL OVALO EST. & SERV. GENERALES S.R.L",
+    "direccion": "CARRETERA A JESUS - CAJAMARCA KM 1264+145 CASERIO LA COLLPA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.9
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.2
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "64435",
+    "latitud": -7.204144,
+    "longitud": -78.43438,
+    "unidad": "GRIFOS LLACANORA",
+    "direccion": "CARRETERA CAJAMARCA - SAN MARCOS KM 7.5",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.4
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "172248",
+    "latitud": -7.2218,
+    "longitud": -78.4265,
+    "unidad": "TESCA PETROL STATION S.R.L.",
+    "direccion": "PREDIO EL PARAIZO - U.C. N� 6547- SECTOR YANAMARCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "174720",
+    "latitud": -7.2040296,
+    "longitud": -78.433395,
+    "unidad": "ABANTO TORRES OLINDA MERCEDES",
+    "direccion": "KM. 7 CARRETERA LLACANORA FRENTE A PLANTA DE CEMENTOS PACASMAYO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.65
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "125961",
+    "latitud": -7.165097,
+    "longitud": -78.47413,
+    "unidad": "GRIFO SOL DE VILLA",
+    "direccion": "CARRETERA CAJAMARCA - BA�OS DEL INCA KM 5.2",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.9
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "125901",
+    "latitud": -7.136571,
+    "longitud": -78.475624,
+    "unidad": "GRIFO OTUZCO S.R.L.",
+    "direccion": "PROLONGACION AV. ARMANDO REVOREDO IGLESIAS S/N, CARRETERA CAJAMARCA � OTUZCO KM 5, CENTRO POBLADO OTUZCO BAJO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.0
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.2
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "147466",
+    "latitud": -7.169686,
+    "longitud": -78.45751,
+    "unidad": "JHARUT ENERGY GAS E.I.R.L",
+    "direccion": "CARRETERA LOS BA�OS DEL INCA � LLACANORA ESQUINA CON JR. ZEPITA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.0
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.4
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "138639",
+    "latitud": -7.149936,
+    "longitud": -78.44411,
+    "unidad": "EMPRESA MULTISERVICIOS GENERALES DUQUE JAN EL MAGNATE E.I.R.L.",
+    "direccion": "CARRETERA CAJAMARCA - CELENDIN SECTOR CHIMCHIM CHUQUIPUQUIO (AV. MANCO CAPAC REF. A 01 KM SALIDA CP PUYLLUCANA)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.1
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "132344",
+    "latitud": -7.122502,
+    "longitud": -78.45183,
+    "unidad": "ESTASER G & S S.A.C.",
+    "direccion": "CARRETERA CAJAMARCA � COMBAYO KM 8.2 SECTOR LA RINCONADA DE OTUZCO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "171198",
+    "latitud": -7.135269,
+    "longitud": -78.4668,
+    "unidad": "INVERSIONES CGR E.I.R.L.",
+    "direccion": "CAR.CAJAMARCA-C.P. OTUZCO KM. 8.2 MZ A LOTE S/N C.P. BAJO OTUZCO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.19
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "124541",
+    "latitud": -7.151716,
+    "longitud": -78.45416,
+    "unidad": "JHARUT ENERGY GAS E.I.R.L",
+    "direccion": "ESQUINA JR. 25 DE DICIEMBRE CON JR. PUYLUCANA CENTRO POBLADO PUYLUCANA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.2
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "123617",
+    "latitud": -7.116028,
+    "longitud": -78.444405,
+    "unidad": "ESTACION DE SERVICIOS MARYFE S.R.L.",
+    "direccion": "AV. PRINCIPAL VENTANILLAS DE OTUZCO KM 11 SECTOR LA RINCONADA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.3
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "18388",
+    "latitud": -7.16463,
+    "longitud": -78.475204,
+    "unidad": "GRIFO EL PORONGO",
+    "direccion": "CARRETERA BA�OS DEL INCA KM 05",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.15
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "165760",
+    "latitud": -7.120694,
+    "longitud": -78.45296,
+    "unidad": "GESTION DE PROCESOS DE NEGOCIO S.R.L.",
+    "direccion": "SECTOR RINCONADA DE OTUZCO - CENTRO POBLADO MENOR DE OTUZCO, SECTOR LA CONGONA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "6927",
+    "latitud": -7.16459,
+    "longitud": -78.4662,
+    "unidad": "JORGE AMADO GUTIERREZ ESAINE",
+    "direccion": "AV. MANCO CAPAC N� 375",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.69
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.89
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.64
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "107456",
+    "latitud": -7.271059,
+    "longitud": -78.62287,
+    "unidad": "GRIFO PECSA HUANA HUANA",
+    "direccion": "CARRETERA CAJAMARCA � MAGDALENA KM 119 CAS. HUANA HUANA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.12
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "137386",
+    "latitud": -7.251268,
+    "longitud": -78.65661,
+    "unidad": "ESTACION DE SERVICIOS C L S.A.C.",
+    "direccion": "AV. JORGE CHAVEZ S/N SECTOR LA GRANADA (CARRETERA CAJAMARCA-CIUDAD DE DIOS - REF. A 100 M COMISARIA MAGDALENA)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.35
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "171454",
+    "latitud": -7.279,
+    "longitud": -78.6026,
+    "unidad": "GRIFO LLAGADEN S.R.L.",
+    "direccion": "SECTOR LLAGADEN KM 123-CHOROPAMPA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.32
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.98
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.46
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "97217",
+    "latitud": -7.294084,
+    "longitud": -78.59017,
+    "unidad": "ESTACION DE GASOLINA JESUS DE NAZARERTH SRL",
+    "direccion": "CARRETERA CIUDAD DE DIOS - CAJAMARCA KM. 126, CENTRO POBLADO SAN SEBASTIAN DE CHOROPAMPA ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.3
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "137326",
+    "latitud": -7.250218,
+    "longitud": -78.25935,
+    "unidad": "GRIFOS MATARA EIRL",
+    "direccion": "CARRETERA CAJAMARCA SAN MARCOS SECTOR SAN JUAN � PREDIO U.C. N� 56646 (REF. A 300 M INGRESO A MATARA)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.49
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "82221",
+    "latitud": -7.197253,
+    "longitud": -78.34062,
+    "unidad": "ESTACION DE SERVICIOS VILLANUEVA E.I.R.L.",
+    "direccion": "PROLONGACION 14 DE AGOSTO, KM. 23+997, CARRETERA CAJAMARCA - CAJABAMBA ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "94659",
+    "latitud": -7.200724,
+    "longitud": -78.32643,
+    "unidad": "GRIFOS L.V. E.I.R.L",
+    "direccion": "JR. EL PORVENIR S/N, CASERIO OJO DE AGUA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 17.1
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.9
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "45166",
+    "latitud": -6.559796,
+    "longitud": -78.66412,
+    "unidad": "TRANSPORTES & GRIFOS ROSALES E.I.R.L.",
+    "direccion": "CARRETERA PACASMAYO - CAJAMARCA KM. 143",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.1
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.3
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "135254",
+    "latitud": -7.144945,
+    "longitud": -78.50964,
+    "unidad": "CODELMAR S.A.C.",
+    "direccion": "AV. VIA DE EVITAMIENTO NORTE MZA. L LOTE 3 URB. LA ALAMEDA II ETAPA (REF. A 02 CUADRAS SUNAT)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.4
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.88
+      }
+    ]
+  }
+]

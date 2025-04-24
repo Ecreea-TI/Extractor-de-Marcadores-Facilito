@@ -1,0 +1,2925 @@
+[
+  {
+    "codigoOsinergmin": "7970",
+    "latitud": -6.7782187,
+    "longitud": -79.866844,
+    "unidad": "PETRO BRISAS E.I.R.L",
+    "direccion": "ESQUINA AVENIDA NACIONALISMO N� 540 Y AVENIDA EL CARMEN URB.LAS BRISAS",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.7
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7954",
+    "latitud": -6.76779,
+    "longitud": -79.84174,
+    "unidad": "REPSOL COMERCIAL SAC",
+    "direccion": "AV. PEDRO RUIZ NRO. 605 INTERSECCI�N CON AV. LUIS GONZALES",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.95
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 19.85
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 18.79
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7661",
+    "latitud": -6.77656,
+    "longitud": -79.87029,
+    "unidad": "LOZANO JIMENEZ MARIA ANTONIETA",
+    "direccion": "AV. JUAN TOMIS STACK N� 1045",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "163559",
+    "latitud": -6.7999,
+    "longitud": -79.85649,
+    "unidad": "CORPORACION FERRETERA DEL NORTE S.A.C.",
+    "direccion": "PREDIO CHACUPE, VALLE CHANCAY LAMBAYEQUE, SECTOR CHACUPE, U.C. 108780",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.29
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.49
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "163243",
+    "latitud": -6.77293,
+    "longitud": -79.80462,
+    "unidad": "ESTACIONES Y SERVICIOS MHT EIRL",
+    "direccion": "CARRETERA CHICLAYO �POMALCA KM 04 PUEBLO JOVEN SAN F�LIX MZ. E LOTE NRO. 1",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.75
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8849",
+    "latitud": -6.774134,
+    "longitud": -79.81408,
+    "unidad": "SAN SEBASTIAN GAS STATION E.I.R.L.",
+    "direccion": "KM. 2.5 CARRETERA CHICLAYO � POMALCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "85151",
+    "latitud": -6.77056,
+    "longitud": -79.8554,
+    "unidad": "MEGA GAS SAC",
+    "direccion": "AV. SALAVERRY 490 - URB. PATAZCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.45
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.39
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "84666",
+    "latitud": -6.7692466,
+    "longitud": -79.85109,
+    "unidad": "ENERGY GASS SRL",
+    "direccion": "CALLE LORETO 215 ZONA INDUSTRIAL PATAZCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.2
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8979",
+    "latitud": -6.772346,
+    "longitud": -79.863396,
+    "unidad": "COESTI S.S EESS SANTA ELENA",
+    "direccion": " AV JUAN TOMIS STACK N� 205 ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.85
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "102685",
+    "latitud": -6.7524962,
+    "longitud": -79.8109,
+    "unidad": "ESTACION DE SERVICIO GGOCTA S.R.L.",
+    "direccion": "KM 2+350 VIA CHICLAYO-FERRE�AFE, MARGEN DERECHA UC 032 PREDIO CASA BLANCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.79
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.39
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "16811",
+    "latitud": -6.775535,
+    "longitud": -79.86953,
+    "unidad": "AERO GAS DE NORTE S.A.C.",
+    "direccion": "AVENIDA JUAN TOMIS STACK NRO. 1040-A",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "14559",
+    "latitud": -6.7713776,
+    "longitud": -79.79382,
+    "unidad": "E.S. POMALCA. INV. CARUAJULCA SRL",
+    "direccion": "CARRETERA CHICLAYO - POMALCA KM. 3,7",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.1
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8675",
+    "latitud": -6.7569895,
+    "longitud": -79.86261,
+    "unidad": "GLOBAL FUEL S.A. EE SS SANTO TORIBIO",
+    "direccion": "AV. PANAMERICANA NORTE N� 1006 (ANTES LADO NOROESTE DE LA INTERS. AV A.B. LEGUIA Y LA CARRETERA PANAMERICANA NORTE)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "85900",
+    "latitud": -6.773211,
+    "longitud": -79.812355,
+    "unidad": "GRUPO PETROCA�A S.A.C.",
+    "direccion": "CARRETERA CHICLAYO POMALCA KM 3.00 SECTOR SAMAN",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.1
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "107917",
+    "latitud": -6.7881975,
+    "longitud": -79.87008,
+    "unidad": "ESTACION DE SERVICIOS SANTUARIO E.I.R.L.",
+    "direccion": "AV. PROLONGACION BOLOGNESI KM. 03",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.55
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "138640",
+    "latitud": -6.7807946,
+    "longitud": -79.8557,
+    "unidad": "CAX PETROL E.I.R.L.",
+    "direccion": "PROLONGACI�N AVENIDA BOLOGNESI INTERSEC. AVENIDA CAJAMARCA CAMPI�A AGRICOLA CHICLAYO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.55
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "137905",
+    "latitud": -6.769479,
+    "longitud": -79.85203,
+    "unidad": "CORPORACION FERRETERA DEL NORTE S.A.C. ",
+    "direccion": "AV. FRANCISCO CUNEO N� 775",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "136779",
+    "latitud": -6.780862,
+    "longitud": -79.85643,
+    "unidad": "GRIFOS SANTA YSABEL",
+    "direccion": "SUB LOTE 4A - FUNDO POLOLO (INTERSECCI�N AV. PROLONGACION BOLOGNESI Y CALLE AREQUIPA)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.55
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "135583",
+    "latitud": -6.770554,
+    "longitud": -79.851204,
+    "unidad": "AERO GAS DEL NORTE SAC",
+    "direccion": "AV. SALAVERRY NRO. 595 - PJ JOS� OLAYA ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.35
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "35859",
+    "latitud": -6.77345,
+    "longitud": -79.85754,
+    "unidad": "PAS S.R.L.",
+    "direccion": "ELVIRA GARC�A Y GARC�A N� 359 PP.JJ. JOSE OLAYA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.98
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "15415",
+    "latitud": -6.77658,
+    "longitud": -79.84428,
+    "unidad": "COESTI S.A.  EESS PALMERAS",
+    "direccion": "ESQUINA AVENIDA BOLOGNESI Y AVENIDA GRAU S/N",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.79
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7376",
+    "latitud": -6.77539,
+    "longitud": -79.84017,
+    "unidad": "PUNTO GAS S.A.C.",
+    "direccion": "AV. FRANCISCO BOLOGNESI N� 390",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.88
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.09
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.58
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7150",
+    "latitud": -6.763878,
+    "longitud": -79.83763,
+    "unidad": "ESTACION DE SERVICIO MODELO S.A.C.",
+    "direccion": "AV. JOSE BALTA N� 1712",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.79
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "150208",
+    "latitud": -6.77952,
+    "longitud": -79.84988,
+    "unidad": "GRIFO RODRIGO VG E.I.R.L.",
+    "direccion": "PROLONGACI�N AV LAS AMERICAS S/N CUADRA 10",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.55
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "148527",
+    "latitud": -6.738842,
+    "longitud": -79.79226,
+    "unidad": "INVERSIONES MIGUEL ANGELO E.I.R.L.",
+    "direccion": "CARRETERA CHICLAYO- FERRE�AFE KM 05 SECTOR QUEFE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.69
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9587",
+    "latitud": -6.781804,
+    "longitud": -79.83371,
+    "unidad": "AERO GAS DEL NORTE",
+    "direccion": "AV. VICTOR RAUL HAYA DE LA TORRE NRO. 539",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.75
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "16720",
+    "latitud": -6.769812,
+    "longitud": -79.84574,
+    "unidad": "ESTACION DE SERVICIOS FORMULA UNO SAC",
+    "direccion": "AVENIDA EUFEMIO LORA Y LORA, PASAJE ITURREGUI Y CALLE FRANCISCO CUNEO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 17.25
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 18.0
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "16672",
+    "latitud": -6.778923,
+    "longitud": -79.83887,
+    "unidad": "COESTI S.A.- ESSANTAVICTORIA",
+    "direccion": "AV. JOSE BALTA N� 012 Y CALLE LAS CASUARINAS N� 120",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.29
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.69
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 17.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "170951",
+    "latitud": -6.77531,
+    "longitud": -79.83386,
+    "unidad": "ESTACION DE SERVICIOS ROYAL PRIX",
+    "direccion": "CALLE MARISCAL NIETO NRO. 300 ESQUINA CON CALLE FAUSTINO SARMIENTO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "170770",
+    "latitud": -6.752022,
+    "longitud": -79.86664,
+    "unidad": "PETROLCIX E.I.R.L.",
+    "direccion": "CARRETERA PANAMERICANA NORTE KM. 789.5 - INTERSECCION CON AV. VENEZUELA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.39
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.39
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "122345",
+    "latitud": -6.76747,
+    "longitud": -79.8708,
+    "unidad": "DIXOC QUIMIC E.I.R.L.",
+    "direccion": "MZ C LT 7 Y 8 ASENTAMIENTO HUMANO SIMON BOLIVAR ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.35
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "174655",
+    "latitud": -6.78226,
+    "longitud": -79.85737,
+    "unidad": "PAMY PLUSH S.A.C",
+    "direccion": "SECTOR LAS PAMPAS",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.55
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "20978",
+    "latitud": -6.78726,
+    "longitud": -79.84765,
+    "unidad": "COMBUSTIBLES EL CARMEN SAC",
+    "direccion": "AV. HIPOLITO UNANUE N� 300",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.49
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "98643",
+    "latitud": -6.786397,
+    "longitud": -79.86768,
+    "unidad": "COESTI GASCOP CHICLAYO",
+    "direccion": "FUNDO LA ESPERANZA (ESQUINA SUR OESTE) CRUCE EVITAMIENTO Y PROLONGACION AV BOLOGNESI",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "142507",
+    "latitud": -6.765133,
+    "longitud": -79.85852,
+    "unidad": "BUSTAMANTE CABRERA DIANA CANDY",
+    "direccion": "AV. FERNANDO BELAUNDE TERRY MZ. E � LOTES 1, 26, 27 Y 28 DEL P.J. AMPLIACI�N TUPAC AMARU",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "140070",
+    "latitud": -6.776635,
+    "longitud": -79.83531,
+    "unidad": "ESTACIONES GRAN PRIX E.I.R.L.",
+    "direccion": "AV. INCA GARCILAZO DE LA VEGA NRO. 905",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "97017",
+    "latitud": -6.772305,
+    "longitud": -79.80566,
+    "unidad": "GRIFO SEOR DE SIPAN  E.I.R.L",
+    "direccion": "CARRETERA CHICLAYO - POMALCA KM 3.5",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.75
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "165774",
+    "latitud": -6.763317,
+    "longitud": -79.87491,
+    "unidad": "ESTACION DE SERVICIOS PERU NORT S.R.L.",
+    "direccion": "AV. PAC�FICO S/N LOTE COMERCIAL 8 Y 9  URB CIUDAD DEL CHOFER",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "164805",
+    "latitud": -6.7612147,
+    "longitud": -79.847916,
+    "unidad": "COMBUSTIBLES FERNANDEZ S.A.C.",
+    "direccion": "ESQUINA AV. AUGUSTO B. LEGUIA Y AV SALAS MZ G LOTE 19",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.39
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.39
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "19928",
+    "latitud": -6.7699556,
+    "longitud": -79.85471,
+    "unidad": "INVERSIONES JEM  S.A.C",
+    "direccion": "AV. SALAVERRY NRO. 930 - URB. PATAZCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.49
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.69
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.29
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9474",
+    "latitud": -6.7727885,
+    "longitud": -79.80803,
+    "unidad": "ESTACION DE SERVICIOS SAN JOSE S.A.C.",
+    "direccion": "KM 3.25 CARRETERA CHICLAYO - POMALCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.09
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.65
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9344",
+    "latitud": -6.779201,
+    "longitud": -79.8355,
+    "unidad": "LIMABANDA S.A.C.",
+    "direccion": "AV. VICTOR RAUL HAYA DE LA TORRE 250 ESQUINA CON CALLE LA FLORIDA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.85
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.4
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9337",
+    "latitud": -6.7756,
+    "longitud": -79.83842,
+    "unidad": "MULTISERVICIOS CHICLAYO S.R.L.",
+    "direccion": "AV. BOLOGNESI N� 690",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.89
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.09
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "92154",
+    "latitud": -6.7611046,
+    "longitud": -79.85431,
+    "unidad": "GLMAR S.A.C.",
+    "direccion": "AV. ELVIRA GARC�A Y GARC�A NRO. 298 - URB. PATAZCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.55
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "44604",
+    "latitud": -6.7842617,
+    "longitud": -79.86773,
+    "unidad": "COESTI S.A  ES LA PURISIMA",
+    "direccion": "INTERSECCION VIA DE EVITAMIENTO Y PROLONGACION AV. BOLOGNESI",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.89
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.69
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.55
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "125968",
+    "latitud": -6.625881,
+    "longitud": -79.332794,
+    "unidad": "EE.SS. DON ROQUE",
+    "direccion": "PREDIO RUSTICO HUANABAL S/N, COMUNIDAD CAMPESINA SANTA CATALINA ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.8
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.95
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.7
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8910",
+    "latitud": -6.6341696,
+    "longitud": -79.39871,
+    "unidad": "INVERSIONES Y TRANSPORTES OSITO S.A.C",
+    "direccion": "AV. CHICLAYO N� 3000",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "83002",
+    "latitud": -6.640448,
+    "longitud": -79.3906,
+    "unidad": "DIAZ TARRILLO ALEX",
+    "direccion": "AV. CHICLAYO N� 1925 - CERCADO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "175847",
+    "latitud": -6.63139,
+    "longitud": -79.40188,
+    "unidad": "ESTACION DE SERVICIOS TLAM E.I.R.L.",
+    "direccion": "CARRETERA CHICLAYO CHONGOYAPE KM 63+700 SECTOR PAREDONES",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.7
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.0
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "144379",
+    "latitud": -6.629176,
+    "longitud": -79.40846,
+    "unidad": "INVERSIONES NANDO S.A.C.",
+    "direccion": "CARRETERA CHICLAYO - CHONGOYAPE KM. 62+900 SECTOR JUANA RIOS",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.4
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.7
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "40427",
+    "latitud": -6.8955793,
+    "longitud": -79.79383,
+    "unidad": "ESTACION DE SERVICIOS PIAMONTE S.A.C.",
+    "direccion": "CARRETERA PANAMERICANA NORTE KM. 753.9",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.6
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.34
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.29
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8897",
+    "latitud": -6.905942,
+    "longitud": -79.86665,
+    "unidad": "ANGELES HNOS SAC.",
+    "direccion": "AV. 8 DE OCTUBRE N� 330 - CIUDAD ETEN",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9436",
+    "latitud": -6.9259477,
+    "longitud": -79.86281,
+    "unidad": "CESAR ANGELES MILLONES",
+    "direccion": "PROLONGACION DIEGO FERRE N� 849",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8911",
+    "latitud": -6.74862,
+    "longitud": -79.84984,
+    "unidad": "ESTACION DE SERVICIOS GAMEZ E.I.R.L",
+    "direccion": " AV. LAMBAYEQUE / CALLE SAN FERNANDO N� 299 P.J. SANTA ANA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.65
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "88316",
+    "latitud": -6.75422,
+    "longitud": -79.8157,
+    "unidad": "EMPRESA SERVICIOSS MULTIPLES MI TELITA S.R.L.",
+    "direccion": "MZ. B, LOTE 14 Y 15 PUEBLO JOVEN LA EXPLANADA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9123",
+    "latitud": -6.7548437,
+    "longitud": -79.83844,
+    "unidad": "AERO GAS DEL NORTE S.A.C.",
+    "direccion": "CALLE HUASCAR N� 988 - URRUNAGA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.95
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.19
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.65
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "105325",
+    "latitud": -6.7472167,
+    "longitud": -79.8553,
+    "unidad": "GRUPO RENOR S.R.L.",
+    "direccion": "AV. LAMBAYEQUE NRO. 1100 � C.P. SANTA ANA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.49
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "105171",
+    "latitud": -6.755808,
+    "longitud": -79.83873,
+    "unidad": "COMERCIAL MEXICO E IMPORTACIONES EIRL",
+    "direccion": "CALLE HUASCAR N� 898 INTERCCION CON LA AV. MEXICO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 12.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "104348",
+    "latitud": -6.752518,
+    "longitud": -79.85769,
+    "unidad": "ESTACION DE SERVICIOS SANTA ANGELA SAC",
+    "direccion": "AV. VENEZUELA Y AV. LA DESPENSA MZ. N LOTE 08 - SALAMANCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.39
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "120556",
+    "latitud": -6.7469873,
+    "longitud": -79.86713,
+    "unidad": "INVERSIONES Y SERVICIOS ALEX & LALITO EIRL",
+    "direccion": "AV. EUFEMIO LORA Y LORA N� 2450",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8695",
+    "latitud": -6.7486696,
+    "longitud": -79.84692,
+    "unidad": "GRIFO CL HNOS SRL",
+    "direccion": "AV. LAMBAYEQUE N� 598 PUEBLO JOVEN RAMIRO PRIALE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.49
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.89
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8587",
+    "latitud": -6.7567453,
+    "longitud": -79.820274,
+    "unidad": "EESS MI AMANDITA",
+    "direccion": "AV. AGRICULTURA N� 1101 AA.HH. VILLA HERMOSA (ANTES AV. AGRICULTURA ESQ. CON AV. LAMBAYEQUE)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.49
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.29
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "135816",
+    "latitud": -6.756006,
+    "longitud": -79.83345,
+    "unidad": "ESTACI�N DE SERVICIOS LIDER S.R.L.",
+    "direccion": "AV. M�XICO NRO. 274",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.39
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "33372",
+    "latitud": -6.746726,
+    "longitud": -79.83573,
+    "unidad": "ESTACION DE SERVICIOS PECOLINE S.R.L.",
+    "direccion": "INTERSECCION AV. CHICLAYO  Y AV. BALTA, UPIS 1� DE MAYO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.09
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "150810",
+    "latitud": -6.7475305,
+    "longitud": -79.85684,
+    "unidad": "ESTACION DE SERVICIO SALAMANCA II S.A.C.",
+    "direccion": "MZ. A LOTE 04, 05, 06, 07 Y 08 URB. SALAMANCA- II ETAPA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.69
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.89
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "131257",
+    "latitud": -6.7524495,
+    "longitud": -79.8438,
+    "unidad": "OPERADOR LOGISTICO HALCON ROJO S.AC",
+    "direccion": "ESQUINA AV. ARGENTINA CON CALLE COLOMBIA ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.69
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "16715",
+    "latitud": -6.754642,
+    "longitud": -79.85001,
+    "unidad": "INVERSIONES SERVICENTRO GAEL E.I.R.L.",
+    "direccion": "ESQUINA MARIANO CORNEJO NRO. 698 Y AV. MEXICO NRO. 3191",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.69
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.79
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "17895",
+    "latitud": -6.762732,
+    "longitud": -79.830475,
+    "unidad": "COMBUSTIBLES FERNANDEZ S.A.C.",
+    "direccion": "PROLONGACI�N AV. JOS� QUI�ONES NRO. 1165 - 1175, URBANIZACI�N LAS MERCEDES",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.2
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "21325",
+    "latitud": -6.75518,
+    "longitud": -79.85037,
+    "unidad": "ESTACION DE SERVICIO SAN FRANCISCO S.R.L.",
+    "direccion": "AV. MARIANO CORNEJO N� 600",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.79
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "99881",
+    "latitud": -6.7582736,
+    "longitud": -79.8287,
+    "unidad": "GASOLINERA LINECO E.I.R.L.",
+    "direccion": "AV. JORGE CHAVEZ N� 321 PP.JJ FRANCISCO CABRERA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.79
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "114600",
+    "latitud": -6.762506,
+    "longitud": -79.83037,
+    "unidad": "GRIFOS GRAN PRIX SAC",
+    "direccion": "MZA. �R� LOTE 09 � PUEBLO JOVEN LAS MERCEDES ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.79
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.2
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "112175",
+    "latitud": -6.759194,
+    "longitud": -79.824615,
+    "unidad": "GLPENERGIA S.A.C",
+    "direccion": "FUNDO CASA BLANCA Y SARAN KM. 02 CARRETERA A FERRE�AFE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.2
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "44661",
+    "latitud": -6.748049,
+    "longitud": -79.83312,
+    "unidad": "GASOCENTRO VISTA ALEGRE S.A.C.",
+    "direccion": "INTERSECCION DE LA AV. CHICLAYO CON CALLE SAN MARTIN N� 1801 URB. CARLOS STEIN CHAVEZ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "127630",
+    "latitud": -6.800111,
+    "longitud": -79.83314,
+    "unidad": "GRUPO LEO GAS S.R.L.",
+    "direccion": "AV. GRAN CHIMU Y HUAYNA CAPAC N� 1695",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.19
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "100259",
+    "latitud": -6.80109,
+    "longitud": -79.85028,
+    "unidad": "COMPA�IA PERUANA DE PETROLEO GAS Y GASOLINA S.A.C.",
+    "direccion": "AV. GRAN CHIMU MZ. C LOTE 12 INTERSECCION CON AV. MIGUEL GRAU",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.69
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "16780",
+    "latitud": -6.7884293,
+    "longitud": -79.84456,
+    "unidad": "REPSOL COMERCIAL S.A.C.",
+    "direccion": "AV. LOS INCAS N� 100, LOTE 14 Y 14A, MZ. O - SECTOR 1",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 18.75
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 20.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 19.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "14563",
+    "latitud": -6.80208,
+    "longitud": -79.83033,
+    "unidad": "ESTACION DE SERVICIOS PECOLINE S.R.L.",
+    "direccion": "AV. VICTOR RAUL HAYA DE LA TORRE N� 2600 ESQUINA CON AV. SACSAHUAMAN",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.29
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.79
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "145039",
+    "latitud": -6.8067226,
+    "longitud": -79.83211,
+    "unidad": "ESTACION DE SERVICIOS MI ROSITA E.I.R.L",
+    "direccion": "PROLONGACION AV. MANUEL SEOANE Y CALLE 02 (LIMA) - SECTOR TOCNOPE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8696",
+    "latitud": -6.7912464,
+    "longitud": -79.84966,
+    "unidad": "COESTI S.A   EESS NOVOGAS",
+    "direccion": "AV. LOS INCAS N� 270",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.39
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.39
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.29
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "31936",
+    "latitud": -6.79679,
+    "longitud": -79.83368,
+    "unidad": "AEROGAS DEL NORTE S.A.C.",
+    "direccion": "AV. LOS ANDES CON ESQUINA ANTENOR ORREGO N� 1387",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.95
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.19
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.69
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "15232",
+    "latitud": -6.801078,
+    "longitud": -79.839455,
+    "unidad": "COMBUSTIBLES LA VICTORIA EIRL",
+    "direccion": "AV. LOS INCAS NRO. 1198 CON LA AV. GRAN CHIMU",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 19.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7183",
+    "latitud": -6.818662,
+    "longitud": -79.82983,
+    "unidad": "AEEO GAS DEL NORTE SAC",
+    "direccion": "CARRETERA PANAMERICANA NORTE KM 764 + 190 M SECTOR CHOSICA DEL NORTE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.25
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.45
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "167020",
+    "latitud": -6.815801,
+    "longitud": -79.85399,
+    "unidad": "MAINA ESTACIONES DE SERVICIOS SOCIEDAD ANONIMA CERRADA",
+    "direccion": "AV. PROLONGACION MIGUEL GRAU CON CA. SAN MARTIN PREDIO CHACUPE U.C. 12079",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.89
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "121854",
+    "latitud": -6.79751,
+    "longitud": -79.8354,
+    "unidad": "CABRERA PEREZ JUAN HELI",
+    "direccion": "CALLE PACHACUTEC NRO. 1405",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.79
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.29
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "39227",
+    "latitud": -6.815493,
+    "longitud": -79.83,
+    "unidad": "REPSOL COMERCIAL S.A.C.",
+    "direccion": "AV. VICTOR RAUL HAYA DE LA TORRE N� 3240",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 19.75
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 20.85
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 18.79
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "37760",
+    "latitud": -6.789471,
+    "longitud": -79.84657,
+    "unidad": "ESTACION DE SERVICIO ROMAR SAC",
+    "direccion": "AV. CHINCHAYSUYO N� 1485",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.29
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "18446",
+    "latitud": -6.833417,
+    "longitud": -79.82971,
+    "unidad": "VIPETROS S.A.C",
+    "direccion": "PANAMERICANA NORTE KM 762",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.29
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "160235",
+    "latitud": -6.8035054,
+    "longitud": -79.83263,
+    "unidad": "CORPORACION FERRETERA DEL NORTE S.A.C.",
+    "direccion": "AV. PAUL HARRIS NRO. 1995",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.29
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.49
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9259",
+    "latitud": -6.794056,
+    "longitud": -79.83285,
+    "unidad": "CESAR BELIZARIO LEON DELGADO ",
+    "direccion": "LOS AMAUTAS N� 215",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.75
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "61860",
+    "latitud": -6.7995315,
+    "longitud": -79.83096,
+    "unidad": "GRUPO DE GESTION C S.A.",
+    "direccion": "AV. VICTOR RAUL HAYA DE LA TORRE N� 2396 MZ 1 LT 5",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.7
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.97
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "82644",
+    "latitud": -6.97796,
+    "longitud": -79.65163,
+    "unidad": "LA ESPERANZA SAC",
+    "direccion": "CARRETERA PANAMERICANA NORTE KM. 735 + 500 C.P. NUEVO MOCUPE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.27
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.15
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.05
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "105268",
+    "latitud": -6.9784746,
+    "longitud": -79.6521,
+    "unidad": "TRANSPETROL J.R. S.A.C.",
+    "direccion": "CARRETERA PANAMERICANA SUR KM. 748 + 250, MZ. A1 LOTE 02 Y 03 CENTRO POBLADO MENOR NUEVO MOCUPE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.29
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.39
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.09
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "170292",
+    "latitud": -6.977016,
+    "longitud": -79.66181,
+    "unidad": "PETROREYES SAC",
+    "direccion": "CARRETERA PANAMERICANA KM. 749 CP NUEVO MOCUPE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.2
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.2
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "158485",
+    "latitud": -6.980563,
+    "longitud": -79.64291,
+    "unidad": "GAS SHOP MOCUPE E.I.R.L.",
+    "direccion": "KIL�METRO 747.160  PANAMERICANA NORTE - CENTRO POBLADO NUEVO MOCUPE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.39
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.79
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "164134",
+    "latitud": -6.869494,
+    "longitud": -79.86456,
+    "unidad": "VIMALCA S.A.C.",
+    "direccion": "CARRETERA MONSEFU LARAN U.C 09870 PREDIO LA HURTA - SECOR EL PALMO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.19
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.55
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "163494",
+    "latitud": -6.882622,
+    "longitud": -79.86834,
+    "unidad": "AERO GAS DEL NORTE SOCIEDAD ANONIMA CERRADA - AERO GAS DEL NORTE SAC",
+    "direccion": "LOTE 1 Y 2 PROLONGACION AV. VENEZUELA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.75
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.3
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.79
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "162974",
+    "latitud": -6.848028,
+    "longitud": -79.82763,
+    "unidad": "ESTACION DE SERVICIOS GRIFO MASTER S.R.L.",
+    "direccion": "UNIDAD CATASTRAL NRO. 116283 PREDIO �EL CIRUELO� Y PARCELA NRO. 10508 PREDIO �EL GUAYABO� CARRETERA PANAMERICANA NORTE KM 773 SECTOR CALLANCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.75
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.25
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.65
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7145",
+    "latitud": -6.8733444,
+    "longitud": -79.87148,
+    "unidad": "GRIFO MONSEFU EIRL",
+    "direccion": "AV. MARISCAL CASTILLA NRO. 935",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.78
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.2
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "133405",
+    "latitud": -6.884833,
+    "longitud": -79.86811,
+    "unidad": "GRUPO MEJIA & ASOCIADOS S.A.C.",
+    "direccion": "VALLE CHANCAY / SECTOR ELLEN / LA COFRADIA N� 1 COD. PREF. 7_6259235_094056/UC 094056 (AV. VENEZUELA CON CALLE SIN NOMBRE)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "177464",
+    "latitud": -6.863926,
+    "longitud": -79.86493,
+    "unidad": "INVERSIONES BAEZ SRL",
+    "direccion": "LOTE 01-A EL SALITRER  N| 01  SECTOR ACEQUIA GRANDE VALLE CHANCAY  COD - PREDIO 7.625240- ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.89
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.27
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.21
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "18405",
+    "latitud": -6.850401,
+    "longitud": -79.82764,
+    "unidad": "COESTI S.A EESS DIVINO NINO",
+    "direccion": "INTERSECCI�N PANAMERICANA NORTE Y CARRETERA MONSEFU",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "93088",
+    "latitud": -6.8810854,
+    "longitud": -79.86811,
+    "unidad": "AERO GAS DEL NORTE S.A.C.",
+    "direccion": "AV. VENEZUELA N� 102 INTERSECCI�N CON AV. MIRAFLORES",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.79
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.35
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "164188",
+    "latitud": -6.876063,
+    "longitud": -79.35025,
+    "unidad": "HIDROPERU SP S.A.C.",
+    "direccion": "SECTOR PAMPAS DE LEQUE LEQUE ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.89
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.79
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "129527",
+    "latitud": -6.8327465,
+    "longitud": -79.29706,
+    "unidad": "ESTACION DE SERVICIOS EL CRUCE�ITO EIRL",
+    "direccion": "CARRETERA LAS DELICIAS SECTOR SANTA ROSA  S/N",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.0
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "93882",
+    "latitud": -6.847978,
+    "longitud": -79.30198,
+    "unidad": "NIJUVA E.I.R.L",
+    "direccion": "CALLE JOSE OLAYA S/N - CDRA 10",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.0
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.0
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "93619",
+    "latitud": -6.857656,
+    "longitud": -79.305405,
+    "unidad": "COMBUSTIBLES OYOTUN E.I.R.L.",
+    "direccion": "AV. TARAPACA S/N - CENTRO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.0
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "150628",
+    "latitud": -6.713551,
+    "longitud": -79.77179,
+    "unidad": "GRIFO MILAGRO DE DIOS SAC",
+    "direccion": "AV. MIGUEL GRAU N� 800",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.89
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.89
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "103658",
+    "latitud": -6.7935,
+    "longitud": -79.88158,
+    "unidad": "ESTACION DE SERVICIOS SAN ROQUE S.A.C.",
+    "direccion": "CARRETERA CHICLAYO-PIMENTEL KM 4.5 -SECTOR LA GARITA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.72
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7144",
+    "latitud": -6.830827,
+    "longitud": -79.929474,
+    "unidad": "GRIFO WALO GAS",
+    "direccion": "AV. JUAN VELASCO ALVARADO S/N KM.10 CARRETERA CHICLAYO - PIMENTEL",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.89
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 18.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "170005",
+    "latitud": -6.770297,
+    "longitud": -79.877014,
+    "unidad": "GRIFO AVR NORTE E.I.R.L",
+    "direccion": "CALLE EL TRIUNFO SECTOR EL MILAGRO PREDIO SAN FELIX.",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.89
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.65
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "121339",
+    "latitud": -6.78132,
+    "longitud": -79.8859,
+    "unidad": "MULTISERVICIOS LA PRADERA S.A. ",
+    "direccion": "MZ T LTE 01 AAHH VIRGEN DE FATIMA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.29
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8850",
+    "latitud": -6.8942857,
+    "longitud": -79.79516,
+    "unidad": "PETRORED",
+    "direccion": "CARRETERA PANAMERICANA NORTE KM. 757",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.87
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.23
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "63802",
+    "latitud": -6.870483,
+    "longitud": -79.816765,
+    "unidad": "ESTACION DE SERVICIO ZAMY S.R.L.",
+    "direccion": "AV. HUAYNACAPAC  N� 200-202 A.H VILLA EL SOL ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.5
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7367",
+    "latitud": -6.8795533,
+    "longitud": -79.81472,
+    "unidad": "GRIFO MARIA DEL PILAR EIRL",
+    "direccion": "PANAMERICANA NORTE KM. 757",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.35
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.54
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.4
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "164732",
+    "latitud": -6.86007,
+    "longitud": -79.82298,
+    "unidad": "GRIFO CONTINENTAL S.A.C.",
+    "direccion": "1ER SUB LOTE QUE PERTENECIO AL 2DO SUB LOTE QUE FORMA PARTE DELPREDIO LA CALZADA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.7
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.2
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.21
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "92310",
+    "latitud": -6.870849,
+    "longitud": -79.81769,
+    "unidad": "ESTACI�N DE SERVICIOS EL CHOFER E.I.R.L.",
+    "direccion": "AV. HUAYNA CAPAC N� 107- VILLA EL SOL DE REQUE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.39
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "113616",
+    "latitud": -6.8748636,
+    "longitud": -79.81709,
+    "unidad": "GRIFO CRYSMAR S.A.C.",
+    "direccion": "CARRETERA PANAMERICANA NORTE KM. 757 + 500",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.7
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.2
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.39
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "154319",
+    "latitud": -6.882942,
+    "longitud": -79.91126,
+    "unidad": "GRIFO MARANATHA S.A.C.",
+    "direccion": "PREDIO LARRY- SECTOR LAS LOMAS",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.15
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.55
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.15
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "153689",
+    "latitud": -6.882961,
+    "longitud": -79.90998,
+    "unidad": "CORPORACION PETROMAR SAC",
+    "direccion": "PREDIO SH, SECTOR AMPLIACION CIUDAD DEL PESCADOR - PARTE II",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.19
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "153461",
+    "latitud": -6.86651,
+    "longitud": -79.92722,
+    "unidad": "VIMALCA S.A.C.",
+    "direccion": "MZ. 4, LOTE 1 ZONA INDUSTRIAL S/N CARRETERA SANTA ROSA - PIMENTEL",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.19
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.55
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "88088",
+    "latitud": -6.9183636,
+    "longitud": -79.58272,
+    "unidad": "GRIFO SE�OR DE LA BUENA ESPERANZA EIRL.",
+    "direccion": "MZ. A-8 LOTE 5 - AV. AUGUSTO B. LEGUIA S/N URB. SAN ANDRES",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.3
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "146832",
+    "latitud": -6.9148192,
+    "longitud": -79.5878,
+    "unidad": "ESTACION DE SERVICIOS SANTO TORIBIO DE MOGROVEJO S.A.C.",
+    "direccion": "LOS TAHUAPANES MZ E1 LOTE 1 SECTOR SANTIAGO DE MIRAFLORES",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "155216",
+    "latitud": -6.8098817,
+    "longitud": -79.63853,
+    "unidad": "PETROEXPRESS SB S.A.C.",
+    "direccion": "CALLE 24 DE JUNIO MZ 3A LOTE 1 ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "111080",
+    "latitud": -6.88519,
+    "longitud": -79.55493,
+    "unidad": "PETROMAR S.R.L.",
+    "direccion": "AV.PROLONGACION 9 DE OCTUBRE S/N (C.P. CERRO LEON CAMINO AL CEMENTERIO DE CAYALTI)",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 17.0
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.0
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "121521",
+    "latitud": -6.90001,
+    "longitud": -79.56783,
+    "unidad": "AERO GAS DEL NORTE SAC",
+    "direccion": "PREDIO RURAL SANTA TERESA VALLE SA�A-SECTOR ADELINA COD. PREDIO 7-6559235-18689",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.49
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "175150",
+    "latitud": -6.886695,
+    "longitud": -79.566666,
+    "unidad": "GRIFO EL EUCALIPTO E.I.R.L.",
+    "direccion": "AV PASEO DE LA REFORMA S/N",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.4
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "19929",
+    "latitud": -6.895219,
+    "longitud": -79.563385,
+    "unidad": "ESTACION DE SERVICIOS RENACER E.I.R.L.",
+    "direccion": "CALLE SANTA ISABEL NRO. 1",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.96
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "114355",
+    "latitud": -6.8994336,
+    "longitud": -79.56702,
+    "unidad": "GRUPO SAN MIGUEL SP S.A.C",
+    "direccion": "SECTOR LAS ADELINAS, CARRETERA CAYALTI - ZA�A",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.0
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "84187",
+    "latitud": -6.7331557,
+    "longitud": -79.62359,
+    "unidad": "GRIFO ALEX S.A.C.",
+    "direccion": "CARRETERA CHICLAYO - CHONGOYAPE KM 25 +100 100 SECTOR CRUZ TRES DE MAYO - POSOPE ALTO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.3
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.8
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.7
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "146353",
+    "latitud": -6.73683,
+    "longitud": -79.54002,
+    "unidad": "ESTACION DE SERVICIOS MVA EIRL",
+    "direccion": "CARRETERA CHICLAYO - CHONGOYAPE KM 40+200 SECTOR LA CRIA ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "15418",
+    "latitud": -6.7397947,
+    "longitud": -79.638245,
+    "unidad": "GRIFO EL CHUGURANO E.I.R.L.",
+    "direccion": "CARRETERA CHICLAYO-CHONGOYAPE MZA. 004 LOTE 014-015, SECTOR LOS PINOS",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.0
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "147815",
+    "latitud": -6.741008,
+    "longitud": -79.67818,
+    "unidad": "PETRO EDELMIRA E.I.R.L.",
+    "direccion": "CARRETERA CHICLAYO - CHONGOYAPE KM 27 + 250 SECTOR CONCHUCOS ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.09
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "131783",
+    "latitud": -6.7320843,
+    "longitud": -79.55877,
+    "unidad": "ESTACI�N DE SERVICIO SUXE",
+    "direccion": "CASERIO TULIPE - LA CRIA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.0
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "179405",
+    "latitud": -6.727252,
+    "longitud": -79.592445,
+    "unidad": "ETAN CORP E.I.R.L.",
+    "direccion": "CARRETERA CHICLAYO CHONGOYAPE KM 34+350 SECTOR PAMPA LOS BURROS",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.39
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.69
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "39228",
+    "latitud": -6.735423,
+    "longitud": -79.62933,
+    "unidad": "GRIFO SOLO DIOS CON SU PODER SRL ",
+    "direccion": "AV. CHOTA S/N CARRETERA CHICLAYO-CHONGOYAPE KM. 26 - SECTOR POSOPE ALTO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "112082",
+    "latitud": -6.73459,
+    "longitud": -79.54619,
+    "unidad": "GRIFO PAMPA LA VICTORIA S.A.C.",
+    "direccion": "CARRETERA CHICLAYO - CHONGOYAPE  KM 39+500 CPM PAMPA LA VICTORIA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "16788",
+    "latitud": -6.7732315,
+    "longitud": -79.8058,
+    "unidad": "COMBUSTIBLES EL PUEBLO E.I.R.L.",
+    "direccion": "KM. 4 CARRETERA CHICLAYO - POMALCA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "120515",
+    "latitud": -6.768944,
+    "longitud": -79.76945,
+    "unidad": "HAMMER ENERGY S.A.C.",
+    "direccion": "AV. 3 CON AV. APOLINARIO SALCEDO Y CON CALLE 7 MZ. K LOTE 08 SECTOR 25, SAN BORJA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.45
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.1
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "109298",
+    "latitud": -6.769438,
+    "longitud": -79.77189,
+    "unidad": "COMBUSTIBLES FERNANDEZ S.A.C.",
+    "direccion": "AV. APOLINARIO SALCEDO MZ. 41 LT. 1, 2 Y 3",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.19
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "164617",
+    "latitud": -6.768478,
+    "longitud": -79.76791,
+    "unidad": "GRIFO LA PATRONA E.I.R.L.",
+    "direccion": "CARRETERA CHICLAYO POMALCA  CAMPO PEREDO JUNTO AL C.P. EL LINO MZ F LOTE 11 SECTOR 21",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.15
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "136371",
+    "latitud": -6.786832,
+    "longitud": -79.60431,
+    "unidad": "GRUPO VIRGEN DE LA MEDALLA MILAGROSA E.I.R.L. ",
+    "direccion": "MZ B LOTES 13, 14, Y 15 - SECTOR CAMPO ORIENTE, CARRETERA PATAPO SIPAN KM 08 ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "103814",
+    "latitud": -6.744119,
+    "longitud": -79.69165,
+    "unidad": "GRIFO SE�OR DE LA BUENA ESPERANZA E.I.R.L.",
+    "direccion": "CARRETERA CHICLAYO - CHONGOYAPE KM 32 (FRENTE AL CEMENTERIO), SECTOR CAMPO EL TORO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.0
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "21393",
+    "latitud": -6.7422533,
+    "longitud": -79.70068,
+    "unidad": "GRIFO TUMAN SAC",
+    "direccion": "CARRETERA CHICLAYO - CHOGOYAPE KM. 18",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.0
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.0
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "38730",
+    "latitud": -6.743879,
+    "longitud": -79.69306,
+    "unidad": "GRIFO LOS GIRASOLES S.R.L.",
+    "direccion": "CARRETERA CHICLAYO - CHONGOYAPE KM.22.5 SECTOR III PAMPA EL TORO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.3
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.6
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "159686",
+    "latitud": -6.744696,
+    "longitud": -79.68824,
+    "unidad": "EMPRESA DE TRANSPORTES Y COMBUSTIBLES LUZMY S.A.C.",
+    "direccion": "SECTOR LOS GIRASOLES PAMPA EL TORO, CARRETERA CHICLAYO - CHONGOYAPE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.0
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.85
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "157185",
+    "latitud": -7.006547,
+    "longitud": -79.61258,
+    "unidad": "EE.SS MOCUPE S.A.C.",
+    "direccion": "CARRETERA PANAMERICANA NORTE UC 19500 - PREDIO DOS HERMANOS - VALLE CHANCAY SECTOR MOCUPE",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.89
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.69
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.65
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "120374",
+    "latitud": -6.77429,
+    "longitud": -79.8483,
+    "unidad": "GRIFOS SANTA YSABEL",
+    "direccion": "AV. ELVIRA GARCIA Y GARCIA / CALLE CAJAMARCA 398",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.55
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.75
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.55
+      }
+    ]
+  }
+]

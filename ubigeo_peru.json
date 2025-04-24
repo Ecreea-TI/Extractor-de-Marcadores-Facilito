@@ -1,0 +1,7214 @@
+{
+  "departamentos": [
+    {
+      "id": "01",
+      "nombre": "AMAZONAS",
+      "coordenadas": {
+        "latitud": -6.2300,
+        "longitud": -77.8700
+      },
+      "provincias": [
+        {
+          "id": "0101",
+          "nombre": "CHACHAPOYAS",
+          "coordenadas": {
+            "latitud": -6.2300,
+            "longitud": -77.8700
+          },
+          "distritos": [
+            {
+              "id": "010101",
+              "nombre": "CHACHAPOYAS",
+              "coordenadas": {
+                "latitud": -6.2300,
+                "longitud": -77.8700
+              }
+            },
+            {
+              "id": "010102",
+              "nombre": "ASUNCION",
+              "coordenadas": {
+                "latitud": -6.2500,
+                "longitud": -77.9000
+              }
+            },
+            {
+              "id": "010103",
+              "nombre": "BALSAS",
+              "coordenadas": {
+                "latitud": -6.8500,
+                "longitud": -77.9500
+              }
+            },
+            {
+              "id": "010104",
+              "nombre": "CHETO",
+              "coordenadas": {
+                "latitud": -6.2000,
+                "longitud": -77.8500
+              }
+            },
+            {
+              "id": "010105",
+              "nombre": "CHILIQUIN",
+              "coordenadas": {
+                "latitud": -6.3000,
+                "longitud": -77.8000
+              }
+            },
+            {
+              "id": "010106",
+              "nombre": "CHUQUIBAMBA",
+              "coordenadas": {
+                "latitud": -6.1500,
+                "longitud": -77.9000
+              }
+            },
+            {
+              "id": "010107",
+              "nombre": "GRANADA",
+              "coordenadas": {
+                "latitud": -6.2000,
+                "longitud": -77.9500
+              }
+            },
+            {
+              "id": "010108",
+              "nombre": "HUANCAS",
+              "coordenadas": {
+                "latitud": -6.2500,
+                "longitud": -77.8000
+              }
+            },
+            {
+              "id": "010109",
+              "nombre": "LA JALCA",
+              "coordenadas": {
+                "latitud": -6.3000,
+                "longitud": -77.7500
+              }
+            },
+            {
+              "id": "010110",
+              "nombre": "LEIMEBAMBA",
+              "coordenadas": {
+                "latitud": -6.7000,
+                "longitud": -77.8000
+              }
+            },
+            {
+              "id": "010111",
+              "nombre": "LEVANTO",
+              "coordenadas": {
+                "latitud": -6.2000,
+                "longitud": -77.7000
+              }
+            },
+            {
+              "id": "010112",
+              "nombre": "MAGDALENA",
+              "coordenadas": {
+                "latitud": -6.1500,
+                "longitud": -77.7500
+              }
+            },
+            {
+              "id": "010113",
+              "nombre": "MARISCAL CASTILLA",
+              "coordenadas": {
+                "latitud": -6.2500,
+                "longitud": -77.7000
+              }
+            },
+            {
+              "id": "010114",
+              "nombre": "MOLINOPAMPA",
+              "coordenadas": {
+                "latitud": -6.3000,
+                "longitud": -77.6500
+              }
+            },
+            {
+              "id": "010115",
+              "nombre": "MONTEVIDEO",
+              "coordenadas": {
+                "latitud": -6.3500,
+                "longitud": -77.6000
+              }
+            },
+            {
+              "id": "010116",
+              "nombre": "OLLEROS",
+              "coordenadas": {
+                "latitud": -6.4000,
+                "longitud": -77.5500
+              }
+            },
+            {
+              "id": "010117",
+              "nombre": "QUINJALCA",
+              "coordenadas": {
+                "latitud": -6.4500,
+                "longitud": -77.5000
+              }
+            },
+            {
+              "id": "010118",
+              "nombre": "SAN FRANCISCO DE DAGUAS",
+              "coordenadas": {
+                "latitud": -6.5000,
+                "longitud": -77.4500
+              }
+            },
+            {
+              "id": "010119",
+              "nombre": "SAN ISIDRO DE MAINO",
+              "coordenadas": {
+                "latitud": -6.5500,
+                "longitud": -77.4000
+              }
+            },
+            {
+              "id": "010120",
+              "nombre": "SOLOCO",
+              "coordenadas": {
+                "latitud": -6.6000,
+                "longitud": -77.3500
+              }
+            },
+            {
+              "id": "010121",
+              "nombre": "SONCHE",
+              "coordenadas": {
+                "latitud": -6.6500,
+                "longitud": -77.3000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0102",
+          "nombre": "BAGUA",
+          "coordenadas": {
+            "latitud": -5.6500,
+            "longitud": -78.5500
+          },
+          "distritos": [
+            {
+              "id": "010201",
+              "nombre": "BAGUA",
+              "coordenadas": {
+                "latitud": -5.6500,
+                "longitud": -78.5500
+              }
+            },
+            {
+              "id": "010202",
+              "nombre": "ARAMANGO",
+              "coordenadas": {
+                "latitud": -5.7000,
+                "longitud": -78.6000
+              }
+            },
+            {
+              "id": "010203",
+              "nombre": "COPALLIN",
+              "coordenadas": {
+                "latitud": -5.7500,
+                "longitud": -78.6500
+              }
+            },
+            {
+              "id": "010204",
+              "nombre": "EL PARCO",
+              "coordenadas": {
+                "latitud": -5.8000,
+                "longitud": -78.7000
+              }
+            },
+            {
+              "id": "010205",
+              "nombre": "IMAZA",
+              "coordenadas": {
+                "latitud": -5.8500,
+                "longitud": -78.7500
+              }
+            },
+            {
+              "id": "010206",
+              "nombre": "LA PECA",
+              "coordenadas": {
+                "latitud": -5.9000,
+                "longitud": -78.8000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0103",
+          "nombre": "BONGARA",
+          "coordenadas": {
+            "latitud": -5.8000,
+            "longitud": -77.9000
+          },
+          "distritos": [
+            {
+              "id": "010301",
+              "nombre": "JUMBILLA",
+              "coordenadas": {
+                "latitud": -5.8000,
+                "longitud": -77.9000
+              }
+            },
+            {
+              "id": "010302",
+              "nombre": "CHISQUILLA",
+              "coordenadas": {
+                "latitud": -5.8500,
+                "longitud": -77.8500
+              }
+            },
+            {
+              "id": "010303",
+              "nombre": "CHURUJA",
+              "coordenadas": {
+                "latitud": -5.7500,
+                "longitud": -77.9500
+              }
+            },
+            {
+              "id": "010304",
+              "nombre": "COROSHA",
+              "coordenadas": {
+                "latitud": -5.9000,
+                "longitud": -77.8000
+              }
+            },
+            {
+              "id": "010305",
+              "nombre": "CUISPES",
+              "coordenadas": {
+                "latitud": -5.7000,
+                "longitud": -78.0000
+              }
+            },
+            {
+              "id": "010306",
+              "nombre": "FLORIDA",
+              "coordenadas": {
+                "latitud": -5.9500,
+                "longitud": -77.7500
+              }
+            },
+            {
+              "id": "010307",
+              "nombre": "JAZAN",
+              "coordenadas": {
+                "latitud": -5.6500,
+                "longitud": -78.0500
+              }
+            },
+            {
+              "id": "010308",
+              "nombre": "RECTA",
+              "coordenadas": {
+                "latitud": -6.0000,
+                "longitud": -77.7000
+              }
+            },
+            {
+              "id": "010309",
+              "nombre": "SAN CARLOS",
+              "coordenadas": {
+                "latitud": -5.6000,
+                "longitud": -78.1000
+              }
+            },
+            {
+              "id": "010310",
+              "nombre": "SHIPASBAMBA",
+              "coordenadas": {
+                "latitud": -6.0500,
+                "longitud": -77.6500
+              }
+            },
+            {
+              "id": "010311",
+              "nombre": "VALERA",
+              "coordenadas": {
+                "latitud": -5.5500,
+                "longitud": -78.1500
+              }
+            },
+            {
+              "id": "010312",
+              "nombre": "YAMBRASBAMBA",
+              "coordenadas": {
+                "latitud": -6.1000,
+                "longitud": -77.6000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0104",
+          "nombre": "CONDORCANQUI",
+          "coordenadas": {
+            "latitud": -4.1000,
+            "longitud": -77.9000
+          },
+          "distritos": [
+            {
+              "id": "010401",
+              "nombre": "NIEVA",
+              "coordenadas": {
+                "latitud": -4.1000,
+                "longitud": -77.9000
+              }
+            },
+            {
+              "id": "010402",
+              "nombre": "EL CENEPA",
+              "coordenadas": {
+                "latitud": -4.1500,
+                "longitud": -77.8500
+              }
+            },
+            {
+              "id": "010403",
+              "nombre": "RIO SANTIAGO",
+              "coordenadas": {
+                "latitud": -4.0500,
+                "longitud": -77.9500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0105",
+          "nombre": "LUYA",
+          "coordenadas": {
+            "latitud": -6.2000,
+            "longitud": -78.0000
+          },
+          "distritos": [
+            {
+              "id": "010501",
+              "nombre": "LAMUD",
+              "coordenadas": {
+                "latitud": -6.2000,
+                "longitud": -78.0000
+              }
+            },
+            {
+              "id": "010502",
+              "nombre": "CAMPORREDONDO",
+              "coordenadas": {
+                "latitud": -6.2500,
+                "longitud": -77.9500
+              }
+            },
+            {
+              "id": "010503",
+              "nombre": "COCABAMBA",
+              "coordenadas": {
+                "latitud": -6.1500,
+                "longitud": -78.0500
+              }
+            },
+            {
+              "id": "010504",
+              "nombre": "COLCAMAR",
+              "coordenadas": {
+                "latitud": -6.3000,
+                "longitud": -77.9000
+              }
+            },
+            {
+              "id": "010505",
+              "nombre": "CONILA",
+              "coordenadas": {
+                "latitud": -6.1000,
+                "longitud": -78.1000
+              }
+            },
+            {
+              "id": "010506",
+              "nombre": "INGUILPATA",
+              "coordenadas": {
+                "latitud": -6.3500,
+                "longitud": -77.8500
+              }
+            },
+            {
+              "id": "010507",
+              "nombre": "LONGUITA",
+              "coordenadas": {
+                "latitud": -6.0500,
+                "longitud": -78.1500
+              }
+            },
+            {
+              "id": "010508",
+              "nombre": "LONYA CHICO",
+              "coordenadas": {
+                "latitud": -6.4000,
+                "longitud": -77.8000
+              }
+            },
+            {
+              "id": "010509",
+              "nombre": "LUYA",
+              "coordenadas": {
+                "latitud": -6.0000,
+                "longitud": -78.2000
+              }
+            },
+            {
+              "id": "010510",
+              "nombre": "LUYA VIEJO",
+              "coordenadas": {
+                "latitud": -6.4500,
+                "longitud": -77.7500
+              }
+            },
+            {
+              "id": "010511",
+              "nombre": "MARIA",
+              "coordenadas": {
+                "latitud": -5.9500,
+                "longitud": -78.2500
+              }
+            },
+            {
+              "id": "010512",
+              "nombre": "OCALLI",
+              "coordenadas": {
+                "latitud": -6.5000,
+                "longitud": -77.7000
+              }
+            },
+            {
+              "id": "010513",
+              "nombre": "OCUMAL",
+              "coordenadas": {
+                "latitud": -5.9000,
+                "longitud": -78.3000
+              }
+            },
+            {
+              "id": "010514",
+              "nombre": "PISUQUIA",
+              "coordenadas": {
+                "latitud": -6.5500,
+                "longitud": -77.6500
+              }
+            },
+            {
+              "id": "010515",
+              "nombre": "PROVIDENCIA",
+              "coordenadas": {
+                "latitud": -5.8500,
+                "longitud": -78.3500
+              }
+            },
+            {
+              "id": "010516",
+              "nombre": "SAN CRISTOBAL",
+              "coordenadas": {
+                "latitud": -6.6000,
+                "longitud": -77.6000
+              }
+            },
+            {
+              "id": "010517",
+              "nombre": "SAN FRANCISCO DEL YESO",
+              "coordenadas": {
+                "latitud": -5.8000,
+                "longitud": -78.4000
+              }
+            },
+            {
+              "id": "010518",
+              "nombre": "SAN JERONIMO",
+              "coordenadas": {
+                "latitud": -6.6500,
+                "longitud": -77.5500
+              }
+            },
+            {
+              "id": "010519",
+              "nombre": "SAN JUAN DE LOPECANCHA",
+              "coordenadas": {
+                "latitud": -5.7500,
+                "longitud": -78.4500
+              }
+            },
+            {
+              "id": "010520",
+              "nombre": "SANTA CATALINA",
+              "coordenadas": {
+                "latitud": -6.7000,
+                "longitud": -77.5000
+              }
+            },
+            {
+              "id": "010521",
+              "nombre": "SANTO TOMAS",
+              "coordenadas": {
+                "latitud": -5.7000,
+                "longitud": -78.5000
+              }
+            },
+            {
+              "id": "010522",
+              "nombre": "TINGO",
+              "coordenadas": {
+                "latitud": -6.7500,
+                "longitud": -77.4500
+              }
+            },
+            {
+              "id": "010523",
+              "nombre": "TRITA",
+              "coordenadas": {
+                "latitud": -5.6500,
+                "longitud": -78.5500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0106",
+          "nombre": "RODRIGUEZ DE MENDOZA",
+          "coordenadas": {
+            "latitud": -6.3000,
+            "longitud": -77.5000
+          },
+          "distritos": [
+            {
+              "id": "010601",
+              "nombre": "SAN NICOLAS",
+              "coordenadas": {
+                "latitud": -6.3000,
+                "longitud": -77.5000
+              }
+            },
+            {
+              "id": "010602",
+              "nombre": "CHIRIMOTO",
+              "coordenadas": {
+                "latitud": -6.3500,
+                "longitud": -77.4500
+              }
+            },
+            {
+              "id": "010603",
+              "nombre": "COCHAMAL",
+              "coordenadas": {
+                "latitud": -6.2500,
+                "longitud": -77.5500
+              }
+            },
+            {
+              "id": "010604",
+              "nombre": "HUAMBO",
+              "coordenadas": {
+                "latitud": -6.4000,
+                "longitud": -77.4000
+              }
+            },
+            {
+              "id": "010605",
+              "nombre": "LIMABAMBA",
+              "coordenadas": {
+                "latitud": -6.2000,
+                "longitud": -77.6000
+              }
+            },
+            {
+              "id": "010606",
+              "nombre": "LONGAR",
+              "coordenadas": {
+                "latitud": -6.4500,
+                "longitud": -77.3500
+              }
+            },
+            {
+              "id": "010607",
+              "nombre": "MARISCAL BENAVIDES",
+              "coordenadas": {
+                "latitud": -6.1500,
+                "longitud": -77.6500
+              }
+            },
+            {
+              "id": "010608",
+              "nombre": "MILPUC",
+              "coordenadas": {
+                "latitud": -6.5000,
+                "longitud": -77.3000
+              }
+            },
+            {
+              "id": "010609",
+              "nombre": "OMIA",
+              "coordenadas": {
+                "latitud": -6.1000,
+                "longitud": -77.7000
+              }
+            },
+            {
+              "id": "010610",
+              "nombre": "SANTA ROSA",
+              "coordenadas": {
+                "latitud": -6.5500,
+                "longitud": -77.2500
+              }
+            },
+            {
+              "id": "010611",
+              "nombre": "TOTORA",
+              "coordenadas": {
+                "latitud": -6.0500,
+                "longitud": -77.7500
+              }
+            },
+            {
+              "id": "010612",
+              "nombre": "VISTA ALEGRE",
+              "coordenadas": {
+                "latitud": -6.6000,
+                "longitud": -77.2000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0107",
+          "nombre": "UTCUBAMBA",
+          "coordenadas": {
+            "latitud": -5.7500,
+            "longitud": -78.4000
+          },
+          "distritos": [
+            {
+              "id": "010701",
+              "nombre": "BAGUA GRANDE",
+              "coordenadas": {
+                "latitud": -5.7500,
+                "longitud": -78.4000
+              }
+            },
+            {
+              "id": "010702",
+              "nombre": "CAJARURO",
+              "coordenadas": {
+                "latitud": -5.8000,
+                "longitud": -78.3500
+              }
+            },
+            {
+              "id": "010703",
+              "nombre": "CUMBA",
+              "coordenadas": {
+                "latitud": -5.7000,
+                "longitud": -78.4500
+              }
+            },
+            {
+              "id": "010704",
+              "nombre": "EL MILAGRO",
+              "coordenadas": {
+                "latitud": -5.8500,
+                "longitud": -78.3000
+              }
+            },
+            {
+              "id": "010705",
+              "nombre": "JAMALCA",
+              "coordenadas": {
+                "latitud": -5.6500,
+                "longitud": -78.5000
+              }
+            },
+            {
+              "id": "010706",
+              "nombre": "LONYA GRANDE",
+              "coordenadas": {
+                "latitud": -5.9000,
+                "longitud": -78.2500
+              }
+            },
+            {
+              "id": "010707",
+              "nombre": "YAMON",
+              "coordenadas": {
+                "latitud": -5.6000,
+                "longitud": -78.5500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "nombre": "ANCASH",
+      "coordenadas": {
+        "latitud": -9.5300,
+        "longitud": -77.5300
+      },
+      "provincias": [
+        {
+          "id": "0201",
+          "nombre": "HUARAZ",
+          "coordenadas": {
+            "latitud": -9.5300,
+            "longitud": -77.5300
+          },
+          "distritos": [
+            {
+              "id": "020101",
+              "nombre": "HUARAZ",
+              "coordenadas": {
+                "latitud": -9.5300,
+                "longitud": -77.5300
+              }
+            },
+            {
+              "id": "020102",
+              "nombre": "COCHABAMBA",
+              "coordenadas": {
+                "latitud": -9.5500,
+                "longitud": -77.5500
+              }
+            },
+            {
+              "id": "020103",
+              "nombre": "COLCABAMBA",
+              "coordenadas": {
+                "latitud": -9.5700,
+                "longitud": -77.5700
+              }
+            },
+            {
+              "id": "020104",
+              "nombre": "HUANCHAY",
+              "coordenadas": {
+                "latitud": -9.5900,
+                "longitud": -77.5900
+              }
+            },
+            {
+              "id": "020105",
+              "nombre": "INDEPENDENCIA",
+              "coordenadas": {
+                "latitud": -9.5100,
+                "longitud": -77.5100
+              }
+            },
+            {
+              "id": "020106",
+              "nombre": "JANGAS",
+              "coordenadas": {
+                "latitud": -9.4900,
+                "longitud": -77.4900
+              }
+            },
+            {
+              "id": "020107",
+              "nombre": "LA LIBERTAD",
+              "coordenadas": {
+                "latitud": -9.4700,
+                "longitud": -77.4700
+              }
+            },
+            {
+              "id": "020108",
+              "nombre": "OLLEROS",
+              "coordenadas": {
+                "latitud": -9.4500,
+                "longitud": -77.4500
+              }
+            },
+            {
+              "id": "020109",
+              "nombre": "PAMPAS",
+              "coordenadas": {
+                "latitud": -9.4300,
+                "longitud": -77.4300
+              }
+            },
+            {
+              "id": "020110",
+              "nombre": "PARIACOTO",
+              "coordenadas": {
+                "latitud": -9.4100,
+                "longitud": -77.4100
+              }
+            },
+            {
+              "id": "020111",
+              "nombre": "PIRA",
+              "coordenadas": {
+                "latitud": -9.3900,
+                "longitud": -77.3900
+              }
+            },
+            {
+              "id": "020112",
+              "nombre": "TARICA",
+              "coordenadas": {
+                "latitud": -9.3700,
+                "longitud": -77.3700
+              }
+            }
+          ]
+        },
+        {
+          "id": "0202",
+          "nombre": "AIJA",
+          "coordenadas": {
+            "latitud": -9.8000,
+            "longitud": -77.6000
+          },
+          "distritos": [
+            {
+              "id": "020201",
+              "nombre": "AIJA",
+              "coordenadas": {
+                "latitud": -9.8000,
+                "longitud": -77.6000
+              }
+            },
+            {
+              "id": "020202",
+              "nombre": "CORIS",
+              "coordenadas": {
+                "latitud": -9.8500,
+                "longitud": -77.5500
+              }
+            },
+            {
+              "id": "020203",
+              "nombre": "HUACLLAN",
+              "coordenadas": {
+                "latitud": -9.7500,
+                "longitud": -77.6500
+              }
+            },
+            {
+              "id": "020204",
+              "nombre": "LA MERCED",
+              "coordenadas": {
+                "latitud": -9.9000,
+                "longitud": -77.5000
+              }
+            },
+            {
+              "id": "020205",
+              "nombre": "SUCCHA",
+              "coordenadas": {
+                "latitud": -9.7000,
+                "longitud": -77.7000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0203",
+          "nombre": "ANTONIO RAYMONDI",
+          "coordenadas": {
+            "latitud": -9.2000,
+            "longitud": -77.0000
+          },
+          "distritos": [
+            {
+              "id": "020301",
+              "nombre": "LLAMELLIN",
+              "coordenadas": {
+                "latitud": -9.2000,
+                "longitud": -77.0000
+              }
+            },
+            {
+              "id": "020302",
+              "nombre": "ACZO",
+              "coordenadas": {
+                "latitud": -9.2500,
+                "longitud": -76.9500
+              }
+            },
+            {
+              "id": "020303",
+              "nombre": "CHACCHO",
+              "coordenadas": {
+                "latitud": -9.1500,
+                "longitud": -77.0500
+              }
+            },
+            {
+              "id": "020304",
+              "nombre": "CHINGAS",
+              "coordenadas": {
+                "latitud": -9.3000,
+                "longitud": -76.9000
+              }
+            },
+            {
+              "id": "020305",
+              "nombre": "MIRGAS",
+              "coordenadas": {
+                "latitud": -9.1000,
+                "longitud": -77.1000
+              }
+            },
+            {
+              "id": "020306",
+              "nombre": "SAN JUAN DE RONTOY",
+              "coordenadas": {
+                "latitud": -9.3500,
+                "longitud": -76.8500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0204",
+          "nombre": "ASUNCIÓN",
+          "coordenadas": {
+            "latitud": -9.3000,
+            "longitud": -77.4000
+          },
+          "distritos": [
+            {
+              "id": "020401",
+              "nombre": "CHACAS",
+              "coordenadas": {
+                "latitud": -9.3000,
+                "longitud": -77.4000
+              }
+            },
+            {
+              "id": "020402",
+              "nombre": "ACOCHACA",
+              "coordenadas": {
+                "latitud": -9.3500,
+                "longitud": -77.3500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0205",
+          "nombre": "BOLOGNESI",
+          "coordenadas": {
+            "latitud": -10.0000,
+            "longitud": -77.2000
+          },
+          "distritos": [
+            {
+              "id": "020501",
+              "nombre": "CHIQUIAN",
+              "coordenadas": {
+                "latitud": -10.0000,
+                "longitud": -77.2000
+              }
+            },
+            {
+              "id": "020502",
+              "nombre": "ABELARDO PARDO LEZAMETA",
+              "coordenadas": {
+                "latitud": -10.0500,
+                "longitud": -77.1500
+              }
+            },
+            {
+              "id": "020503",
+              "nombre": "ANTONIO RAYMONDI",
+              "coordenadas": {
+                "latitud": -9.9500,
+                "longitud": -77.2500
+              }
+            },
+            {
+              "id": "020504",
+              "nombre": "AQUIA",
+              "coordenadas": {
+                "latitud": -10.1000,
+                "longitud": -77.1000
+              }
+            },
+            {
+              "id": "020505",
+              "nombre": "CAJACAY",
+              "coordenadas": {
+                "latitud": -9.9000,
+                "longitud": -77.3000
+              }
+            },
+            {
+              "id": "020506",
+              "nombre": "CANIS",
+              "coordenadas": {
+                "latitud": -10.1500,
+                "longitud": -77.0500
+              }
+            },
+            {
+              "id": "020507",
+              "nombre": "COLQUIOC",
+              "coordenadas": {
+                "latitud": -9.8500,
+                "longitud": -77.3500
+              }
+            },
+            {
+              "id": "020508",
+              "nombre": "HUALLANCA",
+              "coordenadas": {
+                "latitud": -10.2000,
+                "longitud": -77.0000
+              }
+            },
+            {
+              "id": "020509",
+              "nombre": "HUASTA",
+              "coordenadas": {
+                "latitud": -9.8000,
+                "longitud": -77.4000
+              }
+            },
+            {
+              "id": "020510",
+              "nombre": "HUAYLLACAYAN",
+              "coordenadas": {
+                "latitud": -10.2500,
+                "longitud": -76.9500
+              }
+            },
+            {
+              "id": "020511",
+              "nombre": "LA PRIMAVERA",
+              "coordenadas": {
+                "latitud": -9.7500,
+                "longitud": -77.4500
+              }
+            },
+            {
+              "id": "020512",
+              "nombre": "MANGAS",
+              "coordenadas": {
+                "latitud": -10.3000,
+                "longitud": -76.9000
+              }
+            },
+            {
+              "id": "020513",
+              "nombre": "PACLLON",
+              "coordenadas": {
+                "latitud": -9.7000,
+                "longitud": -77.5000
+              }
+            },
+            {
+              "id": "020514",
+              "nombre": "SAN MIGUEL DE CORPANQUI",
+              "coordenadas": {
+                "latitud": -10.3500,
+                "longitud": -76.8500
+              }
+            },
+            {
+              "id": "020515",
+              "nombre": "TICLLOS",
+              "coordenadas": {
+                "latitud": -9.6500,
+                "longitud": -77.5500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0206",
+          "nombre": "CARHUAZ",
+          "coordenadas": {
+            "latitud": -9.2800,
+            "longitud": -77.6500
+          },
+          "distritos": [
+            {
+              "id": "020601",
+              "nombre": "CARHUAZ",
+              "coordenadas": {
+                "latitud": -9.2800,
+                "longitud": -77.6500
+              }
+            },
+            {
+              "id": "020602",
+              "nombre": "ACOPAMPA",
+              "coordenadas": {
+                "latitud": -9.3300,
+                "longitud": -77.6000
+              }
+            },
+            {
+              "id": "020603",
+              "nombre": "AMASHCA",
+              "coordenadas": {
+                "latitud": -9.2300,
+                "longitud": -77.7000
+              }
+            },
+            {
+              "id": "020604",
+              "nombre": "ANTA",
+              "coordenadas": {
+                "latitud": -9.3800,
+                "longitud": -77.5500
+              }
+            },
+            {
+              "id": "020605",
+              "nombre": "ATAQUERO",
+              "coordenadas": {
+                "latitud": -9.1800,
+                "longitud": -77.7500
+              }
+            },
+            {
+              "id": "020606",
+              "nombre": "MARCARA",
+              "coordenadas": {
+                "latitud": -9.4300,
+                "longitud": -77.5000
+              }
+            },
+            {
+              "id": "020607",
+              "nombre": "PARIAHUANCA",
+              "coordenadas": {
+                "latitud": -9.1300,
+                "longitud": -77.8000
+              }
+            },
+            {
+              "id": "020608",
+              "nombre": "SAN MIGUEL DE ACO",
+              "coordenadas": {
+                "latitud": -9.4800,
+                "longitud": -77.4500
+              }
+            },
+            {
+              "id": "020609",
+              "nombre": "SHILLA",
+              "coordenadas": {
+                "latitud": -9.0800,
+                "longitud": -77.8500
+              }
+            },
+            {
+              "id": "020610",
+              "nombre": "TINCO",
+              "coordenadas": {
+                "latitud": -9.5300,
+                "longitud": -77.4000
+              }
+            },
+            {
+              "id": "020611",
+              "nombre": "YUNGAR",
+              "coordenadas": {
+                "latitud": -9.0300,
+                "longitud": -77.9000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0207",
+          "nombre": "CARLOS FERMIN FITZCARRALD",
+          "coordenadas": {
+            "latitud": -9.0500,
+            "longitud": -77.3000
+          },
+          "distritos": [
+            {
+              "id": "020701",
+              "nombre": "SAN LUIS",
+              "coordenadas": {
+                "latitud": -9.0500,
+                "longitud": -77.3000
+              }
+            },
+            {
+              "id": "020702",
+              "nombre": "SAN NICOLAS",
+              "coordenadas": {
+                "latitud": -9.1000,
+                "longitud": -77.2500
+              }
+            },
+            {
+              "id": "020703",
+              "nombre": "YAUYA",
+              "coordenadas": {
+                "latitud": -9.0000,
+                "longitud": -77.3500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0208",
+          "nombre": "CASMA",
+          "coordenadas": {
+            "latitud": -9.4700,
+            "longitud": -78.3000
+          },
+          "distritos": [
+            {
+              "id": "020801",
+              "nombre": "CASMA",
+              "coordenadas": {
+                "latitud": -9.4700,
+                "longitud": -78.3000
+              }
+            },
+            {
+              "id": "020802",
+              "nombre": "BUENA VISTA ALTA",
+              "coordenadas": {
+                "latitud": -9.5200,
+                "longitud": -78.2500
+              }
+            },
+            {
+              "id": "020803",
+              "nombre": "COMANDANTE NOEL",
+              "coordenadas": {
+                "latitud": -9.4200,
+                "longitud": -78.3500
+              }
+            },
+            {
+              "id": "020804",
+              "nombre": "YAUTAN",
+              "coordenadas": {
+                "latitud": -9.5700,
+                "longitud": -78.2000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0209",
+          "nombre": "CORONGO",
+          "coordenadas": {
+            "latitud": -8.5800,
+            "longitud": -77.9200
+          },
+          "distritos": [
+            {
+              "id": "020901",
+              "nombre": "CORONGO",
+              "coordenadas": {
+                "latitud": -8.5800,
+                "longitud": -77.9200
+              }
+            },
+            {
+              "id": "020902",
+              "nombre": "ACO",
+              "coordenadas": {
+                "latitud": -8.6300,
+                "longitud": -77.8700
+              }
+            },
+            {
+              "id": "020903",
+              "nombre": "BAMBAS",
+              "coordenadas": {
+                "latitud": -8.5300,
+                "longitud": -77.9700
+              }
+            },
+            {
+              "id": "020904",
+              "nombre": "CUSCA",
+              "coordenadas": {
+                "latitud": -8.6800,
+                "longitud": -77.8200
+              }
+            },
+            {
+              "id": "020905",
+              "nombre": "LA PAMPA",
+              "coordenadas": {
+                "latitud": -8.4800,
+                "longitud": -78.0200
+              }
+            },
+            {
+              "id": "020906",
+              "nombre": "YANAC",
+              "coordenadas": {
+                "latitud": -8.7300,
+                "longitud": -77.7700
+              }
+            },
+            {
+              "id": "020907",
+              "nombre": "YUPAN",
+              "coordenadas": {
+                "latitud": -8.4300,
+                "longitud": -78.0700
+              }
+            }
+          ]
+        },
+        {
+          "id": "0210",
+          "nombre": "HUARI",
+          "coordenadas": {
+            "latitud": -9.3700,
+            "longitud": -77.2300
+          },
+          "distritos": [
+            {
+              "id": "021001",
+              "nombre": "HUARI",
+              "coordenadas": {
+                "latitud": -9.3700,
+                "longitud": -77.2300
+              }
+            },
+            {
+              "id": "021002",
+              "nombre": "ANRA",
+              "coordenadas": {
+                "latitud": -9.4200,
+                "longitud": -77.1800
+              }
+            },
+            {
+              "id": "021003",
+              "nombre": "CAJAY",
+              "coordenadas": {
+                "latitud": -9.3200,
+                "longitud": -77.2800
+              }
+            },
+            {
+              "id": "021004",
+              "nombre": "CHAVIN DE HUANTAR",
+              "coordenadas": {
+                "latitud": -9.4700,
+                "longitud": -77.1300
+              }
+            },
+            {
+              "id": "021005",
+              "nombre": "HUACACHI",
+              "coordenadas": {
+                "latitud": -9.2700,
+                "longitud": -77.3300
+              }
+            },
+            {
+              "id": "021006",
+              "nombre": "HUACCHIS",
+              "coordenadas": {
+                "latitud": -9.5200,
+                "longitud": -77.0800
+              }
+            },
+            {
+              "id": "021007",
+              "nombre": "HUACHIS",
+              "coordenadas": {
+                "latitud": -9.2200,
+                "longitud": -77.3800
+              }
+            },
+            {
+              "id": "021008",
+              "nombre": "HUANTAR",
+              "coordenadas": {
+                "latitud": -9.5700,
+                "longitud": -77.0300
+              }
+            },
+            {
+              "id": "021009",
+              "nombre": "MASIN",
+              "coordenadas": {
+                "latitud": -9.1700,
+                "longitud": -77.4300
+              }
+            },
+            {
+              "id": "021010",
+              "nombre": "PAUCAS",
+              "coordenadas": {
+                "latitud": -9.6200,
+                "longitud": -76.9800
+              }
+            },
+            {
+              "id": "021011",
+              "nombre": "PONTO",
+              "coordenadas": {
+                "latitud": -9.1200,
+                "longitud": -77.4800
+              }
+            },
+            {
+              "id": "021012",
+              "nombre": "RAHUAPAMPA",
+              "coordenadas": {
+                "latitud": -9.6700,
+                "longitud": -76.9300
+              }
+            },
+            {
+              "id": "021013",
+              "nombre": "RAPAYAN",
+              "coordenadas": {
+                "latitud": -9.0700,
+                "longitud": -77.5300
+              }
+            },
+            {
+              "id": "021014",
+              "nombre": "SAN MARCOS",
+              "coordenadas": {
+                "latitud": -9.7200,
+                "longitud": -76.8800
+              }
+            },
+            {
+              "id": "021015",
+              "nombre": "SAN PEDRO DE CHANA",
+              "coordenadas": {
+                "latitud": -9.0200,
+                "longitud": -77.5800
+              }
+            },
+            {
+              "id": "021016",
+              "nombre": "UCO",
+              "coordenadas": {
+                "latitud": -9.7700,
+                "longitud": -76.8300
+              }
+            }
+          ]
+        },
+        {
+          "id": "0211",
+          "nombre": "HUARMEY",
+          "coordenadas": {
+            "latitud": -10.0700,
+            "longitud": -78.1500
+          },
+          "distritos": [
+            {
+              "id": "021101",
+              "nombre": "HUARMEY",
+              "coordenadas": {
+                "latitud": -10.0700,
+                "longitud": -78.1500
+              }
+            },
+            {
+              "id": "021102",
+              "nombre": "COCHAPETI",
+              "coordenadas": {
+                "latitud": -10.1200,
+                "longitud": -78.1000
+              }
+            },
+            {
+              "id": "021103",
+              "nombre": "CULEBRAS",
+              "coordenadas": {
+                "latitud": -10.0200,
+                "longitud": -78.2000
+              }
+            },
+            {
+              "id": "021104",
+              "nombre": "HUAYAN",
+              "coordenadas": {
+                "latitud": -10.1700,
+                "longitud": -78.0500
+              }
+            },
+            {
+              "id": "021105",
+              "nombre": "MALVAS",
+              "coordenadas": {
+                "latitud": -9.9700,
+                "longitud": -78.2500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0212",
+          "nombre": "HUAYLAS",
+          "coordenadas": {
+            "latitud": -8.8800,
+            "longitud": -77.8200
+          },
+          "distritos": [
+            {
+              "id": "021201",
+              "nombre": "CARAZ",
+              "coordenadas": {
+                "latitud": -8.8800,
+                "longitud": -77.8200
+              }
+            },
+            {
+              "id": "021202",
+              "nombre": "HUALLANCA",
+              "coordenadas": {
+                "latitud": -8.9300,
+                "longitud": -77.7700
+              }
+            },
+            {
+              "id": "021203",
+              "nombre": "HUATA",
+              "coordenadas": {
+                "latitud": -8.8300,
+                "longitud": -77.8700
+              }
+            },
+            {
+              "id": "021204",
+              "nombre": "HUAYLAS",
+              "coordenadas": {
+                "latitud": -8.9800,
+                "longitud": -77.7200
+              }
+            },
+            {
+              "id": "021205",
+              "nombre": "MATO",
+              "coordenadas": {
+                "latitud": -8.7800,
+                "longitud": -77.9200
+              }
+            },
+            {
+              "id": "021206",
+              "nombre": "PAMPAROMAS",
+              "coordenadas": {
+                "latitud": -9.0300,
+                "longitud": -77.6700
+              }
+            },
+            {
+              "id": "021207",
+              "nombre": "PUEBLO LIBRE",
+              "coordenadas": {
+                "latitud": -8.7300,
+                "longitud": -77.9700
+              }
+            },
+            {
+              "id": "021208",
+              "nombre": "SANTA CRUZ",
+              "coordenadas": {
+                "latitud": -9.0800,
+                "longitud": -77.6200
+              }
+            },
+            {
+              "id": "021209",
+              "nombre": "SANTO TORIBIO",
+              "coordenadas": {
+                "latitud": -8.6800,
+                "longitud": -78.0200
+              }
+            },
+            {
+              "id": "021210",
+              "nombre": "YURACMARCA",
+              "coordenadas": {
+                "latitud": -9.1300,
+                "longitud": -77.5700
+              }
+            }
+          ]
+        },
+        {
+          "id": "0213",
+          "nombre": "MARISCAL LUZURIAGA",
+          "coordenadas": {
+            "latitud": -8.8000,
+            "longitud": -77.4000
+          },
+          "distritos": [
+            {
+              "id": "021301",
+              "nombre": "PISCOBAMBA",
+              "coordenadas": {
+                "latitud": -8.8000,
+                "longitud": -77.4000
+              }
+            },
+            {
+              "id": "021302",
+              "nombre": "CASCA",
+              "coordenadas": {
+                "latitud": -8.8500,
+                "longitud": -77.3500
+              }
+            },
+            {
+              "id": "021303",
+              "nombre": "ELEAZAR GUZMAN BARRON",
+              "coordenadas": {
+                "latitud": -8.7500,
+                "longitud": -77.4500
+              }
+            },
+            {
+              "id": "021304",
+              "nombre": "FIDEL OLIVAS ESCUDERO",
+              "coordenadas": {
+                "latitud": -8.9000,
+                "longitud": -77.3000
+              }
+            },
+            {
+              "id": "021305",
+              "nombre": "LLAMA",
+              "coordenadas": {
+                "latitud": -8.7000,
+                "longitud": -77.5000
+              }
+            },
+            {
+              "id": "021306",
+              "nombre": "LLUMPA",
+              "coordenadas": {
+                "latitud": -8.9500,
+                "longitud": -77.2500
+              }
+            },
+            {
+              "id": "021307",
+              "nombre": "LUCMA",
+              "coordenadas": {
+                "latitud": -8.6500,
+                "longitud": -77.5500
+              }
+            },
+            {
+              "id": "021308",
+              "nombre": "MUSGA",
+              "coordenadas": {
+                "latitud": -9.0000,
+                "longitud": -77.2000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0214",
+          "nombre": "OCROS",
+          "coordenadas": {
+            "latitud": -10.4000,
+            "longitud": -77.4000
+          },
+          "distritos": [
+            {
+              "id": "021401",
+              "nombre": "OCROS",
+              "coordenadas": {
+                "latitud": -10.4000,
+                "longitud": -77.4000
+              }
+            },
+            {
+              "id": "021402",
+              "nombre": "ACAS",
+              "coordenadas": {
+                "latitud": -10.4500,
+                "longitud": -77.3500
+              }
+            },
+            {
+              "id": "021403",
+              "nombre": "CAJAMARQUILLA",
+              "coordenadas": {
+                "latitud": -10.3500,
+                "longitud": -77.4500
+              }
+            },
+            {
+              "id": "021404",
+              "nombre": "CARHUAPAMPA",
+              "coordenadas": {
+                "latitud": -10.5000,
+                "longitud": -77.3000
+              }
+            },
+            {
+              "id": "021405",
+              "nombre": "COCHAS",
+              "coordenadas": {
+                "latitud": -10.3000,
+                "longitud": -77.5000
+              }
+            },
+            {
+              "id": "021406",
+              "nombre": "CONGAS",
+              "coordenadas": {
+                "latitud": -10.5500,
+                "longitud": -77.2500
+              }
+            },
+            {
+              "id": "021407",
+              "nombre": "LLIPA",
+              "coordenadas": {
+                "latitud": -10.2500,
+                "longitud": -77.5500
+              }
+            },
+            {
+              "id": "021408",
+              "nombre": "SAN CRISTOBAL DE RAJAN",
+              "coordenadas": {
+                "latitud": -10.6000,
+                "longitud": -77.2000
+              }
+            },
+            {
+              "id": "021409",
+              "nombre": "SAN PEDRO",
+              "coordenadas": {
+                "latitud": -10.2000,
+                "longitud": -77.6000
+              }
+            },
+            {
+              "id": "021410",
+              "nombre": "SANTIAGO DE CHILCAS",
+              "coordenadas": {
+                "latitud": -10.6500,
+                "longitud": -77.1500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0215",
+          "nombre": "PALLASCA",
+          "coordenadas": {
+            "latitud": -8.2500,
+            "longitud": -77.9500
+          },
+          "distritos": [
+            {
+              "id": "021501",
+              "nombre": "CABANA",
+              "coordenadas": {
+                "latitud": -8.2500,
+                "longitud": -77.9500
+              }
+            },
+            {
+              "id": "021502",
+              "nombre": "BOLOGNESI",
+              "coordenadas": {
+                "latitud": -8.3000,
+                "longitud": -77.9000
+              }
+            },
+            {
+              "id": "021503",
+              "nombre": "CONCHUCOS",
+              "coordenadas": {
+                "latitud": -8.2000,
+                "longitud": -78.0000
+              }
+            },
+            {
+              "id": "021504",
+              "nombre": "HUACASCHUQUE",
+              "coordenadas": {
+                "latitud": -8.3500,
+                "longitud": -77.8500
+              }
+            },
+            {
+              "id": "021505",
+              "nombre": "HUANDOVAL",
+              "coordenadas": {
+                "latitud": -8.1500,
+                "longitud": -78.0500
+              }
+            },
+            {
+              "id": "021506",
+              "nombre": "LACABAMBA",
+              "coordenadas": {
+                "latitud": -8.4000,
+                "longitud": -77.8000
+              }
+            },
+            {
+              "id": "021507",
+              "nombre": "LLAPO",
+              "coordenadas": {
+                "latitud": -8.1000,
+                "longitud": -78.1000
+              }
+            },
+            {
+              "id": "021508",
+              "nombre": "PALLASCA",
+              "coordenadas": {
+                "latitud": -8.4500,
+                "longitud": -77.7500
+              }
+            },
+            {
+              "id": "021509",
+              "nombre": "PAMPAS",
+              "coordenadas": {
+                "latitud": -8.0500,
+                "longitud": -78.1500
+              }
+            },
+            {
+              "id": "021510",
+              "nombre": "SANTA ROSA",
+              "coordenadas": {
+                "latitud": -8.5000,
+                "longitud": -77.7000
+              }
+            },
+            {
+              "id": "021511",
+              "nombre": "TAUCA",
+              "coordenadas": {
+                "latitud": -8.0000,
+                "longitud": -78.2000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0216",
+          "nombre": "POMABAMBA",
+          "coordenadas": {
+            "latitud": -8.8300,
+            "longitud": -77.4500
+          },
+          "distritos": [
+            {
+              "id": "021601",
+              "nombre": "POMABAMBA",
+              "coordenadas": {
+                "latitud": -8.8300,
+                "longitud": -77.4500
+              }
+            },
+            {
+              "id": "021602",
+              "nombre": "HUAYLLAN",
+              "coordenadas": {
+                "latitud": -8.8800,
+                "longitud": -77.4000
+              }
+            },
+            {
+              "id": "021603",
+              "nombre": "PAROBAMBA",
+              "coordenadas": {
+                "latitud": -8.7800,
+                "longitud": -77.5000
+              }
+            },
+            {
+              "id": "021604",
+              "nombre": "QUINUABAMBA",
+              "coordenadas": {
+                "latitud": -8.9300,
+                "longitud": -77.3500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0217",
+          "nombre": "RECUAY",
+          "coordenadas": {
+            "latitud": -9.7200,
+            "longitud": -77.4500
+          },
+          "distritos": [
+            {
+              "id": "021701",
+              "nombre": "RECUAY",
+              "coordenadas": {
+                "latitud": -9.7200,
+                "longitud": -77.4500
+              }
+            },
+            {
+              "id": "021702",
+              "nombre": "CATAC",
+              "coordenadas": {
+                "latitud": -9.7700,
+                "longitud": -77.4000
+              }
+            },
+            {
+              "id": "021703",
+              "nombre": "COTAPARACO",
+              "coordenadas": {
+                "latitud": -9.6700,
+                "longitud": -77.5000
+              }
+            },
+            {
+              "id": "021704",
+              "nombre": "HUAYLLAPAMPA",
+              "coordenadas": {
+                "latitud": -9.8200,
+                "longitud": -77.3500
+              }
+            },
+            {
+              "id": "021705",
+              "nombre": "LLACLLIN",
+              "coordenadas": {
+                "latitud": -9.6200,
+                "longitud": -77.5500
+              }
+            },
+            {
+              "id": "021706",
+              "nombre": "MARCA",
+              "coordenadas": {
+                "latitud": -9.8700,
+                "longitud": -77.3000
+              }
+            },
+            {
+              "id": "021707",
+              "nombre": "PAMPAS CHICO",
+              "coordenadas": {
+                "latitud": -9.5700,
+                "longitud": -77.6000
+              }
+            },
+            {
+              "id": "021708",
+              "nombre": "PARARIN",
+              "coordenadas": {
+                "latitud": -9.9200,
+                "longitud": -77.2500
+              }
+            },
+            {
+              "id": "021709",
+              "nombre": "TAPACOCHA",
+              "coordenadas": {
+                "latitud": -9.5200,
+                "longitud": -77.6500
+              }
+            },
+            {
+              "id": "021710",
+              "nombre": "TICAPAMPA",
+              "coordenadas": {
+                "latitud": -9.9700,
+                "longitud": -77.2000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0218",
+          "nombre": "SANTA",
+          "coordenadas": {
+            "latitud": -9.1300,
+            "longitud": -78.5300
+          },
+          "distritos": [
+            {
+              "id": "021801",
+              "nombre": "CHIMBOTE",
+              "coordenadas": {
+                "latitud": -9.1300,
+                "longitud": -78.5300
+              }
+            },
+            {
+              "id": "021802",
+              "nombre": "CACERES DEL PERU",
+              "coordenadas": {
+                "latitud": -9.1800,
+                "longitud": -78.4800
+              }
+            },
+            {
+              "id": "021803",
+              "nombre": "COISHCO",
+              "coordenadas": {
+                "latitud": -9.0800,
+                "longitud": -78.5800
+              }
+            },
+            {
+              "id": "021804",
+              "nombre": "MACATE",
+              "coordenadas": {
+                "latitud": -9.2300,
+                "longitud": -78.4300
+              }
+            },
+            {
+              "id": "021805",
+              "nombre": "MORO",
+              "coordenadas": {
+                "latitud": -9.0300,
+                "longitud": -78.6300
+              }
+            },
+            {
+              "id": "021806",
+              "nombre": "NEPEÑA",
+              "coordenadas": {
+                "latitud": -9.2800,
+                "longitud": -78.3800
+              }
+            },
+            {
+              "id": "021807",
+              "nombre": "SAMANCO",
+              "coordenadas": {
+                "latitud": -8.9800,
+                "longitud": -78.6800
+              }
+            },
+            {
+              "id": "021808",
+              "nombre": "SANTA",
+              "coordenadas": {
+                "latitud": -9.3300,
+                "longitud": -78.3300
+              }
+            },
+            {
+              "id": "021809",
+              "nombre": "NUEVO CHIMBOTE",
+              "coordenadas": {
+                "latitud": -8.9300,
+                "longitud": -78.7300
+              }
+            }
+          ]
+        },
+        {
+          "id": "0219",
+          "nombre": "SIHUAS",
+          "coordenadas": {
+            "latitud": -8.5700,
+            "longitud": -77.6200
+          },
+          "distritos": [
+            {
+              "id": "021901",
+              "nombre": "SIHUAS",
+              "coordenadas": {
+                "latitud": -8.5700,
+                "longitud": -77.6200
+              }
+            },
+            {
+              "id": "021902",
+              "nombre": "ACOBAMBA",
+              "coordenadas": {
+                "latitud": -8.6200,
+                "longitud": -77.5700
+              }
+            },
+            {
+              "id": "021903",
+              "nombre": "ALFONSO UGARTE",
+              "coordenadas": {
+                "latitud": -8.5200,
+                "longitud": -77.6700
+              }
+            },
+            {
+              "id": "021904",
+              "nombre": "CASHAPAMPA",
+              "coordenadas": {
+                "latitud": -8.6700,
+                "longitud": -77.5200
+              }
+            },
+            {
+              "id": "021905",
+              "nombre": "CHINGALPO",
+              "coordenadas": {
+                "latitud": -8.4700,
+                "longitud": -77.7200
+              }
+            },
+            {
+              "id": "021906",
+              "nombre": "HUAYLLABAMBA",
+              "coordenadas": {
+                "latitud": -8.7200,
+                "longitud": -77.4700
+              }
+            },
+            {
+              "id": "021907",
+              "nombre": "QUICHES",
+              "coordenadas": {
+                "latitud": -8.4200,
+                "longitud": -77.7700
+              }
+            },
+            {
+              "id": "021908",
+              "nombre": "RAGASH",
+              "coordenadas": {
+                "latitud": -8.7700,
+                "longitud": -77.4200
+              }
+            },
+            {
+              "id": "021909",
+              "nombre": "SAN JUAN",
+              "coordenadas": {
+                "latitud": -8.3700,
+                "longitud": -77.8200
+              }
+            },
+            {
+              "id": "021910",
+              "nombre": "SICSIBAMBA",
+              "coordenadas": {
+                "latitud": -8.8200,
+                "longitud": -77.3700
+              }
+            }
+          ]
+        },
+        {
+          "id": "0220",
+          "nombre": "YUNGAY",
+          "coordenadas": {
+            "latitud": -9.1400,
+            "longitud": -77.7400
+          },
+          "distritos": [
+            {
+              "id": "022001",
+              "nombre": "YUNGAY",
+              "coordenadas": {
+                "latitud": -9.1400,
+                "longitud": -77.7400
+              }
+            },
+            {
+              "id": "022002",
+              "nombre": "CASCAPARA",
+              "coordenadas": {
+                "latitud": -9.1900,
+                "longitud": -77.6900
+              }
+            },
+            {
+              "id": "022003",
+              "nombre": "MANCOS",
+              "coordenadas": {
+                "latitud": -9.0900,
+                "longitud": -77.7900
+              }
+            },
+            {
+              "id": "022004",
+              "nombre": "MATACOTO",
+              "coordenadas": {
+                "latitud": -9.2400,
+                "longitud": -77.6400
+              }
+            },
+            {
+              "id": "022005",
+              "nombre": "QUILLO",
+              "coordenadas": {
+                "latitud": -9.0400,
+                "longitud": -77.8400
+              }
+            },
+            {
+              "id": "022006",
+              "nombre": "RANRAHIRCA",
+              "coordenadas": {
+                "latitud": -9.2900,
+                "longitud": -77.5900
+              }
+            },
+            {
+              "id": "022007",
+              "nombre": "SHUPLUY",
+              "coordenadas": {
+                "latitud": -8.9900,
+                "longitud": -77.8900
+              }
+            },
+            {
+              "id": "022008",
+              "nombre": "YANAMA",
+              "coordenadas": {
+                "latitud": -9.3400,
+                "longitud": -77.5400
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "nombre": "APURIMAC",
+      "coordenadas": {
+        "latitud": -13.0500,
+        "longitud": -72.2500
+      },
+      "provincias": [
+        {
+          "id": "0301",
+          "nombre": "ANDAHUAYLAS",
+          "coordenadas": {
+            "latitud": -13.6500,
+            "longitud": -73.3833
+          },
+          "distritos": [
+            {
+              "id": "030101",
+              "nombre": "ANDAHUAYLAS",
+              "coordenadas": {
+                "latitud": -13.6500,
+                "longitud": -73.3833
+              }
+            },
+            {
+              "id": "030102",
+              "nombre": "ANDARAPA",
+              "coordenadas": {
+                "latitud": -13.7000,
+                "longitud": -73.3333
+              }
+            },
+            {
+              "id": "030103",
+              "nombre": "CHIARA",
+              "coordenadas": {
+                "latitud": -13.6000,
+                "longitud": -73.4333
+              }
+            },
+            {
+              "id": "030104",
+              "nombre": "HUANCARAMA",
+              "coordenadas": {
+                "latitud": -13.7500,
+                "longitud": -73.2833
+              }
+            },
+            {
+              "id": "030105",
+              "nombre": "HUANCARAY",
+              "coordenadas": {
+                "latitud": -13.5500,
+                "longitud": -73.4833
+              }
+            },
+            {
+              "id": "030106",
+              "nombre": "HUAYANA",
+              "coordenadas": {
+                "latitud": -13.8000,
+                "longitud": -73.2333
+              }
+            },
+            {
+              "id": "030107",
+              "nombre": "KISHUARA",
+              "coordenadas": {
+                "latitud": -13.5000,
+                "longitud": -73.5333
+              }
+            },
+            {
+              "id": "030108",
+              "nombre": "PACOBAMBA",
+              "coordenadas": {
+                "latitud": -13.8500,
+                "longitud": -73.1833
+              }
+            },
+            {
+              "id": "030109",
+              "nombre": "PACUCHA",
+              "coordenadas": {
+                "latitud": -13.4500,
+                "longitud": -73.5833
+              }
+            },
+            {
+              "id": "030110",
+              "nombre": "PAMPACHIRI",
+              "coordenadas": {
+                "latitud": -13.9000,
+                "longitud": -73.1333
+              }
+            },
+            {
+              "id": "030111",
+              "nombre": "POMACOCHA",
+              "coordenadas": {
+                "latitud": -13.4000,
+                "longitud": -73.6333
+              }
+            },
+            {
+              "id": "030112",
+              "nombre": "SAN ANTONIO DE CACHI",
+              "coordenadas": {
+                "latitud": -13.9500,
+                "longitud": -73.0833
+              }
+            },
+            {
+              "id": "030113",
+              "nombre": "SAN JERONIMO",
+              "coordenadas": {
+                "latitud": -13.3500,
+                "longitud": -73.6833
+              }
+            },
+            {
+              "id": "030114",
+              "nombre": "SAN MIGUEL DE CHACCRAMPA",
+              "coordenadas": {
+                "latitud": -14.0000,
+                "longitud": -73.0333
+              }
+            },
+            {
+              "id": "030115",
+              "nombre": "SANTA MARIA DE CHICMO",
+              "coordenadas": {
+                "latitud": -13.3000,
+                "longitud": -73.7333
+              }
+            },
+            {
+              "id": "030116",
+              "nombre": "TALAVERA",
+              "coordenadas": {
+                "latitud": -14.0500,
+                "longitud": -72.9833
+              }
+            },
+            {
+              "id": "030117",
+              "nombre": "TUMAY HUARACA",
+              "coordenadas": {
+                "latitud": -13.2500,
+                "longitud": -73.7833
+              }
+            },
+            {
+              "id": "030118",
+              "nombre": "TURPO",
+              "coordenadas": {
+                "latitud": -14.1000,
+                "longitud": -72.9333
+              }
+            },
+            {
+              "id": "030119",
+              "nombre": "KAQUIABAMBA",
+              "coordenadas": {
+                "latitud": -13.2000,
+                "longitud": -73.8333
+              }
+            }
+          ]
+        },
+        {
+          "id": "0302",
+          "nombre": "ANDAHUAYLAS",
+          "coordenadas": {
+            "latitud": -13.6500,
+            "longitud": -73.3833
+          },
+          "distritos": [
+            {
+              "id": "030201",
+              "nombre": "ANDAHUAYLAS",
+              "coordenadas": {
+                "latitud": -13.6500,
+                "longitud": -73.3833
+              }
+            },
+            {
+              "id": "030202",
+              "nombre": "ANDARAPA",
+              "coordenadas": {
+                "latitud": -13.7000,
+                "longitud": -73.3333
+              }
+            },
+            {
+              "id": "030203",
+              "nombre": "CHIARA",
+              "coordenadas": {
+                "latitud": -13.6000,
+                "longitud": -73.4333
+              }
+            },
+            {
+              "id": "030204",
+              "nombre": "HUANCARAMA",
+              "coordenadas": {
+                "latitud": -13.7500,
+                "longitud": -73.2833
+              }
+            },
+            {
+              "id": "030205",
+              "nombre": "HUANCARAY",
+              "coordenadas": {
+                "latitud": -13.5500,
+                "longitud": -73.4833
+              }
+            },
+            {
+              "id": "030206",
+              "nombre": "HUAYANA",
+              "coordenadas": {
+                "latitud": -13.8000,
+                "longitud": -73.2333
+              }
+            },
+            {
+              "id": "030207",
+              "nombre": "KISHUARA",
+              "coordenadas": {
+                "latitud": -13.5000,
+                "longitud": -73.5333
+              }
+            },
+            {
+              "id": "030208",
+              "nombre": "PACOBAMBA",
+              "coordenadas": {
+                "latitud": -13.8500,
+                "longitud": -73.1833
+              }
+            },
+            {
+              "id": "030209",
+              "nombre": "PACUCHA",
+              "coordenadas": {
+                "latitud": -13.4500,
+                "longitud": -73.5833
+              }
+            },
+            {
+              "id": "030210",
+              "nombre": "PAMPACHIRI",
+              "coordenadas": {
+                "latitud": -13.9000,
+                "longitud": -73.1333
+              }
+            },
+            {
+              "id": "030211",
+              "nombre": "POMACOCHA",
+              "coordenadas": {
+                "latitud": -13.4000,
+                "longitud": -73.6333
+              }
+            },
+            {
+              "id": "030212",
+              "nombre": "SAN ANTONIO DE CACHI",
+              "coordenadas": {
+                "latitud": -13.9500,
+                "longitud": -73.0833
+              }
+            },
+            {
+              "id": "030213",
+              "nombre": "SAN JERONIMO",
+              "coordenadas": {
+                "latitud": -13.3500,
+                "longitud": -73.6833
+              }
+            },
+            {
+              "id": "030214",
+              "nombre": "SAN MIGUEL DE CHACCRAMPA",
+              "coordenadas": {
+                "latitud": -14.0000,
+                "longitud": -73.0333
+              }
+            },
+            {
+              "id": "030215",
+              "nombre": "SANTA MARIA DE CHICMO",
+              "coordenadas": {
+                "latitud": -13.3000,
+                "longitud": -73.7333
+              }
+            },
+            {
+              "id": "030216",
+              "nombre": "TALAVERA",
+              "coordenadas": {
+                "latitud": -14.0500,
+                "longitud": -72.9833
+              }
+            },
+            {
+              "id": "030217",
+              "nombre": "TUMAY HUARACA",
+              "coordenadas": {
+                "latitud": -13.2500,
+                "longitud": -73.7833
+              }
+            },
+            {
+              "id": "030218",
+              "nombre": "TURPO",
+              "coordenadas": {
+                "latitud": -14.1000,
+                "longitud": -72.9333
+              }
+            },
+            {
+              "id": "030219",
+              "nombre": "KAQUIABAMBA",
+              "coordenadas": {
+                "latitud": -13.2000,
+                "longitud": -73.8333
+              }
+            }
+          ]
+        },
+        {
+          "id": "0303",
+          "nombre": "ANTABAMBA",
+          "coordenadas": {
+            "latitud": -14.3667,
+            "longitud": -72.8833
+          },
+          "distritos": [
+            {
+              "id": "030301",
+              "nombre": "ANTABAMBA",
+              "coordenadas": {
+                "latitud": -14.3667,
+                "longitud": -72.8833
+              }
+            },
+            {
+              "id": "030302",
+              "nombre": "EL ORO",
+              "coordenadas": {
+                "latitud": -14.4167,
+                "longitud": -72.8333
+              }
+            },
+            {
+              "id": "030303",
+              "nombre": "HUAQUIRCA",
+              "coordenadas": {
+                "latitud": -14.3167,
+                "longitud": -72.9333
+              }
+            },
+            {
+              "id": "030304",
+              "nombre": "JUAN ESPINOZA MEDRANO",
+              "coordenadas": {
+                "latitud": -14.4667,
+                "longitud": -72.7833
+              }
+            },
+            {
+              "id": "030305",
+              "nombre": "OROPESA",
+              "coordenadas": {
+                "latitud": -14.2667,
+                "longitud": -72.9833
+              }
+            },
+            {
+              "id": "030306",
+              "nombre": "PACHACONAS",
+              "coordenadas": {
+                "latitud": -14.5167,
+                "longitud": -72.7333
+              }
+            },
+            {
+              "id": "030307",
+              "nombre": "SABAINO",
+              "coordenadas": {
+                "latitud": -14.2167,
+                "longitud": -73.0333
+              }
+            }
+          ]
+        },
+        {
+          "id": "0304",
+          "nombre": "AYMARAES",
+          "coordenadas": {
+            "latitud": -14.2000,
+            "longitud": -73.2333
+          },
+          "distritos": [
+            {
+              "id": "030401",
+              "nombre": "CHALHUANCA",
+              "coordenadas": {
+                "latitud": -14.2000,
+                "longitud": -73.2333
+              }
+            },
+            {
+              "id": "030402",
+              "nombre": "CAPAYA",
+              "coordenadas": {
+                "latitud": -14.2500,
+                "longitud": -73.1833
+              }
+            },
+            {
+              "id": "030403",
+              "nombre": "CARAYBAMBA",
+              "coordenadas": {
+                "latitud": -14.1500,
+                "longitud": -73.2833
+              }
+            },
+            {
+              "id": "030404",
+              "nombre": "CHAPIMARCA",
+              "coordenadas": {
+                "latitud": -14.3000,
+                "longitud": -73.1333
+              }
+            },
+            {
+              "id": "030405",
+              "nombre": "COLCABAMBA",
+              "coordenadas": {
+                "latitud": -14.1000,
+                "longitud": -73.3333
+              }
+            },
+            {
+              "id": "030406",
+              "nombre": "COTARUSE",
+              "coordenadas": {
+                "latitud": -14.3500,
+                "longitud": -73.0833
+              }
+            },
+            {
+              "id": "030407",
+              "nombre": "HUAYLLO",
+              "coordenadas": {
+                "latitud": -14.0500,
+                "longitud": -73.3833
+              }
+            },
+            {
+              "id": "030408",
+              "nombre": "JUSTO APU SAHUARAURA",
+              "coordenadas": {
+                "latitud": -14.4000,
+                "longitud": -73.0333
+              }
+            },
+            {
+              "id": "030409",
+              "nombre": "LUCRE",
+              "coordenadas": {
+                "latitud": -14.0000,
+                "longitud": -73.4333
+              }
+            },
+            {
+              "id": "030410",
+              "nombre": "POCOHUANCA",
+              "coordenadas": {
+                "latitud": -14.4500,
+                "longitud": -72.9833
+              }
+            },
+            {
+              "id": "030411",
+              "nombre": "SAN JUAN DE CHACÑA",
+              "coordenadas": {
+                "latitud": -13.9500,
+                "longitud": -73.4833
+              }
+            },
+            {
+              "id": "030412",
+              "nombre": "SAÑAYCA",
+              "coordenadas": {
+                "latitud": -14.5000,
+                "longitud": -72.9333
+              }
+            },
+            {
+              "id": "030413",
+              "nombre": "SORAYA",
+              "coordenadas": {
+                "latitud": -13.9000,
+                "longitud": -73.5333
+              }
+            },
+            {
+              "id": "030414",
+              "nombre": "TAPAIRIHUA",
+              "coordenadas": {
+                "latitud": -14.5500,
+                "longitud": -72.8833
+              }
+            },
+            {
+              "id": "030415",
+              "nombre": "TINTAY",
+              "coordenadas": {
+                "latitud": -13.8500,
+                "longitud": -73.5833
+              }
+            },
+            {
+              "id": "030416",
+              "nombre": "TORAYA",
+              "coordenadas": {
+                "latitud": -14.6000,
+                "longitud": -72.8333
+              }
+            },
+            {
+              "id": "030417",
+              "nombre": "YANACA",
+              "coordenadas": {
+                "latitud": -13.8000,
+                "longitud": -73.6333
+              }
+            }
+          ]
+        },
+        {
+          "id": "0305",
+          "nombre": "COTABAMBAS",
+          "coordenadas": {
+            "latitud": -13.9167,
+            "longitud": -72.1833
+          },
+          "distritos": [
+            {
+              "id": "030501",
+              "nombre": "TAMBOBAMBA",
+              "coordenadas": {
+                "latitud": -13.9167,
+                "longitud": -72.1833
+              }
+            },
+            {
+              "id": "030502",
+              "nombre": "COTABAMBAS",
+              "coordenadas": {
+                "latitud": -13.9667,
+                "longitud": -72.1333
+              }
+            },
+            {
+              "id": "030503",
+              "nombre": "COYLLURQUI",
+              "coordenadas": {
+                "latitud": -13.8667,
+                "longitud": -72.2333
+              }
+            },
+            {
+              "id": "030504",
+              "nombre": "HAQUIRA",
+              "coordenadas": {
+                "latitud": -14.0167,
+                "longitud": -72.0833
+              }
+            },
+            {
+              "id": "030505",
+              "nombre": "MARA",
+              "coordenadas": {
+                "latitud": -13.8167,
+                "longitud": -72.2833
+              }
+            },
+            {
+              "id": "030506",
+              "nombre": "CHALLHUAHUACHO",
+              "coordenadas": {
+                "latitud": -14.0667,
+                "longitud": -72.0333
+              }
+            }
+          ]
+        },
+        {
+          "id": "0306",
+          "nombre": "CHINCHEROS",
+          "coordenadas": {
+            "latitud": -13.5167,
+            "longitud": -73.7500
+          },
+          "distritos": [
+            {
+              "id": "030601",
+              "nombre": "CHINCHEROS",
+              "coordenadas": {
+                "latitud": -13.5167,
+                "longitud": -73.7500
+              }
+            },
+            {
+              "id": "030602",
+              "nombre": "ANCO-HUALLO",
+              "coordenadas": {
+                "latitud": -13.5667,
+                "longitud": -73.7000
+              }
+            },
+            {
+              "id": "030603",
+              "nombre": "COCHARCAS",
+              "coordenadas": {
+                "latitud": -13.4667,
+                "longitud": -73.8000
+              }
+            },
+            {
+              "id": "030604",
+              "nombre": "HUACCANA",
+              "coordenadas": {
+                "latitud": -13.6167,
+                "longitud": -73.6500
+              }
+            },
+            {
+              "id": "030605",
+              "nombre": "OCOBAMBA",
+              "coordenadas": {
+                "latitud": -13.4167,
+                "longitud": -73.8500
+              }
+            },
+            {
+              "id": "030606",
+              "nombre": "ONGOY",
+              "coordenadas": {
+                "latitud": -13.6667,
+                "longitud": -73.6000
+              }
+            },
+            {
+              "id": "030607",
+              "nombre": "URANMARCA",
+              "coordenadas": {
+                "latitud": -13.3667,
+                "longitud": -73.9000
+              }
+            },
+            {
+              "id": "030608",
+              "nombre": "RANRACANCHA",
+              "coordenadas": {
+                "latitud": -13.7167,
+                "longitud": -73.5500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0307",
+          "nombre": "GRAU",
+          "coordenadas": {
+            "latitud": -14.0833,
+            "longitud": -72.6333
+          },
+          "distritos": [
+            {
+              "id": "030701",
+              "nombre": "CHUQUIBAMBILLA",
+              "coordenadas": {
+                "latitud": -14.0833,
+                "longitud": -72.6333
+              }
+            },
+            {
+              "id": "030702",
+              "nombre": "CURPAHUASI",
+              "coordenadas": {
+                "latitud": -14.1333,
+                "longitud": -72.5833
+              }
+            },
+            {
+              "id": "030703",
+              "nombre": "GAMARRA",
+              "coordenadas": {
+                "latitud": -14.0333,
+                "longitud": -72.6833
+              }
+            },
+            {
+              "id": "030704",
+              "nombre": "HUAYLLATI",
+              "coordenadas": {
+                "latitud": -14.1833,
+                "longitud": -72.5333
+              }
+            },
+            {
+              "id": "030705",
+              "nombre": "MAMARA",
+              "coordenadas": {
+                "latitud": -13.9833,
+                "longitud": -72.7333
+              }
+            },
+            {
+              "id": "030706",
+              "nombre": "MICAELA BASTIDAS",
+              "coordenadas": {
+                "latitud": -14.2333,
+                "longitud": -72.4833
+              }
+            },
+            {
+              "id": "030707",
+              "nombre": "PATAYPAMPA",
+              "coordenadas": {
+                "latitud": -13.9333,
+                "longitud": -72.7833
+              }
+            },
+            {
+              "id": "030708",
+              "nombre": "PROGRESO",
+              "coordenadas": {
+                "latitud": -14.2833,
+                "longitud": -72.4333
+              }
+            },
+            {
+              "id": "030709",
+              "nombre": "SAN ANTONIO",
+              "coordenadas": {
+                "latitud": -13.8833,
+                "longitud": -72.8333
+              }
+            },
+            {
+              "id": "030710",
+              "nombre": "SANTA ROSA",
+              "coordenadas": {
+                "latitud": -14.3333,
+                "longitud": -72.3833
+              }
+            },
+            {
+              "id": "030711",
+              "nombre": "TURPAY",
+              "coordenadas": {
+                "latitud": -13.8333,
+                "longitud": -72.8833
+              }
+            },
+            {
+              "id": "030712",
+              "nombre": "VILCABAMBA",
+              "coordenadas": {
+                "latitud": -14.3833,
+                "longitud": -72.3333
+              }
+            },
+            {
+              "id": "030713",
+              "nombre": "VIRUNDO",
+              "coordenadas": {
+                "latitud": -13.7833,
+                "longitud": -72.9333
+              }
+            },
+            {
+              "id": "030714",
+              "nombre": "CURASCO",
+              "coordenadas": {
+                "latitud": -14.4333,
+                "longitud": -72.2833
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "nombre": "AREQUIPA",
+      "coordenadas": {
+        "latitud": -16.3989,
+        "longitud": -71.5350
+      },
+      "provincias": [
+        {
+          "id": "0401",
+          "nombre": "AREQUIPA",
+          "coordenadas": {
+            "latitud": -16.3989,
+            "longitud": -71.5350
+          },
+          "distritos": [
+            {
+              "id": "040101",
+              "nombre": "AREQUIPA",
+              "coordenadas": {
+                "latitud": -16.3989,
+                "longitud": -71.5350
+              }
+            },
+            {
+              "id": "040102",
+              "nombre": "ALTO SELVA ALEGRE",
+              "coordenadas": {
+                "latitud": -16.3833,
+                "longitud": -71.5167
+              }
+            },
+            {
+              "id": "040103",
+              "nombre": "CAYMA",
+              "coordenadas": {
+                "latitud": -16.4167,
+                "longitud": -71.5167
+              }
+            },
+            {
+              "id": "040104",
+              "nombre": "CERRO COLORADO",
+              "coordenadas": {
+                "latitud": -16.3667,
+                "longitud": -71.5500
+              }
+            },
+            {
+              "id": "040105",
+              "nombre": "CHARACATO",
+              "coordenadas": {
+                "latitud": -16.4500,
+                "longitud": -71.4667
+              }
+            },
+            {
+              "id": "040106",
+              "nombre": "CHIGUATA",
+              "coordenadas": {
+                "latitud": -16.4000,
+                "longitud": -71.4000
+              }
+            },
+            {
+              "id": "040107",
+              "nombre": "JACOBO HUNTER",
+              "coordenadas": {
+                "latitud": -16.3500,
+                "longitud": -71.5667
+              }
+            },
+            {
+              "id": "040108",
+              "nombre": "LA JOYA",
+              "coordenadas": {
+                "latitud": -16.3333,
+                "longitud": -71.5833
+              }
+            },
+            {
+              "id": "040109",
+              "nombre": "MARIANO MELGAR",
+              "coordenadas": {
+                "latitud": -16.3167,
+                "longitud": -71.6000
+              }
+            },
+            {
+              "id": "040110",
+              "nombre": "MIRAFLORES",
+              "coordenadas": {
+                "latitud": -16.3000,
+                "longitud": -71.6167
+              }
+            },
+            {
+              "id": "040111",
+              "nombre": "MOLLEBAYA",
+              "coordenadas": {
+                "latitud": -16.4333,
+                "longitud": -71.4333
+              }
+            },
+            {
+              "id": "040112",
+              "nombre": "PAUCARPATA",
+              "coordenadas": {
+                "latitud": -16.2833,
+                "longitud": -71.6333
+              }
+            },
+            {
+              "id": "040113",
+              "nombre": "POCSI",
+              "coordenadas": {
+                "latitud": -16.4167,
+                "longitud": -71.4000
+              }
+            },
+            {
+              "id": "040114",
+              "nombre": "POLOBAYA",
+              "coordenadas": {
+                "latitud": -16.4333,
+                "longitud": -71.3667
+              }
+            },
+            {
+              "id": "040115",
+              "nombre": "QUEQUEÑA",
+              "coordenadas": {
+                "latitud": -16.4500,
+                "longitud": -71.3333
+              }
+            },
+            {
+              "id": "040116",
+              "nombre": "SABANDIA",
+              "coordenadas": {
+                "latitud": -16.4667,
+                "longitud": -71.3000
+              }
+            },
+            {
+              "id": "040117",
+              "nombre": "SACHACA",
+              "coordenadas": {
+                "latitud": -16.4833,
+                "longitud": -71.2667
+              }
+            },
+            {
+              "id": "040118",
+              "nombre": "SAN JUAN DE SIGUAS",
+              "coordenadas": {
+                "latitud": -16.5000,
+                "longitud": -71.2333
+              }
+            },
+            {
+              "id": "040119",
+              "nombre": "SAN JUAN DE TARUCANI",
+              "coordenadas": {
+                "latitud": -16.5167,
+                "longitud": -71.2000
+              }
+            },
+            {
+              "id": "040120",
+              "nombre": "SANTA ISABEL DE SIGUAS",
+              "coordenadas": {
+                "latitud": -16.5333,
+                "longitud": -71.1667
+              }
+            },
+            {
+              "id": "040121",
+              "nombre": "SANTA RITA DE SIGUAS",
+              "coordenadas": {
+                "latitud": -16.5500,
+                "longitud": -71.1333
+              }
+            },
+            {
+              "id": "040122",
+              "nombre": "SOCABAYA",
+              "coordenadas": {
+                "latitud": -16.5667,
+                "longitud": -71.1000
+              }
+            },
+            {
+              "id": "040123",
+              "nombre": "TIABAYA",
+              "coordenadas": {
+                "latitud": -16.5833,
+                "longitud": -71.0667
+              }
+            },
+            {
+              "id": "040124",
+              "nombre": "UCHUMAYO",
+              "coordenadas": {
+                "latitud": -16.6000,
+                "longitud": -71.0333
+              }
+            },
+            {
+              "id": "040125",
+              "nombre": "VITOR",
+              "coordenadas": {
+                "latitud": -16.6167,
+                "longitud": -71.0000
+              }
+            },
+            {
+              "id": "040126",
+              "nombre": "YANAHUARA",
+              "coordenadas": {
+                "latitud": -16.6333,
+                "longitud": -70.9667
+              }
+            },
+            {
+              "id": "040127",
+              "nombre": "YARABAMBA",
+              "coordenadas": {
+                "latitud": -16.6500,
+                "longitud": -70.9333
+              }
+            },
+            {
+              "id": "040128",
+              "nombre": "YURA",
+              "coordenadas": {
+                "latitud": -16.6667,
+                "longitud": -70.9000
+              }
+            },
+            {
+              "id": "040129",
+              "nombre": "JOSE LUIS BUSTAMANTE Y RIVERO",
+              "coordenadas": {
+                "latitud": -16.6833,
+                "longitud": -70.8667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0402",
+          "nombre": "CAMANA",
+          "coordenadas": {
+            "latitud": -16.6167,
+            "longitud": -72.7167
+          },
+          "distritos": [
+            {
+              "id": "040201",
+              "nombre": "CAMANA",
+              "coordenadas": {
+                "latitud": -16.6167,
+                "longitud": -72.7167
+              }
+            },
+            {
+              "id": "040202",
+              "nombre": "JOSE MARIA QUIMPER",
+              "coordenadas": {
+                "latitud": -16.6500,
+                "longitud": -72.6833
+              }
+            },
+            {
+              "id": "040203",
+              "nombre": "MARIANO NICOLAS VALCARCEL",
+              "coordenadas": {
+                "latitud": -16.6833,
+                "longitud": -72.6500
+              }
+            },
+            {
+              "id": "040204",
+              "nombre": "MARISCAL CACERES",
+              "coordenadas": {
+                "latitud": -16.7167,
+                "longitud": -72.6167
+              }
+            },
+            {
+              "id": "040205",
+              "nombre": "NICOLAS DE PIEROLA",
+              "coordenadas": {
+                "latitud": -16.7500,
+                "longitud": -72.5833
+              }
+            },
+            {
+              "id": "040206",
+              "nombre": "OCOÑA",
+              "coordenadas": {
+                "latitud": -16.7833,
+                "longitud": -72.5500
+              }
+            },
+            {
+              "id": "040207",
+              "nombre": "QUILCA",
+              "coordenadas": {
+                "latitud": -16.8167,
+                "longitud": -72.5167
+              }
+            },
+            {
+              "id": "040208",
+              "nombre": "SAMUEL PASTOR",
+              "coordenadas": {
+                "latitud": -16.8500,
+                "longitud": -72.4833
+              }
+            }
+          ]
+        },
+        {
+          "id": "0403",
+          "nombre": "CARAVELI",
+          "coordenadas": {
+            "latitud": -15.7667,
+            "longitud": -73.3667
+          },
+          "distritos": [
+            {
+              "id": "040301",
+              "nombre": "CARAVELI",
+              "coordenadas": {
+                "latitud": -15.7667,
+                "longitud": -73.3667
+              }
+            },
+            {
+              "id": "040302",
+              "nombre": "ACARI",
+              "coordenadas": {
+                "latitud": -15.8000,
+                "longitud": -73.3333
+              }
+            },
+            {
+              "id": "040303",
+              "nombre": "ATICO",
+              "coordenadas": {
+                "latitud": -15.8333,
+                "longitud": -73.3000
+              }
+            },
+            {
+              "id": "040304",
+              "nombre": "ATIQUIPA",
+              "coordenadas": {
+                "latitud": -15.8667,
+                "longitud": -73.2667
+              }
+            },
+            {
+              "id": "040305",
+              "nombre": "BELLA UNION",
+              "coordenadas": {
+                "latitud": -15.9000,
+                "longitud": -73.2333
+              }
+            },
+            {
+              "id": "040306",
+              "nombre": "CAHUACHO",
+              "coordenadas": {
+                "latitud": -15.9333,
+                "longitud": -73.2000
+              }
+            },
+            {
+              "id": "040307",
+              "nombre": "CHALA",
+              "coordenadas": {
+                "latitud": -15.9667,
+                "longitud": -73.1667
+              }
+            },
+            {
+              "id": "040308",
+              "nombre": "CHAPARRA",
+              "coordenadas": {
+                "latitud": -16.0000,
+                "longitud": -73.1333
+              }
+            },
+            {
+              "id": "040309",
+              "nombre": "HUANUHUANU",
+              "coordenadas": {
+                "latitud": -16.0333,
+                "longitud": -73.1000
+              }
+            },
+            {
+              "id": "040310",
+              "nombre": "JAQUI",
+              "coordenadas": {
+                "latitud": -16.0667,
+                "longitud": -73.0667
+              }
+            },
+            {
+              "id": "040311",
+              "nombre": "LOMAS",
+              "coordenadas": {
+                "latitud": -16.1000,
+                "longitud": -73.0333
+              }
+            },
+            {
+              "id": "040312",
+              "nombre": "QUICACHA",
+              "coordenadas": {
+                "latitud": -16.1333,
+                "longitud": -73.0000
+              }
+            },
+            {
+              "id": "040313",
+              "nombre": "SANTA LUCIA",
+              "coordenadas": {
+                "latitud": -16.1667,
+                "longitud": -72.9667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0404",
+          "nombre": "CASTILLA",
+          "coordenadas": {
+            "latitud": -16.1000,
+            "longitud": -72.4167
+          },
+          "distritos": [
+            {
+              "id": "040401",
+              "nombre": "APLAO",
+              "coordenadas": {
+                "latitud": -16.1000,
+                "longitud": -72.4167
+              }
+            },
+            {
+              "id": "040402",
+              "nombre": "ANDAGUA",
+              "coordenadas": {
+                "latitud": -16.1333,
+                "longitud": -72.3833
+              }
+            },
+            {
+              "id": "040403",
+              "nombre": "AYO",
+              "coordenadas": {
+                "latitud": -16.1667,
+                "longitud": -72.3500
+              }
+            },
+            {
+              "id": "040404",
+              "nombre": "CHACHAS",
+              "coordenadas": {
+                "latitud": -16.2000,
+                "longitud": -72.3167
+              }
+            },
+            {
+              "id": "040405",
+              "nombre": "CHILCAYMARCA",
+              "coordenadas": {
+                "latitud": -16.2333,
+                "longitud": -72.2833
+              }
+            },
+            {
+              "id": "040406",
+              "nombre": "CHOCO",
+              "coordenadas": {
+                "latitud": -16.2667,
+                "longitud": -72.2500
+              }
+            },
+            {
+              "id": "040407",
+              "nombre": "HUANCARQUI",
+              "coordenadas": {
+                "latitud": -16.3000,
+                "longitud": -72.2167
+              }
+            },
+            {
+              "id": "040408",
+              "nombre": "MACHAGUAY",
+              "coordenadas": {
+                "latitud": -16.3333,
+                "longitud": -72.1833
+              }
+            },
+            {
+              "id": "040409",
+              "nombre": "ORCOPAMPA",
+              "coordenadas": {
+                "latitud": -16.3667,
+                "longitud": -72.1500
+              }
+            },
+            {
+              "id": "040410",
+              "nombre": "PAMPACOLCA",
+              "coordenadas": {
+                "latitud": -16.4000,
+                "longitud": -72.1167
+              }
+            },
+            {
+              "id": "040411",
+              "nombre": "TIPAN",
+              "coordenadas": {
+                "latitud": -16.4333,
+                "longitud": -72.0833
+              }
+            },
+            {
+              "id": "040412",
+              "nombre": "UÑON",
+              "coordenadas": {
+                "latitud": -16.4667,
+                "longitud": -72.0500
+              }
+            },
+            {
+              "id": "040413",
+              "nombre": "URACA",
+              "coordenadas": {
+                "latitud": -16.5000,
+                "longitud": -72.0167
+              }
+            },
+            {
+              "id": "040414",
+              "nombre": "VIRACO",
+              "coordenadas": {
+                "latitud": -16.5333,
+                "longitud": -71.9833
+              }
+            }
+          ]
+        },
+        {
+          "id": "0405",
+          "nombre": "CAYLLOMA",
+          "coordenadas": {
+            "latitud": -15.6000,
+            "longitud": -71.6000
+          },
+          "distritos": [
+            {
+              "id": "040501",
+              "nombre": "CHIVAY",
+              "coordenadas": {
+                "latitud": -15.6000,
+                "longitud": -71.6000
+              }
+            },
+            {
+              "id": "040502",
+              "nombre": "ACHOMA",
+              "coordenadas": {
+                "latitud": -15.6333,
+                "longitud": -71.5667
+              }
+            },
+            {
+              "id": "040503",
+              "nombre": "CABANACONDE",
+              "coordenadas": {
+                "latitud": -15.6667,
+                "longitud": -71.5333
+              }
+            },
+            {
+              "id": "040504",
+              "nombre": "CALLALLI",
+              "coordenadas": {
+                "latitud": -15.7000,
+                "longitud": -71.5000
+              }
+            },
+            {
+              "id": "040505",
+              "nombre": "CAYLLOMA",
+              "coordenadas": {
+                "latitud": -15.7333,
+                "longitud": -71.4667
+              }
+            },
+            {
+              "id": "040506",
+              "nombre": "COPORAQUE",
+              "coordenadas": {
+                "latitud": -15.7667,
+                "longitud": -71.4333
+              }
+            },
+            {
+              "id": "040507",
+              "nombre": "HUAMBO",
+              "coordenadas": {
+                "latitud": -15.8000,
+                "longitud": -71.4000
+              }
+            },
+            {
+              "id": "040508",
+              "nombre": "HUANCA",
+              "coordenadas": {
+                "latitud": -15.8333,
+                "longitud": -71.3667
+              }
+            },
+            {
+              "id": "040509",
+              "nombre": "ICHUPAMPA",
+              "coordenadas": {
+                "latitud": -15.8667,
+                "longitud": -71.3333
+              }
+            },
+            {
+              "id": "040510",
+              "nombre": "LARI",
+              "coordenadas": {
+                "latitud": -15.9000,
+                "longitud": -71.3000
+              }
+            },
+            {
+              "id": "040511",
+              "nombre": "LLUTA",
+              "coordenadas": {
+                "latitud": -15.9333,
+                "longitud": -71.2667
+              }
+            },
+            {
+              "id": "040512",
+              "nombre": "MACA",
+              "coordenadas": {
+                "latitud": -15.9667,
+                "longitud": -71.2333
+              }
+            },
+            {
+              "id": "040513",
+              "nombre": "MADRIGAL",
+              "coordenadas": {
+                "latitud": -16.0000,
+                "longitud": -71.2000
+              }
+            },
+            {
+              "id": "040514",
+              "nombre": "SAN ANTONIO DE CHUCA",
+              "coordenadas": {
+                "latitud": -16.0333,
+                "longitud": -71.1667
+              }
+            },
+            {
+              "id": "040515",
+              "nombre": "SIBAYO",
+              "coordenadas": {
+                "latitud": -16.0667,
+                "longitud": -71.1333
+              }
+            },
+            {
+              "id": "040516",
+              "nombre": "TAPAY",
+              "coordenadas": {
+                "latitud": -16.1000,
+                "longitud": -71.1000
+              }
+            },
+            {
+              "id": "040517",
+              "nombre": "TISCO",
+              "coordenadas": {
+                "latitud": -16.1333,
+                "longitud": -71.0667
+              }
+            },
+            {
+              "id": "040518",
+              "nombre": "TUTI",
+              "coordenadas": {
+                "latitud": -16.1667,
+                "longitud": -71.0333
+              }
+            },
+            {
+              "id": "040519",
+              "nombre": "YANQUE",
+              "coordenadas": {
+                "latitud": -16.2000,
+                "longitud": -71.0000
+              }
+            },
+            {
+              "id": "040520",
+              "nombre": "MAJES",
+              "coordenadas": {
+                "latitud": -16.2333,
+                "longitud": -70.9667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0406",
+          "nombre": "CONDESUYOS",
+          "coordenadas": {
+            "latitud": -15.8333,
+            "longitud": -72.8333
+          },
+          "distritos": [
+            {
+              "id": "040601",
+              "nombre": "CHUQUIBAMBA",
+              "coordenadas": {
+                "latitud": -15.8333,
+                "longitud": -72.8333
+              }
+            },
+            {
+              "id": "040602",
+              "nombre": "ANDARAY",
+              "coordenadas": {
+                "latitud": -15.8667,
+                "longitud": -72.8000
+              }
+            },
+            {
+              "id": "040603",
+              "nombre": "CAYARANI",
+              "coordenadas": {
+                "latitud": -15.9000,
+                "longitud": -72.7667
+              }
+            },
+            {
+              "id": "040604",
+              "nombre": "CHICHAS",
+              "coordenadas": {
+                "latitud": -15.9333,
+                "longitud": -72.7333
+              }
+            },
+            {
+              "id": "040605",
+              "nombre": "IRAY",
+              "coordenadas": {
+                "latitud": -15.9667,
+                "longitud": -72.7000
+              }
+            },
+            {
+              "id": "040606",
+              "nombre": "RIO GRANDE",
+              "coordenadas": {
+                "latitud": -16.0000,
+                "longitud": -72.6667
+              }
+            },
+            {
+              "id": "040607",
+              "nombre": "SALAMANCA",
+              "coordenadas": {
+                "latitud": -16.0333,
+                "longitud": -72.6333
+              }
+            },
+            {
+              "id": "040608",
+              "nombre": "YANAQUIHUA",
+              "coordenadas": {
+                "latitud": -16.0667,
+                "longitud": -72.6000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0407",
+          "nombre": "ISLAY",
+          "coordenadas": {
+            "latitud": -17.0167,
+            "longitud": -71.9833
+          },
+          "distritos": [
+            {
+              "id": "040701",
+              "nombre": "MOLLENDO",
+              "coordenadas": {
+                "latitud": -17.0167,
+                "longitud": -71.9833
+              }
+            },
+            {
+              "id": "040702",
+              "nombre": "COCACHACRA",
+              "coordenadas": {
+                "latitud": -17.0500,
+                "longitud": -71.9500
+              }
+            },
+            {
+              "id": "040703",
+              "nombre": "DEAN VALDIVIA",
+              "coordenadas": {
+                "latitud": -17.0833,
+                "longitud": -71.9167
+              }
+            },
+            {
+              "id": "040704",
+              "nombre": "ISLAY",
+              "coordenadas": {
+                "latitud": -17.1167,
+                "longitud": -71.8833
+              }
+            },
+            {
+              "id": "040705",
+              "nombre": "MEJIA",
+              "coordenadas": {
+                "latitud": -17.1500,
+                "longitud": -71.8500
+              }
+            },
+            {
+              "id": "040706",
+              "nombre": "PUNTA DE BOMBON",
+              "coordenadas": {
+                "latitud": -17.1833,
+                "longitud": -71.8167
+              }
+            }
+          ]
+        },
+        {
+          "id": "0408",
+          "nombre": "LA UNION",
+          "coordenadas": {
+            "latitud": -15.2000,
+            "longitud": -72.8833
+          },
+          "distritos": [
+            {
+              "id": "040801",
+              "nombre": "COTAHUASI",
+              "coordenadas": {
+                "latitud": -15.2000,
+                "longitud": -72.8833
+              }
+            },
+            {
+              "id": "040802",
+              "nombre": "ALCA",
+              "coordenadas": {
+                "latitud": -15.2333,
+                "longitud": -72.8500
+              }
+            },
+            {
+              "id": "040803",
+              "nombre": "CHARCANA",
+              "coordenadas": {
+                "latitud": -15.2667,
+                "longitud": -72.8167
+              }
+            },
+            {
+              "id": "040804",
+              "nombre": "HUAYNACOTAS",
+              "coordenadas": {
+                "latitud": -15.3000,
+                "longitud": -72.7833
+              }
+            },
+            {
+              "id": "040805",
+              "nombre": "PAMPAMARCA",
+              "coordenadas": {
+                "latitud": -15.3333,
+                "longitud": -72.7500
+              }
+            },
+            {
+              "id": "040806",
+              "nombre": "PUYCA",
+              "coordenadas": {
+                "latitud": -15.3667,
+                "longitud": -72.7167
+              }
+            },
+            {
+              "id": "040807",
+              "nombre": "QUECHUALLA",
+              "coordenadas": {
+                "latitud": -15.4000,
+                "longitud": -72.6833
+              }
+            },
+            {
+              "id": "040808",
+              "nombre": "SAYLA",
+              "coordenadas": {
+                "latitud": -15.4333,
+                "longitud": -72.6500
+              }
+            },
+            {
+              "id": "040809",
+              "nombre": "TAURIA",
+              "coordenadas": {
+                "latitud": -15.4667,
+                "longitud": -72.6167
+              }
+            },
+            {
+              "id": "040810",
+              "nombre": "TOMEPAMPA",
+              "coordenadas": {
+                "latitud": -15.5000,
+                "longitud": -72.5833
+              }
+            },
+            {
+              "id": "040811",
+              "nombre": "TORO",
+              "coordenadas": {
+                "latitud": -15.5333,
+                "longitud": -72.5500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "nombre": "AYACUCHO",
+      "coordenadas": {
+        "latitud": -13.1583,
+        "longitud": -74.2239
+      },
+      "provincias": [
+        {
+          "id": "0501",
+          "nombre": "HUAMANGA",
+          "coordenadas": {
+            "latitud": -13.1583,
+            "longitud": -74.2239
+          },
+          "distritos": [
+            {
+              "id": "050101",
+              "nombre": "AYACUCHO",
+              "coordenadas": {
+                "latitud": -13.1583,
+                "longitud": -74.2239
+              }
+            },
+            {
+              "id": "050102",
+              "nombre": "ACOCRO",
+              "coordenadas": {
+                "latitud": -13.1833,
+                "longitud": -74.2000
+              }
+            },
+            {
+              "id": "050103",
+              "nombre": "ACOS VINCHOS",
+              "coordenadas": {
+                "latitud": -13.2083,
+                "longitud": -74.1761
+              }
+            },
+            {
+              "id": "050104",
+              "nombre": "CARMEN ALTO",
+              "coordenadas": {
+                "latitud": -13.2333,
+                "longitud": -74.1522
+              }
+            },
+            {
+              "id": "050105",
+              "nombre": "CHIARA",
+              "coordenadas": {
+                "latitud": -13.2583,
+                "longitud": -74.1283
+              }
+            },
+            {
+              "id": "050106",
+              "nombre": "OCROS",
+              "coordenadas": {
+                "latitud": -13.2833,
+                "longitud": -74.1044
+              }
+            },
+            {
+              "id": "050107",
+              "nombre": "PACAYCASA",
+              "coordenadas": {
+                "latitud": -13.3083,
+                "longitud": -74.0806
+              }
+            },
+            {
+              "id": "050108",
+              "nombre": "QUINUA",
+              "coordenadas": {
+                "latitud": -13.3333,
+                "longitud": -74.0567
+              }
+            },
+            {
+              "id": "050109",
+              "nombre": "SAN JOSE DE TICLLAS",
+              "coordenadas": {
+                "latitud": -13.3583,
+                "longitud": -74.0328
+              }
+            },
+            {
+              "id": "050110",
+              "nombre": "SAN JUAN BAUTISTA",
+              "coordenadas": {
+                "latitud": -13.3833,
+                "longitud": -74.0089
+              }
+            },
+            {
+              "id": "050111",
+              "nombre": "SANTIAGO DE PISCHA",
+              "coordenadas": {
+                "latitud": -13.4083,
+                "longitud": -73.9850
+              }
+            },
+            {
+              "id": "050112",
+              "nombre": "SOCOS",
+              "coordenadas": {
+                "latitud": -13.4333,
+                "longitud": -73.9611
+              }
+            },
+            {
+              "id": "050113",
+              "nombre": "TAMBILLO",
+              "coordenadas": {
+                "latitud": -13.4583,
+                "longitud": -73.9372
+              }
+            },
+            {
+              "id": "050114",
+              "nombre": "VINCHOS",
+              "coordenadas": {
+                "latitud": -13.4833,
+                "longitud": -73.9133
+              }
+            },
+            {
+              "id": "050115",
+              "nombre": "JESUS NAZARENO",
+              "coordenadas": {
+                "latitud": -13.5083,
+                "longitud": -73.8894
+              }
+            }
+          ]
+        },
+        {
+          "id": "0502",
+          "nombre": "CANGALLO",
+          "coordenadas": {
+            "latitud": -13.6333,
+            "longitud": -74.1333
+          },
+          "distritos": [
+            {
+              "id": "050201",
+              "nombre": "CANGALLO",
+              "coordenadas": {
+                "latitud": -13.6333,
+                "longitud": -74.1333
+              }
+            },
+            {
+              "id": "050202",
+              "nombre": "CHUSCHI",
+              "coordenadas": {
+                "latitud": -13.6667,
+                "longitud": -74.1000
+              }
+            },
+            {
+              "id": "050203",
+              "nombre": "LOS MOROCHUCOS",
+              "coordenadas": {
+                "latitud": -13.7000,
+                "longitud": -74.0667
+              }
+            },
+            {
+              "id": "050204",
+              "nombre": "MARIA PARADO DE BELLIDO",
+              "coordenadas": {
+                "latitud": -13.7333,
+                "longitud": -74.0333
+              }
+            },
+            {
+              "id": "050205",
+              "nombre": "PARAS",
+              "coordenadas": {
+                "latitud": -13.7667,
+                "longitud": -74.0000
+              }
+            },
+            {
+              "id": "050206",
+              "nombre": "TOTOS",
+              "coordenadas": {
+                "latitud": -13.8000,
+                "longitud": -73.9667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0503",
+          "nombre": "HUANCA SANCOS",
+          "coordenadas": {
+            "latitud": -14.0667,
+            "longitud": -74.0000
+          },
+          "distritos": [
+            {
+              "id": "050301",
+              "nombre": "SANCOS",
+              "coordenadas": {
+                "latitud": -14.0667,
+                "longitud": -74.0000
+              }
+            },
+            {
+              "id": "050302",
+              "nombre": "CARAPO",
+              "coordenadas": {
+                "latitud": -14.1000,
+                "longitud": -73.9667
+              }
+            },
+            {
+              "id": "050303",
+              "nombre": "SACSAMARCA",
+              "coordenadas": {
+                "latitud": -14.1333,
+                "longitud": -73.9333
+              }
+            },
+            {
+              "id": "050304",
+              "nombre": "SANTIAGO DE LUCANAMARCA",
+              "coordenadas": {
+                "latitud": -14.1667,
+                "longitud": -73.9000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0504",
+          "nombre": "HUANTA",
+          "coordenadas": {
+            "latitud": -12.9333,
+            "longitud": -74.2500
+          },
+          "distritos": [
+            {
+              "id": "050401",
+              "nombre": "HUANTA",
+              "coordenadas": {
+                "latitud": -12.9333,
+                "longitud": -74.2500
+              }
+            },
+            {
+              "id": "050402",
+              "nombre": "AYAHUANCO",
+              "coordenadas": {
+                "latitud": -12.9667,
+                "longitud": -74.2167
+              }
+            },
+            {
+              "id": "050403",
+              "nombre": "HUAMANGUILLA",
+              "coordenadas": {
+                "latitud": -13.0000,
+                "longitud": -74.1833
+              }
+            },
+            {
+              "id": "050404",
+              "nombre": "IGUAIN",
+              "coordenadas": {
+                "latitud": -13.0333,
+                "longitud": -74.1500
+              }
+            },
+            {
+              "id": "050405",
+              "nombre": "LURICOCHA",
+              "coordenadas": {
+                "latitud": -13.0667,
+                "longitud": -74.1167
+              }
+            },
+            {
+              "id": "050406",
+              "nombre": "SANTILLANA",
+              "coordenadas": {
+                "latitud": -13.1000,
+                "longitud": -74.0833
+              }
+            },
+            {
+              "id": "050407",
+              "nombre": "SIVIA",
+              "coordenadas": {
+                "latitud": -13.1333,
+                "longitud": -74.0500
+              }
+            },
+            {
+              "id": "050408",
+              "nombre": "LLOCHEGUA",
+              "coordenadas": {
+                "latitud": -13.1667,
+                "longitud": -74.0167
+              }
+            }
+          ]
+        },
+        {
+          "id": "0505",
+          "nombre": "LA MAR",
+          "coordenadas": {
+            "latitud": -13.0000,
+            "longitud": -73.9167
+          },
+          "distritos": [
+            {
+              "id": "050501",
+              "nombre": "SAN MIGUEL",
+              "coordenadas": {
+                "latitud": -13.0000,
+                "longitud": -73.9167
+              }
+            },
+            {
+              "id": "050502",
+              "nombre": "ANCO",
+              "coordenadas": {
+                "latitud": -13.0333,
+                "longitud": -73.8833
+              }
+            },
+            {
+              "id": "050503",
+              "nombre": "AYNA",
+              "coordenadas": {
+                "latitud": -13.0667,
+                "longitud": -73.8500
+              }
+            },
+            {
+              "id": "050504",
+              "nombre": "CHILCAS",
+              "coordenadas": {
+                "latitud": -13.1000,
+                "longitud": -73.8167
+              }
+            },
+            {
+              "id": "050505",
+              "nombre": "CHUNGUI",
+              "coordenadas": {
+                "latitud": -13.1333,
+                "longitud": -73.7833
+              }
+            },
+            {
+              "id": "050506",
+              "nombre": "LUIS CARRANZA",
+              "coordenadas": {
+                "latitud": -13.1667,
+                "longitud": -73.7500
+              }
+            },
+            {
+              "id": "050507",
+              "nombre": "SANTA ROSA",
+              "coordenadas": {
+                "latitud": -13.2000,
+                "longitud": -73.7167
+              }
+            },
+            {
+              "id": "050508",
+              "nombre": "TAMBO",
+              "coordenadas": {
+                "latitud": -13.2333,
+                "longitud": -73.6833
+              }
+            }
+          ]
+        },
+        {
+          "id": "0506",
+          "nombre": "LUCANAS",
+          "coordenadas": {
+            "latitud": -14.5000,
+            "longitud": -74.0000
+          },
+          "distritos": [
+            {
+              "id": "050601",
+              "nombre": "PUQUIO",
+              "coordenadas": {
+                "latitud": -14.5000,
+                "longitud": -74.0000
+              }
+            },
+            {
+              "id": "050602",
+              "nombre": "ACCOMARCA",
+              "coordenadas": {
+                "latitud": -14.5333,
+                "longitud": -73.9667
+              }
+            },
+            {
+              "id": "050603",
+              "nombre": "CARHUANCA",
+              "coordenadas": {
+                "latitud": -14.5667,
+                "longitud": -73.9333
+              }
+            },
+            {
+              "id": "050604",
+              "nombre": "CHAVIÑA",
+              "coordenadas": {
+                "latitud": -14.6000,
+                "longitud": -73.9000
+              }
+            },
+            {
+              "id": "050605",
+              "nombre": "CHIPAO",
+              "coordenadas": {
+                "latitud": -14.6333,
+                "longitud": -73.8667
+              }
+            },
+            {
+              "id": "050606",
+              "nombre": "HUAC-HUAS",
+              "coordenadas": {
+                "latitud": -14.6667,
+                "longitud": -73.8333
+              }
+            },
+            {
+              "id": "050607",
+              "nombre": "LARAMATE",
+              "coordenadas": {
+                "latitud": -14.7000,
+                "longitud": -73.8000
+              }
+            },
+            {
+              "id": "050608",
+              "nombre": "LEONCIO PRADO",
+              "coordenadas": {
+                "latitud": -14.7333,
+                "longitud": -73.7667
+              }
+            },
+            {
+              "id": "050609",
+              "nombre": "LLAUTA",
+              "coordenadas": {
+                "latitud": -14.7667,
+                "longitud": -73.7333
+              }
+            },
+            {
+              "id": "050610",
+              "nombre": "LUCANAS",
+              "coordenadas": {
+                "latitud": -14.8000,
+                "longitud": -73.7000
+              }
+            },
+            {
+              "id": "050611",
+              "nombre": "OCAÑA",
+              "coordenadas": {
+                "latitud": -14.8333,
+                "longitud": -73.6667
+              }
+            },
+            {
+              "id": "050612",
+              "nombre": "OTOCA",
+              "coordenadas": {
+                "latitud": -14.8667,
+                "longitud": -73.6333
+              }
+            },
+            {
+              "id": "050613",
+              "nombre": "SANTA LUCIA DE MANTE",
+              "coordenadas": {
+                "latitud": -14.9000,
+                "longitud": -73.6000
+              }
+            },
+            {
+              "id": "050614",
+              "nombre": "SAISA",
+              "coordenadas": {
+                "latitud": -14.9333,
+                "longitud": -73.5667
+              }
+            },
+            {
+              "id": "050615",
+              "nombre": "SAN PEDRO DE PALCO",
+              "coordenadas": {
+                "latitud": -14.9667,
+                "longitud": -73.5333
+              }
+            },
+            {
+              "id": "050616",
+              "nombre": "SAN CRISTOBAL",
+              "coordenadas": {
+                "latitud": -15.0000,
+                "longitud": -73.5000
+              }
+            },
+            {
+              "id": "050617",
+              "nombre": "SAN JUAN",
+              "coordenadas": {
+                "latitud": -15.0333,
+                "longitud": -73.4667
+              }
+            },
+            {
+              "id": "050618",
+              "nombre": "SAN PEDRO",
+              "coordenadas": {
+                "latitud": -15.0667,
+                "longitud": -73.4333
+              }
+            },
+            {
+              "id": "050619",
+              "nombre": "SAN PEDRO DE MARCA",
+              "coordenadas": {
+                "latitud": -15.1000,
+                "longitud": -73.4000
+              }
+            },
+            {
+              "id": "050620",
+              "nombre": "SANCOS",
+              "coordenadas": {
+                "latitud": -15.1333,
+                "longitud": -73.3667
+              }
+            },
+            {
+              "id": "050621",
+              "nombre": "SANTA ANA DE HUAYCAHUACHO",
+              "coordenadas": {
+                "latitud": -15.1667,
+                "longitud": -73.3333
+              }
+            },
+            {
+              "id": "050622",
+              "nombre": "SANTA LUCIA",
+              "coordenadas": {
+                "latitud": -15.2000,
+                "longitud": -73.3000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0507",
+          "nombre": "PARINACOCHAS",
+          "coordenadas": {
+            "latitud": -15.2000,
+            "longitud": -73.5000
+          },
+          "distritos": [
+            {
+              "id": "050701",
+              "nombre": "CORACORA",
+              "coordenadas": {
+                "latitud": -15.2000,
+                "longitud": -73.5000
+              }
+            },
+            {
+              "id": "050702",
+              "nombre": "CHUMPI",
+              "coordenadas": {
+                "latitud": -15.2333,
+                "longitud": -73.4667
+              }
+            },
+            {
+              "id": "050703",
+              "nombre": "CORONEL CASTAÑEDA",
+              "coordenadas": {
+                "latitud": -15.2667,
+                "longitud": -73.4333
+              }
+            },
+            {
+              "id": "050704",
+              "nombre": "PACAPAUSA",
+              "coordenadas": {
+                "latitud": -15.3000,
+                "longitud": -73.4000
+              }
+            },
+            {
+              "id": "050705",
+              "nombre": "PULLO",
+              "coordenadas": {
+                "latitud": -15.3333,
+                "longitud": -73.3667
+              }
+            },
+            {
+              "id": "050706",
+              "nombre": "PUYUSCA",
+              "coordenadas": {
+                "latitud": -15.3667,
+                "longitud": -73.3333
+              }
+            },
+            {
+              "id": "050707",
+              "nombre": "SAN FRANCISCO DE RAVACAYCO",
+              "coordenadas": {
+                "latitud": -15.4000,
+                "longitud": -73.3000
+              }
+            },
+            {
+              "id": "050708",
+              "nombre": "UPAHUACHO",
+              "coordenadas": {
+                "latitud": -15.4333,
+                "longitud": -73.2667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0508",
+          "nombre": "PAUCAR DEL SARA SARA",
+          "coordenadas": {
+            "latitud": -15.3000,
+            "longitud": -73.3000
+          },
+          "distritos": [
+            {
+              "id": "050801",
+              "nombre": "PAUSA",
+              "coordenadas": {
+                "latitud": -15.3000,
+                "longitud": -73.3000
+              }
+            },
+            {
+              "id": "050802",
+              "nombre": "COLTA",
+              "coordenadas": {
+                "latitud": -15.3333,
+                "longitud": -73.2667
+              }
+            },
+            {
+              "id": "050803",
+              "nombre": "CORCULLA",
+              "coordenadas": {
+                "latitud": -15.3667,
+                "longitud": -73.2333
+              }
+            },
+            {
+              "id": "050804",
+              "nombre": "LAMPA",
+              "coordenadas": {
+                "latitud": -15.4000,
+                "longitud": -73.2000
+              }
+            },
+            {
+              "id": "050805",
+              "nombre": "MARCABAMBA",
+              "coordenadas": {
+                "latitud": -15.4333,
+                "longitud": -73.1667
+              }
+            },
+            {
+              "id": "050806",
+              "nombre": "OYOLO",
+              "coordenadas": {
+                "latitud": -15.4667,
+                "longitud": -73.1333
+              }
+            },
+            {
+              "id": "050807",
+              "nombre": "PARARCA",
+              "coordenadas": {
+                "latitud": -15.5000,
+                "longitud": -73.1000
+              }
+            },
+            {
+              "id": "050808",
+              "nombre": "SAN JAVIER DE ALPABAMBA",
+              "coordenadas": {
+                "latitud": -15.5333,
+                "longitud": -73.0667
+              }
+            },
+            {
+              "id": "050809",
+              "nombre": "SAN JOSE DE USHUA",
+              "coordenadas": {
+                "latitud": -15.5667,
+                "longitud": -73.0333
+              }
+            },
+            {
+              "id": "050810",
+              "nombre": "SARA SARA",
+              "coordenadas": {
+                "latitud": -15.6000,
+                "longitud": -73.0000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0509",
+          "nombre": "SUCRE",
+          "coordenadas": {
+            "latitud": -14.0000,
+            "longitud": -73.5000
+          },
+          "distritos": [
+            {
+              "id": "050901",
+              "nombre": "QUEROBAMBA",
+              "coordenadas": {
+                "latitud": -14.0000,
+                "longitud": -73.5000
+              }
+            },
+            {
+              "id": "050902",
+              "nombre": "BELEN",
+              "coordenadas": {
+                "latitud": -14.0333,
+                "longitud": -73.4667
+              }
+            },
+            {
+              "id": "050903",
+              "nombre": "CHALCOS",
+              "coordenadas": {
+                "latitud": -14.0667,
+                "longitud": -73.4333
+              }
+            },
+            {
+              "id": "050904",
+              "nombre": "CHILCAYOC",
+              "coordenadas": {
+                "latitud": -14.1000,
+                "longitud": -73.4000
+              }
+            },
+            {
+              "id": "050905",
+              "nombre": "HUACAÑA",
+              "coordenadas": {
+                "latitud": -14.1333,
+                "longitud": -73.3667
+              }
+            },
+            {
+              "id": "050906",
+              "nombre": "MORCOLLA",
+              "coordenadas": {
+                "latitud": -14.1667,
+                "longitud": -73.3333
+              }
+            },
+            {
+              "id": "050907",
+              "nombre": "PAICO",
+              "coordenadas": {
+                "latitud": -14.2000,
+                "longitud": -73.3000
+              }
+            },
+            {
+              "id": "050908",
+              "nombre": "SAN PEDRO DE LARCAY",
+              "coordenadas": {
+                "latitud": -14.2333,
+                "longitud": -73.2667
+              }
+            },
+            {
+              "id": "050909",
+              "nombre": "SAN SALVADOR DE QUIJE",
+              "coordenadas": {
+                "latitud": -14.2667,
+                "longitud": -73.2333
+              }
+            },
+            {
+              "id": "050910",
+              "nombre": "SANTIAGO DE PAUCARAY",
+              "coordenadas": {
+                "latitud": -14.3000,
+                "longitud": -73.2000
+              }
+            },
+            {
+              "id": "050911",
+              "nombre": "SORAS",
+              "coordenadas": {
+                "latitud": -14.3333,
+                "longitud": -73.1667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0510",
+          "nombre": "VICTOR FAJARDO",
+          "coordenadas": {
+            "latitud": -13.7500,
+            "longitud": -73.9167
+          },
+          "distritos": [
+            {
+              "id": "051001",
+              "nombre": "HUANCAPI",
+              "coordenadas": {
+                "latitud": -13.7500,
+                "longitud": -73.9167
+              }
+            },
+            {
+              "id": "051002",
+              "nombre": "ALCAMENCA",
+              "coordenadas": {
+                "latitud": -13.7833,
+                "longitud": -73.8833
+              }
+            },
+            {
+              "id": "051003",
+              "nombre": "APONGO",
+              "coordenadas": {
+                "latitud": -13.8167,
+                "longitud": -73.8500
+              }
+            },
+            {
+              "id": "051004",
+              "nombre": "ASQUIPATA",
+              "coordenadas": {
+                "latitud": -13.8500,
+                "longitud": -73.8167
+              }
+            },
+            {
+              "id": "051005",
+              "nombre": "CANARIA",
+              "coordenadas": {
+                "latitud": -13.8833,
+                "longitud": -73.7833
+              }
+            },
+            {
+              "id": "051006",
+              "nombre": "CAYARA",
+              "coordenadas": {
+                "latitud": -13.9167,
+                "longitud": -73.7500
+              }
+            },
+            {
+              "id": "051007",
+              "nombre": "COLCA",
+              "coordenadas": {
+                "latitud": -13.9500,
+                "longitud": -73.7167
+              }
+            },
+            {
+              "id": "051008",
+              "nombre": "HUAMANQUIQUIA",
+              "coordenadas": {
+                "latitud": -13.9833,
+                "longitud": -73.6833
+              }
+            },
+            {
+              "id": "051009",
+              "nombre": "HUANCARAYLLA",
+              "coordenadas": {
+                "latitud": -14.0167,
+                "longitud": -73.6500
+              }
+            },
+            {
+              "id": "051010",
+              "nombre": "HUAYA",
+              "coordenadas": {
+                "latitud": -14.0500,
+                "longitud": -73.6167
+              }
+            },
+            {
+              "id": "051011",
+              "nombre": "SARHUA",
+              "coordenadas": {
+                "latitud": -14.0833,
+                "longitud": -73.5833
+              }
+            },
+            {
+              "id": "051012",
+              "nombre": "VILCANCHOS",
+              "coordenadas": {
+                "latitud": -14.1167,
+                "longitud": -73.5500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0511",
+          "nombre": "VILCAS HUAMAN",
+          "coordenadas": {
+            "latitud": -13.6500,
+            "longitud": -73.9500
+          },
+          "distritos": [
+            {
+              "id": "051101",
+              "nombre": "VILCAS HUAMAN",
+              "coordenadas": {
+                "latitud": -13.6500,
+                "longitud": -73.9500
+              }
+            },
+            {
+              "id": "051102",
+              "nombre": "ACCOMARCA",
+              "coordenadas": {
+                "latitud": -13.6833,
+                "longitud": -73.9167
+              }
+            },
+            {
+              "id": "051103",
+              "nombre": "CARHUANCA",
+              "coordenadas": {
+                "latitud": -13.7167,
+                "longitud": -73.8833
+              }
+            },
+            {
+              "id": "051104",
+              "nombre": "CONCEPCION",
+              "coordenadas": {
+                "latitud": -13.7500,
+                "longitud": -73.8500
+              }
+            },
+            {
+              "id": "051105",
+              "nombre": "HUAMBALPA",
+              "coordenadas": {
+                "latitud": -13.7833,
+                "longitud": -73.8167
+              }
+            },
+            {
+              "id": "051106",
+              "nombre": "INDEPENDENCIA",
+              "coordenadas": {
+                "latitud": -13.8167,
+                "longitud": -73.7833
+              }
+            },
+            {
+              "id": "051107",
+              "nombre": "SAURAMA",
+              "coordenadas": {
+                "latitud": -13.8500,
+                "longitud": -73.7500
+              }
+            },
+            {
+              "id": "051108",
+              "nombre": "VISCHONGO",
+              "coordenadas": {
+                "latitud": -13.8833,
+                "longitud": -73.7167
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "nombre": "CAJAMARCA",
+      "coordenadas": {
+        "latitud": -7.1644,
+        "longitud": -78.5006
+      },
+      "provincias": [
+        {
+          "id": "0601",
+          "nombre": "CAJAMARCA",
+          "coordenadas": {
+            "latitud": -7.1644,
+            "longitud": -78.5006
+          },
+          "distritos": [
+            {
+              "id": "060101",
+              "nombre": "CAJAMARCA",
+              "coordenadas": {
+                "latitud": -7.1644,
+                "longitud": -78.5006
+              }
+            },
+            {
+              "id": "060102",
+              "nombre": "ASUNCION",
+              "coordenadas": {
+                "latitud": -7.2000,
+                "longitud": -78.4667
+              }
+            },
+            {
+              "id": "060103",
+              "nombre": "CHETREGU",
+              "coordenadas": {
+                "latitud": -7.2333,
+                "longitud": -78.4333
+              }
+            },
+            {
+              "id": "060104",
+              "nombre": "COSPAN",
+              "coordenadas": {
+                "latitud": -7.2667,
+                "longitud": -78.4000
+              }
+            },
+            {
+              "id": "060105",
+              "nombre": "ENCAÑADA",
+              "coordenadas": {
+                "latitud": -7.3000,
+                "longitud": -78.3667
+              }
+            },
+            {
+              "id": "060106",
+              "nombre": "JESUS",
+              "coordenadas": {
+                "latitud": -7.3333,
+                "longitud": -78.3333
+              }
+            },
+            {
+              "id": "060107",
+              "nombre": "LLACANORA",
+              "coordenadas": {
+                "latitud": -7.3667,
+                "longitud": -78.3000
+              }
+            },
+            {
+              "id": "060108",
+              "nombre": "LOS BAÑOS DEL INCA",
+              "coordenadas": {
+                "latitud": -7.4000,
+                "longitud": -78.2667
+              }
+            },
+            {
+              "id": "060109",
+              "nombre": "MAGALLANES",
+              "coordenadas": {
+                "latitud": -7.4333,
+                "longitud": -78.2333
+              }
+            },
+            {
+              "id": "060110",
+              "nombre": "MAT GUARDIA",
+              "coordenadas": {
+                "latitud": -7.4667,
+                "longitud": -78.2000
+              }
+            },
+            {
+              "id": "060111",
+              "nombre": "NAMORA",
+              "coordenadas": {
+                "latitud": -7.5000,
+                "longitud": -78.1667
+              }
+            },
+            {
+              "id": "060112",
+              "nombre": "SAN JUAN",
+              "coordenadas": {
+                "latitud": -7.5333,
+                "longitud": -78.1333
+              }
+            }
+          ]
+        },
+        {
+          "id": "0602",
+          "nombre": "CAJABAMBA",
+          "coordenadas": {
+            "latitud": -7.6167,
+            "longitud": -78.0500
+          },
+          "distritos": [
+            {
+              "id": "060201",
+              "nombre": "CAJABAMBA",
+              "coordenadas": {
+                "latitud": -7.6167,
+                "longitud": -78.0500
+              }
+            },
+            {
+              "id": "060202",
+              "nombre": "CACHEREDE",
+              "coordenadas": {
+                "latitud": -7.6500,
+                "longitud": -78.0167
+              }
+            },
+            {
+              "id": "060203",
+              "nombre": "CONDEBAMBA",
+              "coordenadas": {
+                "latitud": -7.6833,
+                "longitud": -77.9833
+              }
+            },
+            {
+              "id": "060204",
+              "nombre": "SITACOCHA",
+              "coordenadas": {
+                "latitud": -7.7167,
+                "longitud": -77.9500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0603",
+          "nombre": "CELENDIN",
+          "coordenadas": {
+            "latitud": -6.8667,
+            "longitud": -78.1500
+          },
+          "distritos": [
+            {
+              "id": "060301",
+              "nombre": "CELENDIN",
+              "coordenadas": {
+                "latitud": -6.8667,
+                "longitud": -78.1500
+              }
+            },
+            {
+              "id": "060302",
+              "nombre": "CHUMUCH",
+              "coordenadas": {
+                "latitud": -6.9000,
+                "longitud": -78.1167
+              }
+            },
+            {
+              "id": "060303",
+              "nombre": "CORTEGANA",
+              "coordenadas": {
+                "latitud": -6.9333,
+                "longitud": -78.0833
+              }
+            },
+            {
+              "id": "060304",
+              "nombre": "HUASMIN",
+              "coordenadas": {
+                "latitud": -6.9667,
+                "longitud": -78.0500
+              }
+            },
+            {
+              "id": "060305",
+              "nombre": "JORGE CHAVEZ",
+              "coordenadas": {
+                "latitud": -7.0000,
+                "longitud": -78.0167
+              }
+            },
+            {
+              "id": "060306",
+              "nombre": "JOSE GALVEZ",
+              "coordenadas": {
+                "latitud": -7.0333,
+                "longitud": -77.9833
+              }
+            },
+            {
+              "id": "060307",
+              "nombre": "MIGUEL IGLESIAS",
+              "coordenadas": {
+                "latitud": -7.0667,
+                "longitud": -77.9500
+              }
+            },
+            {
+              "id": "060308",
+              "nombre": "OXAMARCA",
+              "coordenadas": {
+                "latitud": -7.1000,
+                "longitud": -77.9167
+              }
+            },
+            {
+              "id": "060309",
+              "nombre": "SOROCHUCO",
+              "coordenadas": {
+                "latitud": -7.1333,
+                "longitud": -77.8833
+              }
+            },
+            {
+              "id": "060310",
+              "nombre": "SUCRE",
+              "coordenadas": {
+                "latitud": -7.1667,
+                "longitud": -77.8500
+              }
+            },
+            {
+              "id": "060311",
+              "nombre": "UTCO",
+              "coordenadas": {
+                "latitud": -7.2000,
+                "longitud": -77.8167
+              }
+            },
+            {
+              "id": "060312",
+              "nombre": "LA LIBERTAD DE PALLAN",
+              "coordenadas": {
+                "latitud": -7.2333,
+                "longitud": -77.7833
+              }
+            }
+          ]
+        },
+        {
+          "id": "0604",
+          "nombre": "CHOTA",
+          "coordenadas": {
+            "latitud": -6.5500,
+            "longitud": -78.6500
+          },
+          "distritos": [
+            {
+              "id": "060401",
+              "nombre": "CHOTA",
+              "coordenadas": {
+                "latitud": -6.5500,
+                "longitud": -78.6500
+              }
+            },
+            {
+              "id": "060402",
+              "nombre": "ANGUIA",
+              "coordenadas": {
+                "latitud": -6.5833,
+                "longitud": -78.6167
+              }
+            },
+            {
+              "id": "060403",
+              "nombre": "CHADIN",
+              "coordenadas": {
+                "latitud": -6.6167,
+                "longitud": -78.5833
+              }
+            },
+            {
+              "id": "060404",
+              "nombre": "CHIGUIRIP",
+              "coordenadas": {
+                "latitud": -6.6500,
+                "longitud": -78.5500
+              }
+            },
+            {
+              "id": "060405",
+              "nombre": "CHIMBAN",
+              "coordenadas": {
+                "latitud": -6.6833,
+                "longitud": -78.5167
+              }
+            },
+            {
+              "id": "060406",
+              "nombre": "CHOROPAMPA",
+              "coordenadas": {
+                "latitud": -6.7167,
+                "longitud": -78.4833
+              }
+            },
+            {
+              "id": "060407",
+              "nombre": "COCHABAMBA",
+              "coordenadas": {
+                "latitud": -6.7500,
+                "longitud": -78.4500
+              }
+            },
+            {
+              "id": "060408",
+              "nombre": "CONCHAN",
+              "coordenadas": {
+                "latitud": -6.7833,
+                "longitud": -78.4167
+              }
+            },
+            {
+              "id": "060409",
+              "nombre": "HUAMBOS",
+              "coordenadas": {
+                "latitud": -6.8167,
+                "longitud": -78.3833
+              }
+            },
+            {
+              "id": "060410",
+              "nombre": "LAJAS",
+              "coordenadas": {
+                "latitud": -6.8500,
+                "longitud": -78.3500
+              }
+            },
+            {
+              "id": "060411",
+              "nombre": "LLAMA",
+              "coordenadas": {
+                "latitud": -6.8833,
+                "longitud": -78.3167
+              }
+            },
+            {
+              "id": "060412",
+              "nombre": "MIRACOSTA",
+              "coordenadas": {
+                "latitud": -6.9167,
+                "longitud": -78.2833
+              }
+            },
+            {
+              "id": "060413",
+              "nombre": "PACCHA",
+              "coordenadas": {
+                "latitud": -6.9500,
+                "longitud": -78.2500
+              }
+            },
+            {
+              "id": "060414",
+              "nombre": "PION",
+              "coordenadas": {
+                "latitud": -6.9833,
+                "longitud": -78.2167
+              }
+            },
+            {
+              "id": "060415",
+              "nombre": "QUEROCOTO",
+              "coordenadas": {
+                "latitud": -7.0167,
+                "longitud": -78.1833
+              }
+            },
+            {
+              "id": "060416",
+              "nombre": "SAN JUAN DE LICUPIS",
+              "coordenadas": {
+                "latitud": -7.0500,
+                "longitud": -78.1500
+              }
+            },
+            {
+              "id": "060417",
+              "nombre": "TACABAMBA",
+              "coordenadas": {
+                "latitud": -7.0833,
+                "longitud": -78.1167
+              }
+            },
+            {
+              "id": "060418",
+              "nombre": "TOCMOCHE",
+              "coordenadas": {
+                "latitud": -7.1167,
+                "longitud": -78.0833
+              }
+            },
+            {
+              "id": "060419",
+              "nombre": "CHALAMARCA",
+              "coordenadas": {
+                "latitud": -7.1500,
+                "longitud": -78.0500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0605",
+          "nombre": "CONTUMAZA",
+          "coordenadas": {
+            "latitud": -7.3667,
+            "longitud": -78.8333
+          },
+          "distritos": [
+            {
+              "id": "060501",
+              "nombre": "CONTUMAZA",
+              "coordenadas": {
+                "latitud": -7.3667,
+                "longitud": -78.8333
+              }
+            },
+            {
+              "id": "060502",
+              "nombre": "CHILETE",
+              "coordenadas": {
+                "latitud": -7.4000,
+                "longitud": -78.8000
+              }
+            },
+            {
+              "id": "060503",
+              "nombre": "CUPISNIQUE",
+              "coordenadas": {
+                "latitud": -7.4333,
+                "longitud": -78.7667
+              }
+            },
+            {
+              "id": "060504",
+              "nombre": "GUZMANGO",
+              "coordenadas": {
+                "latitud": -7.4667,
+                "longitud": -78.7333
+              }
+            },
+            {
+              "id": "060505",
+              "nombre": "SAN BENITO",
+              "coordenadas": {
+                "latitud": -7.5000,
+                "longitud": -78.7000
+              }
+            },
+            {
+              "id": "060506",
+              "nombre": "SANTA CRUZ DE TOLEDO",
+              "coordenadas": {
+                "latitud": -7.5333,
+                "longitud": -78.6667
+              }
+            },
+            {
+              "id": "060507",
+              "nombre": "TANTARICA",
+              "coordenadas": {
+                "latitud": -7.5667,
+                "longitud": -78.6333
+              }
+            },
+            {
+              "id": "060508",
+              "nombre": "YONAN",
+              "coordenadas": {
+                "latitud": -7.6000,
+                "longitud": -78.6000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0606",
+          "nombre": "CUTERVO",
+          "coordenadas": {
+            "latitud": -6.3667,
+            "longitud": -78.8167
+          },
+          "distritos": [
+            {
+              "id": "060601",
+              "nombre": "CUTERVO",
+              "coordenadas": {
+                "latitud": -6.3667,
+                "longitud": -78.8167
+              }
+            },
+            {
+              "id": "060602",
+              "nombre": "CALLAYUC",
+              "coordenadas": {
+                "latitud": -6.4000,
+                "longitud": -78.7833
+              }
+            },
+            {
+              "id": "060603",
+              "nombre": "CHOROS",
+              "coordenadas": {
+                "latitud": -6.4333,
+                "longitud": -78.7500
+              }
+            },
+            {
+              "id": "060604",
+              "nombre": "CUJILLO",
+              "coordenadas": {
+                "latitud": -6.4667,
+                "longitud": -78.7167
+              }
+            },
+            {
+              "id": "060605",
+              "nombre": "LA RAMADA",
+              "coordenadas": {
+                "latitud": -6.5000,
+                "longitud": -78.6833
+              }
+            },
+            {
+              "id": "060606",
+              "nombre": "PIMPINGOS",
+              "coordenadas": {
+                "latitud": -6.5333,
+                "longitud": -78.6500
+              }
+            },
+            {
+              "id": "060607",
+              "nombre": "QUEROCOTILLO",
+              "coordenadas": {
+                "latitud": -6.5667,
+                "longitud": -78.6167
+              }
+            },
+            {
+              "id": "060608",
+              "nombre": "SAN ANDRES DE CUTERVO",
+              "coordenadas": {
+                "latitud": -6.6000,
+                "longitud": -78.5833
+              }
+            },
+            {
+              "id": "060609",
+              "nombre": "SAN JUAN DE CUTERVO",
+              "coordenadas": {
+                "latitud": -6.6333,
+                "longitud": -78.5500
+              }
+            },
+            {
+              "id": "060610",
+              "nombre": "SAN LUIS DE LUCMA",
+              "coordenadas": {
+                "latitud": -6.6667,
+                "longitud": -78.5167
+              }
+            },
+            {
+              "id": "060611",
+              "nombre": "SANTA CRUZ",
+              "coordenadas": {
+                "latitud": -6.7000,
+                "longitud": -78.4833
+              }
+            },
+            {
+              "id": "060612",
+              "nombre": "SANTO DOMINGO DE LA CAPILLA",
+              "coordenadas": {
+                "latitud": -6.7333,
+                "longitud": -78.4500
+              }
+            },
+            {
+              "id": "060613",
+              "nombre": "SANTO TOMAS",
+              "coordenadas": {
+                "latitud": -6.7667,
+                "longitud": -78.4167
+              }
+            },
+            {
+              "id": "060614",
+              "nombre": "SOCOTA",
+              "coordenadas": {
+                "latitud": -6.8000,
+                "longitud": -78.3833
+              }
+            },
+            {
+              "id": "060615",
+              "nombre": "TORIBIO CASANOVA",
+              "coordenadas": {
+                "latitud": -6.8333,
+                "longitud": -78.3500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0607",
+          "nombre": "HUALGAYOC",
+          "coordenadas": {
+            "latitud": -6.6833,
+            "longitud": -78.5333
+          },
+          "distritos": [
+            {
+              "id": "060701",
+              "nombre": "BAMBAMARCA",
+              "coordenadas": {
+                "latitud": -6.6833,
+                "longitud": -78.5333
+              }
+            },
+            {
+              "id": "060702",
+              "nombre": "CHUGUR",
+              "coordenadas": {
+                "latitud": -6.7167,
+                "longitud": -78.5000
+              }
+            },
+            {
+              "id": "060703",
+              "nombre": "HUALGAYOC",
+              "coordenadas": {
+                "latitud": -6.7500,
+                "longitud": -78.4667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0608",
+          "nombre": "JAEN",
+          "coordenadas": {
+            "latitud": -5.7000,
+            "longitud": -78.8000
+          },
+          "distritos": [
+            {
+              "id": "060801",
+              "nombre": "JAEN",
+              "coordenadas": {
+                "latitud": -5.7000,
+                "longitud": -78.8000
+              }
+            },
+            {
+              "id": "060802",
+              "nombre": "BELLAVISTA",
+              "coordenadas": {
+                "latitud": -5.7333,
+                "longitud": -78.7667
+              }
+            },
+            {
+              "id": "060803",
+              "nombre": "CHONTALI",
+              "coordenadas": {
+                "latitud": -5.7667,
+                "longitud": -78.7333
+              }
+            },
+            {
+              "id": "060804",
+              "nombre": "COLASAY",
+              "coordenadas": {
+                "latitud": -5.8000,
+                "longitud": -78.7000
+              }
+            },
+            {
+              "id": "060805",
+              "nombre": "HUABAL",
+              "coordenadas": {
+                "latitud": -5.8333,
+                "longitud": -78.6667
+              }
+            },
+            {
+              "id": "060806",
+              "nombre": "LAS PIRIAS",
+              "coordenadas": {
+                "latitud": -5.8667,
+                "longitud": -78.6333
+              }
+            },
+            {
+              "id": "060807",
+              "nombre": "POMAHUACA",
+              "coordenadas": {
+                "latitud": -5.9000,
+                "longitud": -78.6000
+              }
+            },
+            {
+              "id": "060808",
+              "nombre": "PUCARA",
+              "coordenadas": {
+                "latitud": -5.9333,
+                "longitud": -78.5667
+              }
+            },
+            {
+              "id": "060809",
+              "nombre": "SALLIQUE",
+              "coordenadas": {
+                "latitud": -5.9667,
+                "longitud": -78.5333
+              }
+            },
+            {
+              "id": "060810",
+              "nombre": "SAN FELIPE",
+              "coordenadas": {
+                "latitud": -6.0000,
+                "longitud": -78.5000
+              }
+            },
+            {
+              "id": "060811",
+              "nombre": "SAN JOSE DEL ALTO",
+              "coordenadas": {
+                "latitud": -6.0333,
+                "longitud": -78.4667
+              }
+            },
+            {
+              "id": "060812",
+              "nombre": "SANTA ROSA",
+              "coordenadas": {
+                "latitud": -6.0667,
+                "longitud": -78.4333
+              }
+            }
+          ]
+        },
+        {
+          "id": "0609",
+          "nombre": "SAN IGNACIO",
+          "coordenadas": {
+            "latitud": -5.1500,
+            "longitud": -79.0000
+          },
+          "distritos": [
+            {
+              "id": "060901",
+              "nombre": "SAN IGNACIO",
+              "coordenadas": {
+                "latitud": -5.1500,
+                "longitud": -79.0000
+              }
+            },
+            {
+              "id": "060902",
+              "nombre": "CHIRINOS",
+              "coordenadas": {
+                "latitud": -5.1833,
+                "longitud": -78.9667
+              }
+            },
+            {
+              "id": "060903",
+              "nombre": "HUARANGO",
+              "coordenadas": {
+                "latitud": -5.2167,
+                "longitud": -78.9333
+              }
+            },
+            {
+              "id": "060904",
+              "nombre": "LA COIPA",
+              "coordenadas": {
+                "latitud": -5.2500,
+                "longitud": -78.9000
+              }
+            },
+            {
+              "id": "060905",
+              "nombre": "NAMBALLE",
+              "coordenadas": {
+                "latitud": -5.2833,
+                "longitud": -78.8667
+              }
+            },
+            {
+              "id": "060906",
+              "nombre": "SAN JOSE DE LOURDES",
+              "coordenadas": {
+                "latitud": -5.3167,
+                "longitud": -78.8333
+              }
+            },
+            {
+              "id": "060907",
+              "nombre": "TABACONAS",
+              "coordenadas": {
+                "latitud": -5.3500,
+                "longitud": -78.8000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0610",
+          "nombre": "SAN MARCOS",
+          "coordenadas": {
+            "latitud": -7.3333,
+            "longitud": -78.1667
+          },
+          "distritos": [
+            {
+              "id": "061001",
+              "nombre": "PEDRO GALVEZ",
+              "coordenadas": {
+                "latitud": -7.3333,
+                "longitud": -78.1667
+              }
+            },
+            {
+              "id": "061002",
+              "nombre": "CHANCAY",
+              "coordenadas": {
+                "latitud": -7.3667,
+                "longitud": -78.1333
+              }
+            },
+            {
+              "id": "061003",
+              "nombre": "EDUARDO VILLANUEVA",
+              "coordenadas": {
+                "latitud": -7.4000,
+                "longitud": -78.1000
+              }
+            },
+            {
+              "id": "061004",
+              "nombre": "GREGORIO PITA",
+              "coordenadas": {
+                "latitud": -7.4333,
+                "longitud": -78.0667
+              }
+            },
+            {
+              "id": "061005",
+              "nombre": "ICHOCAN",
+              "coordenadas": {
+                "latitud": -7.4667,
+                "longitud": -78.0333
+              }
+            },
+            {
+              "id": "061006",
+              "nombre": "JOSE MANUEL QUIROZ",
+              "coordenadas": {
+                "latitud": -7.5000,
+                "longitud": -78.0000
+              }
+            },
+            {
+              "id": "061007",
+              "nombre": "JOSE SABOGAL",
+              "coordenadas": {
+                "latitud": -7.5333,
+                "longitud": -77.9667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0611",
+          "nombre": "SAN MIGUEL",
+          "coordenadas": {
+            "latitud": -6.9167,
+            "longitud": -79.0500
+          },
+          "distritos": [
+            {
+              "id": "061101",
+              "nombre": "SAN MIGUEL",
+              "coordenadas": {
+                "latitud": -6.9167,
+                "longitud": -79.0500
+              }
+            },
+            {
+              "id": "061102",
+              "nombre": "BOLIVAR",
+              "coordenadas": {
+                "latitud": -6.9500,
+                "longitud": -79.0167
+              }
+            },
+            {
+              "id": "061103",
+              "nombre": "CALQUIS",
+              "coordenadas": {
+                "latitud": -6.9833,
+                "longitud": -78.9833
+              }
+            },
+            {
+              "id": "061104",
+              "nombre": "CATILLUC",
+              "coordenadas": {
+                "latitud": -7.0167,
+                "longitud": -78.9500
+              }
+            },
+            {
+              "id": "061105",
+              "nombre": "EL PRADO",
+              "coordenadas": {
+                "latitud": -7.0500,
+                "longitud": -78.9167
+              }
+            },
+            {
+              "id": "061106",
+              "nombre": "LA FLORIDA",
+              "coordenadas": {
+                "latitud": -7.0833,
+                "longitud": -78.8833
+              }
+            },
+            {
+              "id": "061107",
+              "nombre": "LLAPA",
+              "coordenadas": {
+                "latitud": -7.1167,
+                "longitud": -78.8500
+              }
+            },
+            {
+              "id": "061108",
+              "nombre": "NANCHOC",
+              "coordenadas": {
+                "latitud": -7.1500,
+                "longitud": -78.8167
+              }
+            },
+            {
+              "id": "061109",
+              "nombre": "NIEPOS",
+              "coordenadas": {
+                "latitud": -7.1833,
+                "longitud": -78.7833
+              }
+            },
+            {
+              "id": "061110",
+              "nombre": "SAN GREGORIO",
+              "coordenadas": {
+                "latitud": -7.2167,
+                "longitud": -78.7500
+              }
+            },
+            {
+              "id": "061111",
+              "nombre": "SAN SILVESTRE DE COCHAN",
+              "coordenadas": {
+                "latitud": -7.2500,
+                "longitud": -78.7167
+              }
+            },
+            {
+              "id": "061112",
+              "nombre": "TONGOD",
+              "coordenadas": {
+                "latitud": -7.2833,
+                "longitud": -78.6833
+              }
+            },
+            {
+              "id": "061113",
+              "nombre": "UNION AGUA BLANCA",
+              "coordenadas": {
+                "latitud": -7.3167,
+                "longitud": -78.6500
+              }
+            }
+          ]
+        },
+        {
+          "id": "0612",
+          "nombre": "SAN PABLO",
+          "coordenadas": {
+            "latitud": -7.1167,
+            "longitud": -78.8333
+          },
+          "distritos": [
+            {
+              "id": "061201",
+              "nombre": "SAN PABLO",
+              "coordenadas": {
+                "latitud": -7.1167,
+                "longitud": -78.8333
+              }
+            },
+            {
+              "id": "061202",
+              "nombre": "SAN BERNARDINO",
+              "coordenadas": {
+                "latitud": -7.1500,
+                "longitud": -78.8000
+              }
+            },
+            {
+              "id": "061203",
+              "nombre": "SAN LUIS",
+              "coordenadas": {
+                "latitud": -7.1833,
+                "longitud": -78.7667
+              }
+            },
+            {
+              "id": "061204",
+              "nombre": "TUMBADEN",
+              "coordenadas": {
+                "latitud": -7.2167,
+                "longitud": -78.7333
+              }
+            }
+          ]
+        },
+        {
+          "id": "0613",
+          "nombre": "SANTA CRUZ",
+          "coordenadas": {
+            "latitud": -6.6000,
+            "longitud": -79.0000
+          },
+          "distritos": [
+            {
+              "id": "061301",
+              "nombre": "SANTA CRUZ",
+              "coordenadas": {
+                "latitud": -6.6000,
+                "longitud": -79.0000
+              }
+            },
+            {
+              "id": "061302",
+              "nombre": "ANDABAMBA",
+              "coordenadas": {
+                "latitud": -6.6333,
+                "longitud": -78.9667
+              }
+            },
+            {
+              "id": "061303",
+              "nombre": "CATACHE",
+              "coordenadas": {
+                "latitud": -6.6667,
+                "longitud": -78.9333
+              }
+            },
+            {
+              "id": "061304",
+              "nombre": "CHANCAYBAÑOS",
+              "coordenadas": {
+                "latitud": -6.7000,
+                "longitud": -78.9000
+              }
+            },
+            {
+              "id": "061305",
+              "nombre": "LA ESPERANZA",
+              "coordenadas": {
+                "latitud": -6.7333,
+                "longitud": -78.8667
+              }
+            },
+            {
+              "id": "061306",
+              "nombre": "NINABAMBA",
+              "coordenadas": {
+                "latitud": -6.7667,
+                "longitud": -78.8333
+              }
+            },
+            {
+              "id": "061307",
+              "nombre": "PULAN",
+              "coordenadas": {
+                "latitud": -6.8000,
+                "longitud": -78.8000
+              }
+            },
+            {
+              "id": "061308",
+              "nombre": "SAUCEPAMPA",
+              "coordenadas": {
+                "latitud": -6.8333,
+                "longitud": -78.7667
+              }
+            },
+            {
+              "id": "061309",
+              "nombre": "SEXI",
+              "coordenadas": {
+                "latitud": -6.8667,
+                "longitud": -78.7333
+              }
+            },
+            {
+              "id": "061310",
+              "nombre": "UTICYACU",
+              "coordenadas": {
+                "latitud": -6.9000,
+                "longitud": -78.7000
+              }
+            },
+            {
+              "id": "061311",
+              "nombre": "YAUYUCAN",
+              "coordenadas": {
+                "latitud": -6.9333,
+                "longitud": -78.6667
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "nombre": "CALLAO",
+      "coordenadas": {
+        "latitud": -12.0333,
+        "longitud": -77.1333
+      },
+      "provincias": [
+        {
+          "id": "0701",
+          "nombre": "CALLAO",
+          "coordenadas": {
+            "latitud": -12.0333,
+            "longitud": -77.1333
+          },
+          "distritos": [
+            {
+              "id": "070101",
+              "nombre": "CALLAO",
+              "coordenadas": {
+                "latitud": -12.0333,
+                "longitud": -77.1333
+              }
+            },
+            {
+              "id": "070102",
+              "nombre": "BELLAVISTA",
+              "coordenadas": {
+                "latitud": -12.0667,
+                "longitud": -77.1000
+              }
+            },
+            {
+              "id": "070103",
+              "nombre": "CARMEN DE LA LEGUA REYNOSO",
+              "coordenadas": {
+                "latitud": -12.1000,
+                "longitud": -77.0667
+              }
+            },
+            {
+              "id": "070104",
+              "nombre": "LA PERLA",
+              "coordenadas": {
+                "latitud": -12.1333,
+                "longitud": -77.0333
+              }
+            },
+            {
+              "id": "070105",
+              "nombre": "LA PUNTA",
+              "coordenadas": {
+                "latitud": -12.1667,
+                "longitud": -77.0000
+              }
+            },
+            {
+              "id": "070106",
+              "nombre": "VENTANILLA",
+              "coordenadas": {
+                "latitud": -12.2000,
+                "longitud": -76.9667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0702",
+          "nombre": "BELLAVISTA",
+          "coordenadas": {
+            "latitud": -12.0667,
+            "longitud": -77.1000
+          },
+          "distritos": [
+            {
+              "id": "070201",
+              "nombre": "BELLAVISTA",
+              "coordenadas": {
+                "latitud": -12.0667,
+                "longitud": -77.1000
+              }
+            },
+            {
+              "id": "070202",
+              "nombre": "SANTA ROSA",
+              "coordenadas": {
+                "latitud": -12.1000,
+                "longitud": -77.0667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0703",
+          "nombre": "CARMEN DE LA LEGUA REYNOSO",
+          "coordenadas": {
+            "latitud": -12.1000,
+            "longitud": -77.0667
+          },
+          "distritos": [
+            {
+              "id": "070301",
+              "nombre": "CARMEN DE LA LEGUA REYNOSO",
+              "coordenadas": {
+                "latitud": -12.1000,
+                "longitud": -77.0667
+              }
+            }
+          ]
+        },
+        {
+          "id": "0704",
+          "nombre": "LA PERLA",
+          "coordenadas": {
+            "latitud": -12.1333,
+            "longitud": -77.0333
+          },
+          "distritos": [
+            {
+              "id": "070401",
+              "nombre": "LA PERLA",
+              "coordenadas": {
+                "latitud": -12.1333,
+                "longitud": -77.0333
+              }
+            }
+          ]
+        },
+        {
+          "id": "0705",
+          "nombre": "LA PUNTA",
+          "coordenadas": {
+            "latitud": -12.1667,
+            "longitud": -77.0000
+          },
+          "distritos": [
+            {
+              "id": "070501",
+              "nombre": "LA PUNTA",
+              "coordenadas": {
+                "latitud": -12.1667,
+                "longitud": -77.0000
+              }
+            }
+          ]
+        },
+        {
+          "id": "0706",
+          "nombre": "VENTANILLA",
+          "coordenadas": {
+            "latitud": -12.2000,
+            "longitud": -76.9667
+          },
+          "distritos": [
+            {
+              "id": "070601",
+              "nombre": "VENTANILLA",
+              "coordenadas": {
+                "latitud": -12.2000,
+                "longitud": -76.9667
+              }
+            },
+            {
+              "id": "070602",
+              "nombre": "SANTA ROSA",
+              "coordenadas": {
+                "latitud": -12.2333,
+                "longitud": -76.9333
+              }
+            }
+          ]
+        },
+        {
+          "id": "0707",
+          "nombre": "MI PERU",
+          "coordenadas": {
+            "latitud": -12.2333,
+            "longitud": -76.9000
+          },
+          "distritos": [
+            {
+              "id": "070701",
+              "nombre": "MI PERU",
+              "coordenadas": {
+                "latitud": -12.2333,
+                "longitud": -76.9000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "nombre": "LA LIBERTAD",
+      "coordenadas": {
+        "latitud": -8.1166,
+        "longitud": -79.0333
+      },
+      "provincias": [
+        {
+          "id": "1301",
+          "nombre": "TRUJILLO",
+          "coordenadas": {
+            "latitud": -8.1166,
+            "longitud": -79.0333
+          },
+          "distritos": [
+            {
+              "id": "130101",
+              "nombre": "TRUJILLO",
+              "coordenadas": {
+                "latitud": -8.1166,
+                "longitud": -79.0333
+              }
+            },
+            {
+              "id": "130102",
+              "nombre": "EL PORVENIR",
+              "coordenadas": {
+                "latitud": -8.0833,
+                "longitud": -79.0000
+              }
+            },
+            {
+              "id": "130103",
+              "nombre": "FLORENCIA DE MORA",
+              "coordenadas": {
+                "latitud": -8.0833,
+                "longitud": -79.0333
+              }
+            },
+            {
+              "id": "130104",
+              "nombre": "HUANCHACO",
+              "coordenadas": {
+                "latitud": -8.0833,
+                "longitud": -79.1167
+              }
+            },
+            {
+              "id": "130105",
+              "nombre": "LA ESPERANZA",
+              "coordenadas": {
+                "latitud": -8.0778,
+                "longitud": -79.0472
+              }
+            },
+            {
+              "id": "130106",
+              "nombre": "LAREDO",
+              "coordenadas": {
+                "latitud": -8.0911,
+                "longitud": -78.9611
+              }
+            },
+            {
+              "id": "130107",
+              "nombre": "MOCHE",
+              "coordenadas": {
+                "latitud": -8.1714,
+                "longitud": -79.0119
+              }
+            },
+            {
+              "id": "130108",
+              "nombre": "POROTO",
+              "coordenadas": {
+                "latitud": -8.0111,
+                "longitud": -78.7722
+              }
+            },
+            {
+              "id": "130109",
+              "nombre": "SALAVERRY",
+              "coordenadas": {
+                "latitud": -8.2233,
+                "longitud": -78.9778
+              }
+            },
+            {
+              "id": "130110",
+              "nombre": "SIMBAL",
+              "coordenadas": {
+                "latitud": -7.9778,
+                "longitud": -78.8167
+              }
+            },
+            {
+              "id": "130111",
+              "nombre": "VICTOR LARCO HERRERA",
+              "coordenadas": {
+                "latitud": -8.1444,
+                "longitud": -79.0556
+              }
+            }
+          ]
+        },
+        {
+          "id": "1302",
+          "nombre": "ASCOPE",
+          "coordenadas": {
+            "latitud": -7.7128,
+            "longitud": -79.1147
+          },
+          "distritos": [
+            {
+              "id": "130201",
+              "nombre": "ASCOPE",
+              "coordenadas": {
+                "latitud": -7.7128,
+                "longitud": -79.1147
+              }
+            },
+            {
+              "id": "130202",
+              "nombre": "CHICAMA",
+              "coordenadas": {
+                "latitud": -7.8442,
+                "longitud": -79.1461
+              }
+            },
+            {
+              "id": "130203",
+              "nombre": "CHOCOPE",
+              "coordenadas": {
+                "latitud": -7.7917,
+                "longitud": -79.2222
+              }
+            },
+            {
+              "id": "130204",
+              "nombre": "MAGDALENA DE CAO",
+              "coordenadas": {
+                "latitud": -7.8750,
+                "longitud": -79.2944
+              }
+            },
+            {
+              "id": "130205",
+              "nombre": "PAIJAN",
+              "coordenadas": {
+                "latitud": -7.7333,
+                "longitud": -79.3000
+              }
+            },
+            {
+              "id": "130206",
+              "nombre": "RAZURI",
+              "coordenadas": {
+                "latitud": -7.7000,
+                "longitud": -79.4333
+              }
+            },
+            {
+              "id": "130207",
+              "nombre": "SANTIAGO DE CAO",
+              "coordenadas": {
+                "latitud": -7.9611,
+                "longitud": -79.2389
+              }
+            },
+            {
+              "id": "130208",
+              "nombre": "CASA GRANDE",
+              "coordenadas": {
+                "latitud": -7.7444,
+                "longitud": -79.1861
+              }
+            }
+          ]
+        },
+        {
+          "id": "1303",
+          "nombre": "BOLIVAR",
+          "coordenadas": {
+            "latitud": -7.1500,
+            "longitud": -77.7000
+          },
+          "distritos": [
+            {
+              "id": "130301",
+              "nombre": "BOLIVAR",
+              "coordenadas": {
+                "latitud": -7.1500,
+                "longitud": -77.7000
+              }
+            },
+            {
+              "id": "130302",
+              "nombre": "BAMBAMARCA",
+              "coordenadas": {
+                "latitud": -7.4333,
+                "longitud": -77.6833
+              }
+            },
+            {
+              "id": "130303",
+              "nombre": "CONDORMARCA",
+              "coordenadas": {
+                "latitud": -7.5500,
+                "longitud": -77.6000
+              }
+            },
+            {
+              "id": "130304",
+              "nombre": "LONGOTEA",
+              "coordenadas": {
+                "latitud": -7.0333,
+                "longitud": -77.8833
+              }
+            },
+            {
+              "id": "130305",
+              "nombre": "UCHUMARCA",
+              "coordenadas": {
+                "latitud": -7.0500,
+                "longitud": -77.8000
+              }
+            },
+            {
+              "id": "130306",
+              "nombre": "UCUNCHA",
+              "coordenadas": {
+                "latitud": -7.1667,
+                "longitud": -77.8500
+              }
+            }
+          ]
+        },
+        {
+          "id": "1304",
+          "nombre": "CHEPEN",
+          "coordenadas": {
+            "latitud": -7.2167,
+            "longitud": -79.4333
+          },
+          "distritos": [
+            {
+              "id": "130401",
+              "nombre": "CHEPEN",
+              "coordenadas": {
+                "latitud": -7.2167,
+                "longitud": -79.4333
+              }
+            },
+            {
+              "id": "130402",
+              "nombre": "PACANGA",
+              "coordenadas": {
+                "latitud": -7.1667,
+                "longitud": -79.5000
+              }
+            },
+            {
+              "id": "130403",
+              "nombre": "PUEBLO NUEVO",
+              "coordenadas": {
+                "latitud": -7.2500,
+                "longitud": -79.5000
+              }
+            }
+          ]
+        },
+        {
+          "id": "1305",
+          "nombre": "JULCAN",
+          "coordenadas": {
+            "latitud": -8.0000,
+            "longitud": -78.6000
+          },
+          "distritos": [
+            {
+              "id": "130501",
+              "nombre": "JULCAN",
+              "coordenadas": {
+                "latitud": -8.0000,
+                "longitud": -78.6000
+              }
+            },
+            {
+              "id": "130502",
+              "nombre": "CALAMARCA",
+              "coordenadas": {
+                "latitud": -8.0333,
+                "longitud": -78.5500
+              }
+            },
+            {
+              "id": "130503",
+              "nombre": "CARABAMBA",
+              "coordenadas": {
+                "latitud": -8.1167,
+                "longitud": -78.6167
+              }
+            },
+            {
+              "id": "130504",
+              "nombre": "HUASO",
+              "coordenadas": {
+                "latitud": -8.0833,
+                "longitud": -78.6667
+              }
+            }
+          ]
+        },
+        {
+          "id": "1306",
+          "nombre": "OTUZCO",
+          "coordenadas": {
+            "latitud": -7.9000,
+            "longitud": -78.5833
+          },
+          "distritos": [
+            {
+              "id": "130601",
+              "nombre": "OTUZCO",
+              "coordenadas": {
+                "latitud": -7.9000,
+                "longitud": -78.5833
+              }
+            },
+            {
+              "id": "130602",
+              "nombre": "AGALLPAMPA",
+              "coordenadas": {
+                "latitud": -7.9500,
+                "longitud": -78.5500
+              }
+            },
+            {
+              "id": "130604",
+              "nombre": "CHARAT",
+              "coordenadas": {
+                "latitud": -7.8333,
+                "longitud": -78.5000
+              }
+            },
+            {
+              "id": "130605",
+              "nombre": "HUARANCHAL",
+              "coordenadas": {
+                "latitud": -7.8500,
+                "longitud": -78.4500
+              }
+            },
+            {
+              "id": "130606",
+              "nombre": "LA CUESTA",
+              "coordenadas": {
+                "latitud": -7.9167,
+                "longitud": -78.5167
+              }
+            },
+            {
+              "id": "130608",
+              "nombre": "MACHE",
+              "coordenadas": {
+                "latitud": -7.8667,
+                "longitud": -78.5333
+              }
+            },
+            {
+              "id": "130610",
+              "nombre": "PARANDAY",
+              "coordenadas": {
+                "latitud": -7.9333,
+                "longitud": -78.4667
+              }
+            },
+            {
+              "id": "130611",
+              "nombre": "SALPO",
+              "coordenadas": {
+                "latitud": -7.8833,
+                "longitud": -78.6000
+              }
+            },
+            {
+              "id": "130613",
+              "nombre": "SINSICAP",
+              "coordenadas": {
+                "latitud": -7.9500,
+                "longitud": -78.6333
+              }
+            },
+            {
+              "id": "130614",
+              "nombre": "USQUIL",
+              "coordenadas": {
+                "latitud": -7.8000,
+                "longitud": -78.5500
+              }
+            }
+          ]
+        },
+        {
+          "id": "1307",
+          "nombre": "PACASMAYO",
+          "coordenadas": {
+            "latitud": -7.4000,
+            "longitud": -79.5667
+          },
+          "distritos": [
+            {
+              "id": "130701",
+              "nombre": "SAN PEDRO DE LLOC",
+              "coordenadas": {
+                "latitud": -7.4000,
+                "longitud": -79.5667
+              }
+            },
+            {
+              "id": "130702",
+              "nombre": "GUADALUPE",
+              "coordenadas": {
+                "latitud": -7.2500,
+                "longitud": -79.4833
+              }
+            },
+            {
+              "id": "130703",
+              "nombre": "JEQUETEPEQUE",
+              "coordenadas": {
+                "latitud": -7.3333,
+                "longitud": -79.5000
+              }
+            },
+            {
+              "id": "130704",
+              "nombre": "PACASMAYO",
+              "coordenadas": {
+                "latitud": -7.4000,
+                "longitud": -79.5667
+              }
+            },
+            {
+              "id": "130705",
+              "nombre": "SAN JOSE",
+              "coordenadas": {
+                "latitud": -7.3500,
+                "longitud": -79.5333
+              }
+            }
+          ]
+        },
+        {
+          "id": "1308",
+          "nombre": "PATAZ",
+          "coordenadas": {
+            "latitud": -8.2667,
+            "longitud": -77.3000
+          },
+          "distritos": [
+            {
+              "id": "130801",
+              "nombre": "TAYABAMBA",
+              "coordenadas": {
+                "latitud": -8.2667,
+                "longitud": -77.3000
+              }
+            },
+            {
+              "id": "130802",
+              "nombre": "BULDIBUYO",
+              "coordenadas": {
+                "latitud": -8.3000,
+                "longitud": -77.3500
+              }
+            },
+            {
+              "id": "130803",
+              "nombre": "CHILLIA",
+              "coordenadas": {
+                "latitud": -8.2000,
+                "longitud": -77.4000
+              }
+            },
+            {
+              "id": "130804",
+              "nombre": "HUANCASPATA",
+              "coordenadas": {
+                "latitud": -8.2333,
+                "longitud": -77.2500
+              }
+            },
+            {
+              "id": "130805",
+              "nombre": "HUAYLILLAS",
+              "coordenadas": {
+                "latitud": -8.3000,
+                "longitud": -77.2000
+              }
+            },
+            {
+              "id": "130806",
+              "nombre": "HUAYO",
+              "coordenadas": {
+                "latitud": -8.3500,
+                "longitud": -77.1500
+              }
+            },
+            {
+              "id": "130807",
+              "nombre": "ONGON",
+              "coordenadas": {
+                "latitud": -8.4000,
+                "longitud": -77.1000
+              }
+            },
+            {
+              "id": "130808",
+              "nombre": "PARCOY",
+              "coordenadas": {
+                "latitud": -8.4500,
+                "longitud": -77.0500
+              }
+            },
+            {
+              "id": "130809",
+              "nombre": "PATAZ",
+              "coordenadas": {
+                "latitud": -8.5000,
+                "longitud": -77.0000
+              }
+            },
+            {
+              "id": "130810",
+              "nombre": "PIAS",
+              "coordenadas": {
+                "latitud": -8.5500,
+                "longitud": -76.9500
+              }
+            },
+            {
+              "id": "130811",
+              "nombre": "SANTIAGO DE CHALLAS",
+              "coordenadas": {
+                "latitud": -8.6000,
+                "longitud": -76.9000
+              }
+            },
+            {
+              "id": "130812",
+              "nombre": "TAURIJA",
+              "coordenadas": {
+                "latitud": -8.6500,
+                "longitud": -76.8500
+              }
+            },
+            {
+              "id": "130813",
+              "nombre": "URPAY",
+              "coordenadas": {
+                "latitud": -8.7000,
+                "longitud": -76.8000
+              }
+            }
+          ]
+        },
+        {
+          "id": "1309",
+          "nombre": "SANCHEZ CARRION",
+          "coordenadas": {
+            "latitud": -7.8000,
+            "longitud": -77.8000
+          },
+          "distritos": [
+            {
+              "id": "130901",
+              "nombre": "HUAMACHUCO",
+              "coordenadas": {
+                "latitud": -7.8000,
+                "longitud": -77.8000
+              }
+            },
+            {
+              "id": "130902",
+              "nombre": "CHUGAY",
+              "coordenadas": {
+                "latitud": -7.7500,
+                "longitud": -77.8500
+              }
+            },
+            {
+              "id": "130903",
+              "nombre": "COCHORCO",
+              "coordenadas": {
+                "latitud": -7.8500,
+                "longitud": -77.7500
+              }
+            },
+            {
+              "id": "130904",
+              "nombre": "CURGOS",
+              "coordenadas": {
+                "latitud": -7.9000,
+                "longitud": -77.7000
+              }
+            },
+            {
+              "id": "130905",
+              "nombre": "MARCABAL",
+              "coordenadas": {
+                "latitud": -7.9500,
+                "longitud": -77.6500
+              }
+            },
+            {
+              "id": "130906",
+              "nombre": "SANAGORAN",
+              "coordenadas": {
+                "latitud": -8.0000,
+                "longitud": -77.6000
+              }
+            },
+            {
+              "id": "130907",
+              "nombre": "SARIN",
+              "coordenadas": {
+                "latitud": -8.0500,
+                "longitud": -77.5500
+              }
+            },
+            {
+              "id": "130908",
+              "nombre": "SARTIMBAMBA",
+              "coordenadas": {
+                "latitud": -8.1000,
+                "longitud": -77.5000
+              }
+            }
+          ]
+        },
+        {
+          "id": "1310",
+          "nombre": "SANTIAGO DE CHUCO",
+          "coordenadas": {
+            "latitud": -8.1500,
+            "longitud": -78.1833
+          },
+          "distritos": [
+            {
+              "id": "131001",
+              "nombre": "SANTIAGO DE CHUCO",
+              "coordenadas": {
+                "latitud": -8.1500,
+                "longitud": -78.1833
+              }
+            },
+            {
+              "id": "131002",
+              "nombre": "ANGASMARCA",
+              "coordenadas": {
+                "latitud": -8.2000,
+                "longitud": -78.1500
+              }
+            },
+            {
+              "id": "131003",
+              "nombre": "CACHICADAN",
+              "coordenadas": {
+                "latitud": -8.1000,
+                "longitud": -78.2500
+              }
+            },
+            {
+              "id": "131004",
+              "nombre": "MOLLEBAMBA",
+              "coordenadas": {
+                "latitud": -8.0500,
+                "longitud": -78.3000
+              }
+            },
+            {
+              "id": "131005",
+              "nombre": "MOLLEPATA",
+              "coordenadas": {
+                "latitud": -8.0000,
+                "longitud": -78.3500
+              }
+            },
+            {
+              "id": "131006",
+              "nombre": "QUIRUVILCA",
+              "coordenadas": {
+                "latitud": -7.9500,
+                "longitud": -78.4000
+              }
+            },
+            {
+              "id": "131007",
+              "nombre": "SANTA CRUZ DE CHUCA",
+              "coordenadas": {
+                "latitud": -7.9000,
+                "longitud": -78.4500
+              }
+            },
+            {
+              "id": "131008",
+              "nombre": "SITABAMBA",
+              "coordenadas": {
+                "latitud": -7.8500,
+                "longitud": -78.5000
+              }
+            }
+          ]
+        },
+        {
+          "id": "1311",
+          "nombre": "GRAN CHIMU",
+          "coordenadas": {
+            "latitud": -7.5000,
+            "longitud": -78.8000
+          },
+          "distritos": [
+            {
+              "id": "131101",
+              "nombre": "CASCAS",
+              "coordenadas": {
+                "latitud": -7.5000,
+                "longitud": -78.8000
+              }
+            },
+            {
+              "id": "131102",
+              "nombre": "LUCMA",
+              "coordenadas": {
+                "latitud": -7.4500,
+                "longitud": -78.7500
+              }
+            },
+            {
+              "id": "131103",
+              "nombre": "MARMOT",
+              "coordenadas": {
+                "latitud": -7.5500,
+                "longitud": -78.8500
+              }
+            },
+            {
+              "id": "131104",
+              "nombre": "SAYAPULLO",
+              "coordenadas": {
+                "latitud": -7.6000,
+                "longitud": -78.9000
+              }
+            }
+          ]
+        },
+        {
+          "id": "1312",
+          "nombre": "VIRU",
+          "coordenadas": {
+            "latitud": -8.4167,
+            "longitud": -78.7500
+          },
+          "distritos": [
+            {
+              "id": "131201",
+              "nombre": "VIRU",
+              "coordenadas": {
+                "latitud": -8.4167,
+                "longitud": -78.7500
+              }
+            },
+            {
+              "id": "131202",
+              "nombre": "CHAO",
+              "coordenadas": {
+                "latitud": -8.5000,
+                "longitud": -78.8000
+              }
+            },
+            {
+              "id": "131203",
+              "nombre": "GUADALUPITO",
+              "coordenadas": {
+                "latitud": -8.3333,
+                "longitud": -78.7000
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,784 @@
+[
+  {
+    "codigoOsinergmin": "130647",
+    "latitud": -9.931146,
+    "longitud": -76.23951,
+    "unidad": "ESTACION DE SERVICIOS PASTOR SRL",
+    "direccion": "JR. 28 DE JULIO N� 340",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "83561",
+    "latitud": -9.92111,
+    "longitud": -76.2346,
+    "unidad": "ESTACION DE SERVICIOS SE�OR DE BURGOS E.I.R.L.",
+    "direccion": "JR. ALFONSO UGARTE N� 813",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.5
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.2
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "169096",
+    "latitud": -9.9231,
+    "longitud": -76.33834,
+    "unidad": "GRIFO LA PERRICHOLI HUACHIPA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA",
+    "direccion": "CARRETERA HU�NUCO - LA UNI�N KM 11.4 FUNDO PUCANANI",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "16779",
+    "latitud": -9.931983,
+    "longitud": -76.24675,
+    "unidad": "GRIFO IVONNE Y DAYANA SAC",
+    "direccion": "JIRON MAYRO N� 317",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "145473",
+    "latitud": -9.999997,
+    "longitud": -76.0,
+    "unidad": "INVERSIONES Y DISTRIBUCIONES Y SERVICIOS EN GENERAL P  S",
+    "direccion": "JR. PROLONGACION DOS DE MAYO N�103,109,113,119.",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.59
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7418",
+    "latitud": -9.915674,
+    "longitud": -76.236275,
+    "unidad": "ARIAS CALLUPE MEDARDO NOLBERTO",
+    "direccion": "JR. HUALLAYCO N� 2200",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 17.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9543",
+    "latitud": -9.92102,
+    "longitud": -76.2373,
+    "unidad": "ESTACION DE SERVICIO Y GASOCENTRO LA PERRICHOLI S.R.L.",
+    "direccion": "JR. HUALLAYCO N� 1772",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.39
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "17850",
+    "latitud": -9.937461,
+    "longitud": -76.2552,
+    "unidad": "ESTACION DE SERVICIOS GASOCENTRO RAULITO SOCIEDAD ANONIMA CERRADA",
+    "direccion": "JR. VI�A DEL RIO  061",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.9
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "18590",
+    "latitud": -9.937365,
+    "longitud": -76.25167,
+    "unidad": "HIDROCARBUROS PERUANOS DE CALIDAD SRL",
+    "direccion": "CARRETERA HUANUCO - LA UNION N� 353-369-383",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.69
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 16.29
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.29
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "6954",
+    "latitud": -9.93248,
+    "longitud": -76.24109,
+    "unidad": "ESTACION DE SERVICIOS EL TREBOL",
+    "direccion": "AV. 28 DE JULIO N� 306-308",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.7
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.7
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 17.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8292",
+    "latitud": -9.894453,
+    "longitud": -76.221054,
+    "unidad": "HIDROCARBUROS PUERUANOS DE CALIDAD SRL",
+    "direccion": "CARRETERA CENTRAL KM. 5  HUANUCO - TINGO MARIA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8346",
+    "latitud": -9.910149,
+    "longitud": -76.22896,
+    "unidad": "ESTACION DE SERVICIOS PASTOR S.R.LTDA",
+    "direccion": "CARRETERA HUANUCO-TINGO MARIA KM. I.5 URB. LOS PORTALES DE MITOPAMPA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.49
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.49
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "9097",
+    "latitud": -9.94683,
+    "longitud": -76.24228,
+    "unidad": "SERVICENTRO AMARILIS G Y M SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+    "direccion": "AV. ESTEBAN PAVLETICH N� 616 ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "105924",
+    "latitud": -9.895815,
+    "longitud": -76.22227,
+    "unidad": "RICHARD PEDRO MALPARTIDA DOMINGUEZ",
+    "direccion": "CARRETERA HUANUCO TINGO MARIA KM 3.5",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.09
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.29
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "63898",
+    "latitud": -9.93089,
+    "longitud": -76.23389,
+    "unidad": "AQUILES RUFO VERDE SALGADO",
+    "direccion": "CARRETERA CENTRAL HUANUCO - TINGO MARIA KM. 0+500, LLICUA BAJA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.4
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.0
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8569",
+    "latitud": -9.911385,
+    "longitud": -76.22983,
+    "unidad": "SERVICENTRO SAN LUIS SRL",
+    "direccion": "AV. ESTEBAN PAVLETICH N� 632, SECTOR 3 - SAN LUIS",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.19
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "31899",
+    "latitud": -9.916333,
+    "longitud": -76.231636,
+    "unidad": "DELTA LOS PORTALES EIRL",
+    "direccion": "AV. INTER REGIONAL HUANUCO - PUCALLPA N� 1200",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.5
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7296",
+    "latitud": -9.907065,
+    "longitud": -76.22654,
+    "unidad": "GRIFOS DURAND S.A.C.",
+    "direccion": "CARRETERA HUANUCO-TINGOMARIA KM 3.5",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.58
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "17872",
+    "latitud": -9.925813,
+    "longitud": -76.233345,
+    "unidad": "SERVICENTRO AVILA E.I.R.L.",
+    "direccion": "CARRETERA CENTRAL HUANUCO - TINGO MARIA KM 0.5 CENTRO POBLADO DE LLICUA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.49
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.39
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "142634",
+    "latitud": -9.891389,
+    "longitud": -76.216736,
+    "unidad": "GRIFOS ARBI",
+    "direccion": "LOTE E KM. 5 CARRETERA HUANUCO - TINGO MARIA EN EL SECTOR LA ESPERANZA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.3
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "18452",
+    "latitud": -9.921253,
+    "longitud": -76.232376,
+    "unidad": "GRIFO HUANUCO",
+    "direccion": "KM. 1.5 CARRETERA HUANUCO - TINGO MARIA URB. SANTA ELENA II MZ.B LOTE1",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.59
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 13.9
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.22
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "132780",
+    "latitud": -9.817966,
+    "longitud": -76.06737,
+    "unidad": "GASOCENTRO CAMPANA SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+    "direccion": "BQ. VILLASOL, LOTE 12, C.P. VILLASOL",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.39
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.39
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.29
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "141639",
+    "latitud": -9.515509,
+    "longitud": -75.94358,
+    "unidad": "SAN CARLOSS GRIFOS E.I.R.L.",
+    "direccion": "CARRETERA HU�NUCO � TINGO MAR�A KM 93.7, SECTOR HUACHIPA CENTRO POBLADO PUENTE DURAND",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.09
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.29
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "169760",
+    "latitud": -9.836227,
+    "longitud": -76.10802,
+    "unidad": "JOEL SIMEI CRUZ GUTIERREZ ",
+    "direccion": "CARRETERA CENTRAL HUANUCO - TINGO MARIA KM. 23+270 CENTRO POBLADO DE CHULLQUI",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.99
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 12.99
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "41255",
+    "latitud": -9.860559,
+    "longitud": -76.16788,
+    "unidad": "GRIFO LBJ EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA",
+    "direccion": "CARRETERA CENTRAL LIMA - PUCALLPA KM 420.7",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.13
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.36
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7420",
+    "latitud": -9.875764,
+    "longitud": -76.18247,
+    "unidad": "RACING PLUS 38 EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA",
+    "direccion": "CARRETERA CENTRAL HUANUCO - TINGO MARIA KM. 10 ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.1
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.4
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.65
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "131785",
+    "latitud": -9.878273,
+    "longitud": -76.18795,
+    "unidad": "ALCANTARA TINCO OTILIA",
+    "direccion": "CARRETERA CENTRAL HU�NUCO-TINGO MAR�A KM. 11+800 ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.22
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.62
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.8
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "8103",
+    "latitud": -9.97118,
+    "longitud": -76.24315,
+    "unidad": "GASOCENTRO Y GRIFO SAN MIGUEL E.I.R.L.",
+    "direccion": "AV. UNIVERSITARIA N� 3003 � CAYHUAYNA BAJA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 15.2
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "63516",
+    "latitud": -10.002713,
+    "longitud": -76.2391,
+    "unidad": "ESTACION DE SERVICIOS TWALSS E.I.R.L.",
+    "direccion": "PARCELA 107-1 ALTURA KM 400+190 VIA REGIONAL LIMA - PUCALLPA ZONA DE ANDABAMBA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.69
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.28
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "145990",
+    "latitud": -10.033375,
+    "longitud": -76.23321,
+    "unidad": "SANTA ANA GRUPO EMPRESARIAL S.A.C.",
+    "direccion": "REMANENTE II - REMANENTE 2A, PARC. 146 - ZONA PREDIO VICHAYCOTO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.69
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.95
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "138173",
+    "latitud": -9.993555,
+    "longitud": -76.24211,
+    "unidad": "KAI ZUT SOCIEDAD ANONIMA CERRADA",
+    "direccion": "PREDIO YANAC PARCELA 20889",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.69
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "134682",
+    "latitud": -10.022487,
+    "longitud": -76.23344,
+    "unidad": "ESTACION DE SERVICIOS VICHAYCOTO S.C.R.L.",
+    "direccion": "CARRETERA CENTRAL HUANUCO-LIMA, KM 13 PARCELA N� 93, PREDIO VICHAYCOTO",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.49
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.39
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "124109",
+    "latitud": -10.008481,
+    "longitud": -76.23788,
+    "unidad": "PRIMAX DE ANDABAMBA K.M 9.3",
+    "direccion": "VIA REGIONAL HUANUCO � LIMA, KM. 9 + 300 � PARCELA N� 78, C.P.M. ANDABAMBA.",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.89
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.99
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "159409",
+    "latitud": -10.000413,
+    "longitud": -76.24022,
+    "unidad": "ESTACION DE SERVICIOS PASTOR S.R.LTDA.",
+    "direccion": "PARCELA N� 108 PREDIO RURAL ANDABAMBA, FRENTE A LA VIA REGIONAL HUANUCO LIMA KM 7+226",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.49
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.49
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.19
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7111",
+    "latitud": -9.955966,
+    "longitud": -76.24846,
+    "unidad": "COMERCIALIZADORA DE COMBUSTIBLES DELTA EIRL",
+    "direccion": "AV. UNIVERSITARIA N 1510 - CAYHUAYNA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.0
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.1
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.49
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "113852",
+    "latitud": -10.0136175,
+    "longitud": -76.23561,
+    "unidad": "ESTACION DE SERVICIOS MEGAPLUS",
+    "direccion": "PARCELA 58 DEL PREDIO ANDABAMBA",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.7
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.29
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "169019",
+    "latitud": -9.792533,
+    "longitud": -75.99343,
+    "unidad": "CRUZ QUIQUIA ELDER DAVID",
+    "direccion": "VILLA TRANCA S/N",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.7
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.0
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.7
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "39235",
+    "latitud": -9.93786,
+    "longitud": -76.2462,
+    "unidad": "FRANKLIN ADOLFO DURAND SANCHEZ",
+    "direccion": "JR. 2 DE MAYO N� 293 - 297",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.6
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.6
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.96
+      }
+    ]
+  }
+]
