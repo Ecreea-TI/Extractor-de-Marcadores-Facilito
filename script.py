@@ -92,7 +92,7 @@ def process_departments():
     with open('urls-todo-los-departamentos.txt', 'r', encoding='utf-8') as f:
         lines = f.readlines()
     
-    all_data = []
+    all_data = {}  # Cambiado a diccionario para organizar por departamento
     current_department = None
     current_url = None
     
@@ -105,6 +105,7 @@ def process_departments():
             # Es una línea de departamento
             current_department = line.replace(' marcadores', '').strip()
             print(f"\nProcesando departamento: {current_department}")
+            all_data[current_department] = []  # Inicializar lista para el departamento
         elif line.startswith('http'):
             # Es una URL
             current_url = line
@@ -115,13 +116,17 @@ def process_departments():
                     # Guardar archivo individual del departamento
                     filename = f'json_departamentos/{current_department.lower().replace(" ", "_")}.json'
                     save_json_file(department_data, filename)
-                    all_data.extend(department_data)
+                    all_data[current_department].extend(department_data)
                     print(f"Se encontraron {len(department_data)} registros para {current_department}")
     
-    # Guardar archivo general con todos los datos
+    # Guardar archivo general con todos los datos organizados por departamento
     if all_data:
         save_json_file(all_data, 'json_departamentos/todos_los_departamentos.json')
-        print(f"\nTotal de registros en todos los departamentos: {len(all_data)}")
+        total_registros = sum(len(datos) for datos in all_data.values())
+        print(f"\nTotal de registros en todos los departamentos: {total_registros}")
+        print("\nResumen por departamento:")
+        for departamento, datos in all_data.items():
+            print(f"- {departamento}: {len(datos)} registros")
 
 if __name__ == "__main__":
     process_departments()

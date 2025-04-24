@@ -55,7 +55,7 @@ def get_or_create_distrito(cursor, provincia_id, nombre, codigo_ubigeo):
     """, (provincia_id, nombre, codigo_ubigeo))
     return cursor.lastrowid
 
-def process_single_record(connection, item):
+def process_single_record(connection, item, departamento):
     cursor = connection.cursor()
     try:
         print("\nProcesando nuevo registro...")
@@ -64,7 +64,7 @@ def process_single_record(connection, item):
         # Obtener o crear departamento
         departamento_id = get_or_create_departamento(
             cursor, 
-            "LIMA",  # Por ahora asumimos que todos son de Lima
+            departamento,  # Usar el nombre del departamento
             "15"     # Código de Lima
         )
         
@@ -181,32 +181,38 @@ def insert_data():
             with open('json_departamentos/todos_los_departamentos.json', 'r', encoding='utf-8') as file:
                 data = json.load(file)
             
-            total_registros = len(data)
-            print(f"Se encontraron {total_registros} registros para procesar")
+            total_registros = sum(len(registros) for registros in data.values())
+            print(f"Se encontraron {total_registros} registros en total")
+            print(f"Distribuidos en {len(data)} departamentos")
             
-            # Procesar en lotes de 50 registros
-            batch_size = 50
-            total_batches = (total_registros + batch_size - 1) // batch_size
-            
-            for batch_num in range(total_batches):
-                start_idx = batch_num * batch_size
-                end_idx = min((batch_num + 1) * batch_size, total_registros)
-                current_batch = data[start_idx:end_idx]
-                
+            # Procesar por departamento
+            for departamento, registros in data.items():
                 print(f"\n{'='*50}")
-                print(f"Procesando lote {batch_num + 1} de {total_batches} ({len(current_batch)} registros)")
+                print(f"Procesando departamento: {departamento}")
+                print(f"Total de registros en {departamento}: {len(registros)}")
                 
-                for i, item in enumerate(current_batch, 1):
-                    print(f"\nProcesando registro {start_idx + i} de {total_registros}")
-                    if process_single_record(connection, item):
-                        print(f"Registro {start_idx + i} procesado exitosamente")
-                    else:
-                        print(f"Error procesando registro {start_idx + i}")
+                # Procesar en lotes de 50 registros
+                batch_size = 50
+                total_batches = (len(registros) + batch_size - 1) // batch_size
                 
-                print(f"{'='*50}\n")
-                if batch_num < total_batches - 1:  # No esperar después del último lote
-                    print("Esperando 5 segundos antes del siguiente lote...")
-                    time.sleep(5)  # Pausa entre lotes
+                for batch_num in range(total_batches):
+                    start_idx = batch_num * batch_size
+                    end_idx = min((batch_num + 1) * batch_size, len(registros))
+                    current_batch = registros[start_idx:end_idx]
+                    
+                    print(f"\nProcesando lote {batch_num + 1} de {total_batches} ({len(current_batch)} registros)")
+                    
+                    for i, item in enumerate(current_batch, 1):
+                        print(f"\nProcesando registro {start_idx + i} de {len(registros)}")
+                        if process_single_record(connection, item, departamento):
+                            print(f"Registro {start_idx + i} procesado exitosamente")
+                        else:
+                            print(f"Error procesando registro {start_idx + i}")
+                    
+                    print(f"{'='*50}\n")
+                    if batch_num < total_batches - 1:  # No esperar después del último lote
+                        print("Esperando 5 segundos antes del siguiente lote...")
+                        time.sleep(5)  # Pausa entre lotes
             
             print("\nProceso completado exitosamente")
 
