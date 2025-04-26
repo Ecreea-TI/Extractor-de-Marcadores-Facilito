@@ -1,0 +1,92 @@
+{ 
+    "AMAZONAS": {
+        "BAGUA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10200&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140904",
+        "BONGARA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10300&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=88920",
+        "CHACHAPOYAS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10100&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=34082",
+        "CONDORCANQUI":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10400&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=174071",
+        "LUYA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10500&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=127399",
+        "RODRIGUEZ DE MENDOZA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10600&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=178573",
+        "UTCUBAMBA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10700&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=17882"
+    },
+    "ANCASH": {
+        "AIJA":"",
+        "ANTONIO RAYMONDI":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20300&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=155476",
+        "ASUNCION":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20400&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=123523",
+        "BOLOGNESI":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20500&distrito=9999999&producto=40&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=8970",
+        "CARHUAZ":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20600&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=82493",
+        "CARLOS F. FITZCARRALD":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20700&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=127600",
+        "CASMA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20800&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=153756",
+        "CORONGO":"",
+        "HUARAZ":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20100&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=19838",
+        "HUARI":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21000&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140861",
+        "HUARMEY":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21100&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=7108",
+        "HUAYLAS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21200&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=101451",
+        "MARISCAL LUZURIAGA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21300&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=145418",
+        "OCROS":"",
+        "PALLASCA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21500&distrito=9999999&producto=40&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140881",
+        "POMABAMBA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21600&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=123524",
+        "RECUAY":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21700&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=7823",
+        "SANTA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21800&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=114150",
+        "SIHUAS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21900&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=94916",
+        "YUNGAY":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=22000&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=44269"
+    },
+    "APURIMAC": {},
+    "AREQUIPA": {},
+    "AYACUCHO": {},
+    "CAJAMARCA": {
+        "TODOS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=60000&provincia=60100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=135254"
+    },
+    "CUSCO": {
+        "TODOS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=80000&provincia=80100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=37208"
+    },
+    "HUANCAVELICA": {
+        "TODOS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=90000&provincia=90100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=14487"
+    },
+    "HUANUCO": {
+        "TODOS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=100000&provincia=100100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=39235"
+    },
+    "ICA": {
+        "TODOS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=110000&provincia=110100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=94176"
+    },
+    "JUNIN": {
+        "TODOS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=120000&provincia=120100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=37791"
+    },
+    "LA LIBERTAD": {
+        "ASCOPE":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130200&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=15713",
+        "CHEPEN":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130400&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=96159",
+        "GRAN CHIMU":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=131100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=159971",
+        "JULCAN":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130500&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140621",
+        "OTUZCO":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130600&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=34004",
+        "PACASMAYO":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130700&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=132197",
+        "SANCHEZ CARRION":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130900&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=159680",
+        "SANTIAGO DE CHUCO":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=131000&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140595",
+        "TRUJILLO":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140915",
+        "VIRU":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=131200&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=144873"
+    },
+    "LAMBAYEQUE": {
+        "TODOS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=140000&provincia=140100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=120374"
+    },
+    "LIMA": {
+        "BARRANCA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150200&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=178934",
+        "CAJATAMBO":"",
+        "CANTA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150400&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=15847",
+        "CAÑETE":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150500&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=19930",
+        "HUARAL":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150600&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=18870",
+        "HUAROCHIRI":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150700&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=139667",
+        "HUAURA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150800&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=100862",
+        "LIMA":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=84523",
+        "OYON":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150900&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=3432",
+        "YAUYOS":"https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=151000&distrito=9999999&producto=40&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=170717"
+    },
+    "LORETO": {},
+    "MADRE DE DIOS": {},
+    "MOQUEGUA": {},
+    "PASCO": {},
+    "PIURA": {},
+    "PROV. CONST. DEL CALLAO": {},
+    "PUNO": {},
+    "SAN MARTIN": {},
+    "TACNA": {},
+    "TUMBES": {},
+    "UCAYALI": {}
+}

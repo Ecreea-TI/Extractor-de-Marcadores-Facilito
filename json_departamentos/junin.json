@@ -33,7 +33,7 @@
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 15.54
+        "precioVenta": 15.47
       },
       {
         "producto": "Diesel B5 S-50 UV",
@@ -197,15 +197,15 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 15.2
+        "precioVenta": 14.9
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 16.5
+        "precioVenta": 15.9
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 15.9
+        "precioVenta": 15.69
       }
     ]
   },
@@ -352,7 +352,7 @@
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 14.78
+        "precioVenta": 14.57
       }
     ]
   },
@@ -655,11 +655,11 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 14.24
+        "precioVenta": 13.95
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 15.44
+        "precioVenta": 14.95
       },
       {
         "producto": "Diesel B5 S-50 UV",
@@ -773,6 +773,27 @@
     ]
   },
   {
+    "codigoOsinergmin": "135352",
+    "latitud": -12.499049,
+    "longitud": -74.9979,
+    "unidad": "PALOMINO MARTINEZ PEDRO",
+    "direccion": "FERROCARRIL Y JR. TRUJILLO N� 105",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.38
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 17.85
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 16.29
+      }
+    ]
+  },
+  {
     "codigoOsinergmin": "133397",
     "latitud": -12.043916,
     "longitud": -75.218124,
@@ -802,11 +823,11 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 14.24
+        "precioVenta": 13.95
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 15.44
+        "precioVenta": 14.95
       },
       {
         "producto": "Diesel B5 S-50 UV",
@@ -849,6 +870,10 @@
       {
         "producto": "GASOHOL PREMIUM",
         "precioVenta": 15.44
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.94
       }
     ]
   },
@@ -1088,15 +1113,15 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 12.96
+        "precioVenta": 12.89
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 14.26
+        "precioVenta": 14.19
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 13.76
+        "precioVenta": 13.49
       }
     ]
   },
@@ -1159,7 +1184,7 @@
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 13.99
+        "precioVenta": 13.79
       }
     ]
   },
@@ -1180,7 +1205,7 @@
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 14.69
+        "precioVenta": 14.49
       }
     ]
   },
@@ -1298,15 +1323,15 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 14.45
+        "precioVenta": 14.25
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 15.45
+        "precioVenta": 15.25
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 14.75
+        "precioVenta": 14.45
       }
     ]
   },
@@ -1437,7 +1462,7 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 13.55
+        "precioVenta": 13.5
       },
       {
         "producto": "GASOHOL PREMIUM",
@@ -1622,11 +1647,11 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 14.47
+        "precioVenta": 13.87
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 15.07
+        "precioVenta": 14.87
       },
       {
         "producto": "Diesel B5 S-50 UV",
@@ -1693,7 +1718,7 @@
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 14.39
+        "precioVenta": 14.19
       }
     ]
   },
@@ -1824,15 +1849,15 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 14.49
+        "precioVenta": 14.29
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 15.49
+        "precioVenta": 15.29
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 14.79
+        "precioVenta": 14.59
       }
     ]
   },
@@ -1900,11 +1925,11 @@
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 15.55
+        "precioVenta": 15.45
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 14.95
+        "precioVenta": 14.65
       }
     ]
   }

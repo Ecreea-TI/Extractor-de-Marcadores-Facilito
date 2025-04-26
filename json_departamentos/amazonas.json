@@ -1,0 +1,124 @@
+[
+  {
+    "codigoOsinergmin": "159399",
+    "latitud": -5.746635,
+    "longitud": -78.668144,
+    "unidad": "EMPRESA DE SERVICIOS VIVA S.A.C.",
+    "direccion": "CARRETERA FERNANDO BELAUNDE TERRY KM. 198 + 817 - CASER�O SIEMPRE VIVA",
+    "productos": [
+      {
+        "producto": "GASOLINA REGULAR",
+        "precioVenta": 14.5
+      },
+      {
+        "producto": "GASOLINA PREMIUM",
+        "precioVenta": 15.3
+      },
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.3
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.69
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "154882",
+    "latitud": -5.637492,
+    "longitud": -78.56561,
+    "unidad": "GRUPO DELGADO DE LOS R�OS E.I.R.L.",
+    "direccion": "V. EL EJERCITO C-1, SECTOR EL MILAGRO",
+    "productos": [
+      {
+        "producto": "GASOLINA REGULAR",
+        "precioVenta": 15.3
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.4
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "173229",
+    "latitud": -5.927384,
+    "longitud": -78.6665,
+    "unidad": "MULTISERVICIOS AINASHO EIRL",
+    "direccion": "CARRETERA PE-5N G KM 24+100 CORRAL QUEMADO - CUMBA",
+    "productos": [
+      {
+        "producto": "GASOLINA REGULAR",
+        "precioVenta": 16.6
+      },
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 16.5
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.95
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "7371",
+    "latitud": -5.714639,
+    "longitud": -78.4961,
+    "unidad": "ESTACION DE SERVICIOS JR",
+    "direccion": "CASERIO VERSALLA KM. 231 CARRETERA OLMOS - CORRAL QUEMADO",
+    "productos": [
+      {
+        "producto": "GASOLINA REGULAR",
+        "precioVenta": 14.2
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.5
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "132881",
+    "latitud": -5.744004,
+    "longitud": -78.45495,
+    "unidad": "ESTACION DE SERVICIO ANDY E.I.R.L.",
+    "direccion": "CARRETERA FERNANDO BELAUNDE TERRY KM. 226+536 SECTOR MORERILLA",
+    "productos": [
+      {
+        "producto": "GASOLINA REGULAR",
+        "precioVenta": 13.94
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 13.59
+      }
+    ]
+  },
+  {
+    "codigoOsinergmin": "17882",
+    "latitud": -5.74978,
+    "longitud": -78.44964,
+    "unidad": "CRESENCIO BARRIOS CORREA",
+    "direccion": "AV. CHACHAPOYAS N� 1030 (SECTOR GONCHILLO)",
+    "productos": [
+      {
+        "producto": "GASOLINA REGULAR",
+        "precioVenta": 14.0
+      },
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 14.0
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 15.0
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 15.4
+      }
+    ]
+  }
+]

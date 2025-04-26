@@ -129,7 +129,7 @@
     "codigoOsinergmin": "9543",
     "latitud": -9.92102,
     "longitud": -76.2373,
-    "unidad": "ESTACION DE SERVICIO Y GASOCENTRO LA PERRICHOLI S.R.L.",
+    "unidad": "GASOCENTRO LAS MORAS EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA",
     "direccion": "JR. HUALLAYCO N� 1772",
     "productos": [
       {
@@ -651,7 +651,7 @@
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 14.39
+        "precioVenta": 13.79
       }
     ]
   },

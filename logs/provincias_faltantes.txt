@@ -1,0 +1,68 @@
+
+=== AMAZONAS marcadores provincias que incluyen distritos ===
+
+=== ANCASH marcadores provincias que incluyen distritos ===
+Provincia sin datos: AIJA
+Provincia sin datos: CORONGO
+Provincia sin datos: OCROS
+
+=== APURIMAC marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== AREQUIPA marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== AYACUCHO marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== CAJAMARCA marcadores provincias que incluyen distritos ===
+
+=== CUSCO marcadores provincias que incluyen distritos ===
+
+=== HUANCAVELICA marcadores provincias que incluyen distritos ===
+
+=== HUANUCO marcadores provincias que incluyen distritos ===
+
+=== ICA marcadores provincias que incluyen distritos ===
+
+=== JUNIN marcadores provincias que incluyen distritos ===
+
+=== LA LIBERTAD marcadores provincias que incluyen distritos ===
+
+=== LAMBAYEQUE marcadores provincias que incluyen distritos ===
+
+=== LIMA marcadores provincias que incluyen distritos ===
+Provincia sin datos: CAJATAMBO
+
+=== LORETO marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== MADRE DE DIOS marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== MOQUEGUA marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== PASCO marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== PIURA marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== PROV. CONST. DEL CALLAO marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== PUNO marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== SAN MARTIN marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== TACNA marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== TUMBES marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos
+
+=== UCAYALI marcadores provincias que incluyen distritos ===
+¡ADVERTENCIA! Departamento sin datos

@@ -1,60 +1,100 @@
-LIMA marcadores
-https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=84523
+AMAZONAS marcadores provincias que incluyen distritos
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10200&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140904
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10300&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=88920
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10100&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=34082
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10400&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=174071
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10500&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=127399
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10600&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=178573
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=10000&provincia=10700&distrito=9999999&producto=124&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=17882
 
-LA LIBERTAD marcadores
-https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=10915
+ANCASH marcadores provincias que incluyen distritos
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20300&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=155476
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20400&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=123523
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20500&distrito=9999999&producto=40&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=8970
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20600&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=82493
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20700&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=127600
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20800&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=153756
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20100&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=19838
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21000&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140861
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21100&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=7108
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21200&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=101451
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21300&distrito=9999999&producto=127&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=145418
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21500&distrito=9999999&producto=40&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140881
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21600&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=123524
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21700&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=7823
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21800&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=114150
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=21900&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=94916
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=22000&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=44269
 
-ANCASH marcadores
-https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=20000&provincia=20800&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=153756
+APURIMAC marcadores provincias que incluyen distritos
 
-APURIMAC marcadores
-https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=30000&provincia=30100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=100409
+AREQUIPA marcadores provincias que incluyen distritos
 
-AREQUIPA marcadores
-https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=40000&provincia=40100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=7387
+AYACUCHO marcadores provincias que incluyen distritos
 
-AYACUCHO marcadores
-https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=50000&provincia=50500&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=124262
-
-CAJAMARCA marcadores
+CAJAMARCA marcadores provincias que incluyen distritos
 https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=60000&provincia=60100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=135254
 
-CUSCO marcadores
+CUSCO marcadores provincias que incluyen distritos
 https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=80000&provincia=80100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=37208
 
-HUANCAVELICA marcadores
+HUANCAVELICA marcadores provincias que incluyen distritos
 https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=90000&provincia=90100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=14487
 
-HUANUCO marcadores
+HUANUCO marcadores provincias que incluyen distritos
 https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=100000&provincia=100100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=39235
 
-ICA marcadores
+ICA marcadores provincias que incluyen distritos
 https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=110000&provincia=110100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=94176
 
-JUNIN marcadores
+JUNIN marcadores provincias que incluyen distritos
 https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=120000&provincia=120100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=37791
 
-LAMBAYEQUE marcadores
+LA LIBERTAD marcadores provincias que incluyen distritos
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130200&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=15713
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130400&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=96159
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=131100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=159971
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130500&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140621
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130600&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=34004
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130700&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=132197
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130900&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=159680
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=131000&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140595
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=130100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=140915
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=130000&provincia=131200&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=144873
+
+LAMBAYEQUE marcadores provincias que incluyen distritos
 https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=140000&provincia=140100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=120374
 
-LORETO marcadores
+LIMA marcadores provincias que incluyen distritos
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150200&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=178934
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150400&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=15847
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150500&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=19930
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150600&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=18870
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150700&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=139667
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150800&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=100862
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150100&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=84523
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=150900&distrito=9999999&producto=126&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=3432
+https://www.facilito.gob.pe/facilito/actions/MapaAction.do?departamento=150000&provincia=151000&distrito=9999999&producto=40&method=mostrarMapa&subtitulocabecera=1&tipo=LIQ&codigoOSI=170717
 
-MADRE DE DIOS marcadores
+LORETO marcadores provincias que incluyen distritos
 
-MOQUEGUA marcadores
+MADRE DE DIOS marcadores provincias que incluyen distritos
 
-PASCO marcadores
+MOQUEGUA marcadores provincias que incluyen distritos
 
-PIURA marcadores
+PASCO marcadores provincias que incluyen distritos
 
-PROV. CONST. DEL CALLAO marcadores
+PIURA marcadores provincias que incluyen distritos
 
-PUNO marcadores
+PROV. CONST. DEL CALLAO marcadores provincias que incluyen distritos
 
-SAN MARTIN marcadores
+PUNO marcadores provincias que incluyen distritos
 
-TACNA marcadores
+SAN MARTIN marcadores provincias que incluyen distritos
 
-TUMBES marcadores
+TACNA marcadores provincias que incluyen distritos
 
-UCAYALI marcadores
+TUMBES marcadores provincias que incluyen distritos
+
+UCAYALI marcadores provincias que incluyen distritos
+

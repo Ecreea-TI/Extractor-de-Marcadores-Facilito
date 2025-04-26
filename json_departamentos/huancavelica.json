@@ -88,15 +88,15 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 16.2
+        "precioVenta": 15.5
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 17.2
+        "precioVenta": 16.7
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 16.5
+        "precioVenta": 15.9
       }
     ]
   },

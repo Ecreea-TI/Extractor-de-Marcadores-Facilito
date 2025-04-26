@@ -134,15 +134,15 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 14.25
+        "precioVenta": 13.94
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 15.7
+        "precioVenta": 15.34
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 15.15
+        "precioVenta": 14.99
       }
     ]
   },
@@ -197,15 +197,15 @@
     "productos": [
       {
         "producto": "GASOHOL REGULAR",
-        "precioVenta": 13.89
+        "precioVenta": 13.69
       },
       {
         "producto": "GASOHOL PREMIUM",
-        "precioVenta": 14.99
+        "precioVenta": 14.89
       },
       {
         "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 14.89
+        "precioVenta": 14.49
       }
     ]
   },
@@ -504,6 +504,27 @@
     ]
   },
   {
+    "codigoOsinergmin": "120129",
+    "latitud": -14.044939,
+    "longitud": -75.71747,
+    "unidad": "ESTACION DE SERVICIO LA FLORIDA LOS LUNAS S.A.C.",
+    "direccion": "AV. FINLANDIA - LOS LUNAS N� 713 MZ. F LOTE 1 ZONA 6 ",
+    "productos": [
+      {
+        "producto": "GASOHOL REGULAR",
+        "precioVenta": 13.29
+      },
+      {
+        "producto": "GASOHOL PREMIUM",
+        "precioVenta": 14.69
+      },
+      {
+        "producto": "Diesel B5 S-50 UV",
+        "precioVenta": 14.59
+      }
+    ]
+  },
+  {
     "codigoOsinergmin": "135517",
     "latitud": -14.049239,
     "longitud": -75.72191,
@@ -584,27 +605,6 @@
       {
         "producto": "Diesel B5 S-50 UV",
         "precioVenta": 14.69
-      }
-    ]
-  },
-  {
-    "codigoOsinergmin": "45366",
-    "latitud": -14.054891,
-    "longitud": -75.72449,
-    "unidad": "ESTACION FINLANDIA EIRL",
-    "direccion": "ESQ. DE LA AV. SIETE Y LA AV. FINLANDIA, C.P. SAN IDELFONSO, MZ.9 LT.02-A ",
-    "productos": [
-      {
-        "producto": "GASOHOL REGULAR",
-        "precioVenta": 13.29
-      },
-      {
-        "producto": "GASOHOL PREMIUM",
-        "precioVenta": 14.69
-      },
-      {
-        "producto": "Diesel B5 S-50 UV",
-        "precioVenta": 14.59
       }
     ]
   },
